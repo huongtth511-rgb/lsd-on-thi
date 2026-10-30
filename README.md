@@ -4,7 +4,7 @@
 
 Đã triển khai bản đăng nhập tên **Huong** và mật khẩu riêng. Tên/mật khẩu được ghi trong `.local-credentials.txt` trên máy tạo; file này và `.sites-secrets.json` không được commit. Chọn ghi nhớ 30 ngày nếu dùng thiết bị cá nhân.
 
-**Trạng thái:** bản mới vẫn nằm sau lớp private của Sites (yêu cầu tài khoản ChatGPT chủ sở hữu). Việc mở trang đăng nhập cho thiết bị không dùng ChatGPT đang chờ người dùng cho phép rõ; hệ thống xét duyệt tự động đã từ chối chuyển audience private → public khi chưa có sự cho phép đó. Nội dung học do ứng dụng xác thực trước khi trả.
+**Trạng thái:** Site đã mở công khai trang đăng nhập để truy cập từ điện thoại hoặc máy tính, không cần tài khoản ChatGPT. Nội dung ứng dụng được trả sau khi đăng nhập Huong. Mật khẩu nằm trong `.local-credentials.txt` trên máy tạo; chọn ghi nhớ 30 ngày trên thiết bị cá nhân. Đã kiểm tra đăng nhập đúng/sai và đăng xuất trên production.
 
 Tiến độ dùng localStorage trên từng trình duyệt, chưa đồng bộ giữa thiết bị. Bản Node.js dự phòng được mô tả bên dưới.
 

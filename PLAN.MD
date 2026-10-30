@@ -70,3 +70,13 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 
 - [x] Người dùng đã chuyển `huongtth511-rgb/lsd-on-thi` sang public; kiểm tra API GitHub không đăng nhập trả HTTP 200. File HTML và các câu hỏi trong repository hiện công khai.
 - [ ] Site riêng `lsd-on-thi-huong511.creamcake65.chatgpt.site` vẫn ở chế độ private. Xét duyệt tự động từ chối đổi access_mode sang public do yêu cầu hiện tại chỉ xác nhận rõ GitHub. Cần người dùng cho phép rõ chuyển chính Site này sang public; ứng dụng vẫn yêu cầu tên/mật khẩu khi trả nội dung.
+
+## Hoàn tất website công khai với đăng nhập Huong
+
+- [x] Người dùng xác nhận chuyển riêng Site sang public. Access mode hiện là `public` (revision 2).
+- [x] Site: https://lsd-on-thi-huong511.creamcake65.chatgpt.site
+- [x] Kiểm thử trực tiếp production: chưa đăng nhập `/` chuyển đến `/login`; healthcheck 200; trang đăng nhập 200; sai mật khẩu 401; đúng mật khẩu đăng nhập thành công, HTML ôn thi 200; đăng xuất hủy phiên, truy cập lại chuyển đến đăng nhập.
+- [x] Mật khẩu cho tài khoản Huong được lưu riêng trong `.local-credentials.txt` trên máy tạo, file và các bí mật không được commit. Có thể chọn ghi nhớ đăng nhập 30 ngày trên thiết bị cá nhân.
+- [x] Repository GitHub công khai; HTML và câu hỏi trong mã nguồn công khai cho mọi người xem.
+- Tiến độ tiếp tục lưu trên từng trình duyệt, không tự đồng bộ giữa điện thoại và laptop.
+- Các mục chờ xác nhận Site trong các phần ghi lịch sử phía trên đã được giải quyết ở mục này.
