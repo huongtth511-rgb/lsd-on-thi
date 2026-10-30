@@ -38,7 +38,7 @@ export function createHandler({ quizHtml, loginHtml, now = Date.now }) {
       'Cache-Control': 'private, no-store, max-age=0',
       'Content-Type': 'text/html; charset=utf-8',
       'X-Content-Type-Options': 'nosniff', 'X-Frame-Options': 'DENY',
-      'Referrer-Policy': 'no-referrer', 'X-Robots-Tag': 'noindex, nofollow',
+      'Referrer-Policy': 'same-origin', 'X-Robots-Tag': 'noindex, nofollow',
       'Strict-Transport-Security': 'max-age=31536000',
       'Content-Security-Policy': "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'; object-src 'none'",
     });
@@ -77,7 +77,13 @@ export function createHandler({ quizHtml, loginHtml, now = Date.now }) {
       const session = tokenHash ? await env.DB.prepare('SELECT csrf, expires FROM login_sessions WHERE token_hash = ? AND expires > ? AND password_version = ?').bind(tokenHash, time, hash(env.AUTH_PASSWORD_HASH)).first() : null;
       if (request.method === 'GET' && path === '/login') return session ? redirect('/') : login();
       if (request.method === 'POST' && ['/login', '/logout'].includes(path)) {
-        if (request.headers.get('origin') !== origin || request.headers.get('sec-fetch-site') === 'cross-site') return respond('Yêu cầu không hợp lệ.', 403);
+        const requestOrigin = request.headers.get('origin');
+        const fetchSite = request.headers.get('sec-fetch-site');
+        // A previously loaded page with no-referrer can submit Origin: null in iOS
+        // browsers. Accept that only with browser-provided same-origin metadata;
+        // both forms still require their independent CSRF token below.
+        const sameOrigin = requestOrigin === origin || (requestOrigin === 'null' && fetchSite === 'same-origin');
+        if (!sameOrigin || fetchSite === 'cross-site') return respond('Yêu cầu không hợp lệ.', 403);
         const form = await readForm(request);
         if (path === '/logout') {
           if (!session || !equal(session.csrf, form.get('csrf'))) return respond('Phiên không hợp lệ.', 403);

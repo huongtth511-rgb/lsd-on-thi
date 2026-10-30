@@ -80,3 +80,10 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - [x] Repository GitHub công khai; HTML và câu hỏi trong mã nguồn công khai cho mọi người xem.
 - Tiến độ tiếp tục lưu trên từng trình duyệt, không tự đồng bộ giữa điện thoại và laptop.
 - Các mục chờ xác nhận Site trong các phần ghi lịch sử phía trên đã được giải quyết ở mục này.
+
+## Sửa đăng nhập iPhone/Zalo
+
+- Nhật ký production cho thấy POST `/login` từ iPhone trong Zalo bị HTTP 403 với `Origin: null`, `Sec-Fetch-Site: same-origin`. Chính sách `no-referrer` trước đây khiến trình duyệt gửi origin dạng null; máy chủ chỉ chấp nhận origin chính xác.
+- Đổi Referrer-Policy sang `same-origin`. Với trang đăng nhập cũ đang mở, cho phép `Origin: null` duy nhất khi trình duyệt cung cấp `Sec-Fetch-Site: same-origin`; CSRF token độc lập vẫn bắt buộc.
+- 11/11 kiểm thử đạt. Production: kiểm tra mô phỏng yêu cầu iPhone/Zalo đăng nhập, mở nội dung và đăng xuất thành công; cross-site và CSRF giả vẫn bị chặn. Chưa trực tiếp thao tác trên điện thoại của người dùng.
+- Site source commit: c56dadf0bcdb9893de763cc06cda51375e60f1c8. Deployment: appgdep_6ae469dc435081918dbb008dcaff8654.

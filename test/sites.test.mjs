@@ -77,6 +77,29 @@ test('Site: reject forged CSRF, origin, large body and password rotation', async
   db.close();
 });
 
+test('Site: mobile same-origin form with a null Origin can sign in and out', async () => {
+  const { request, db } = fixture();
+  const f = await form(request);
+  const spoof = post(f);
+  spoof.headers.origin = 'null';
+  assert.equal((await request('/login', spoof)).status, 403);
+  spoof.headers['sec-fetch-site'] = 'cross-site';
+  assert.equal((await request('/login', spoof)).status, 403);
+  spoof.headers['sec-fetch-site'] = 'same-origin';
+  const response = await request('/login', spoof);
+  assert.equal(response.status, 303);
+  assert.equal(response.headers.get('referrer-policy'), 'same-origin');
+  const cookie = response.headers.getSetCookie()[0].split(';')[0];
+  const page = await request('/', { headers: { cookie } });
+  const csrf = (await page.text()).match(/name="csrf" value="([^"]+)"/)[1];
+  const logout = post({ cookie, csrf });
+  logout.headers.origin = 'null';
+  logout.headers['sec-fetch-site'] = 'same-origin';
+  assert.equal((await request('/logout', logout)).status, 303);
+  assert.equal((await request('/', { headers: { cookie } })).status, 303);
+  db.close();
+});
+
 test('Site: login rate limit survives handler instances', async () => {
   const { request, db } = fixture();
   const f = await form(request);
