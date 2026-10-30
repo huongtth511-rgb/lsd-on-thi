@@ -1,0 +1,54 @@
+# Kế hoạch triển khai website ôn thi Lịch sử Đảng
+
+Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác, không dùng Railway.
+
+## Kết quả hiện tại
+
+- **Đã triển khai thành công:** https://lsd-on-thi-huong511.creamcake65.chatgpt.site
+- **Hosting:** Sites. Site private, chỉ chủ sở hữu được truy cập.
+- **Đăng nhập:** tài khoản ChatGPT của chủ sở hữu, do nền tảng xác thực trước khi trả trang. Không cần mật khẩu website riêng trên bản đang chạy.
+- **GitHub được chỉ định:** https://github.com/huongtth511-rgb/lsd-on-thi
+- Nội dung HTML gốc được giữ nguyên; bản deploy thêm nút đăng xuất và nhãn không gian học cá nhân.
+- Tiến độ vẫn lưu bằng localStorage, chưa đồng bộ giữa thiết bị/domain/trình duyệt.
+
+## Các bước và trạng thái
+
+- [x] Kiểm tra HTML gốc và nhu cầu một tài khoản cá nhân.
+- [x] Tạo bản Node.js có đăng nhập tên người dùng/mật khẩu, scrypt, cookie phiên, chống CSRF và giới hạn thử mật khẩu.
+- [x] Thêm Docker, cấu hình Railway tham khảo và GitHub Actions.
+- [x] Chạy 7 kiểm thử Node.js: tất cả thành công.
+- [x] Chuyển phương án hosting sang Sites theo yêu cầu mới; Railway không được triển khai.
+- [x] Tạo Site private và lưu định danh trong sites-deploy/.openai/hosting.json.
+- [x] Tạo scripts/build-sites.mjs để chuyển HTML gốc sang bản deploy, thêm đăng xuất nền tảng.
+- [x] Kiểm tra cú pháp toàn bộ script inline của bản deploy.
+- [x] Commit/push mã nguồn sang repository của Sites và đóng gói đúng commit.
+- [x] Publish Site; nền tảng trả trạng thái succeeded cùng URL HTTPS.
+- [x] Khởi tạo Git local, nhánh main, cấu hình origin tới repository GitHub được chỉ định.
+- [ ] Commit/push bản nguồn chính lên GitHub và xác minh remote.
+
+## Xác minh và giới hạn
+
+- Bản Node.js: 7/7 kiểm thử đạt, gồm chặn tải HTML/file nhạy cảm, đăng nhập đúng/sai, cookie giả, đăng xuất, CSRF, body quá lớn, production HTTPS, hết hạn phiên và giới hạn thử mật khẩu.
+- Bản Sites: script inline hợp lệ; đóng gói thành công; deployment succeeded.
+- Lớp xác thực của bản Sites do nền tảng quản lý, không dùng bộ session Node.js. Bộ kiểm thử Node.js không thay thế kiểm thử đăng nhập ChatGPT thực tế.
+- Chưa kiểm thử tương tác trình duyệt toàn bộ luồng học/đăng nhập trên website; browser access host không khả dụng ở bước kiểm tra ban đầu.
+- Không tạo .env hay mật khẩu local vì bản Sites dùng tài khoản ChatGPT.
+- GitHub lưu mã nguồn chính. Sites có repository riêng để xuất bản; push GitHub không tự deploy Sites.
+- Giữ các file Node.js/Docker/Railway làm phương án tham khảo cho hosting Node.js khác; không có tài nguyên Railway được tạo.
+
+## Thông tin triển khai để tiếp tục bảo trì
+
+- project_id: appgprj_6ae458b857808191853ff9c349cda1ff
+- deployment_id: appgdep_6ae459eb2f78819181a9b17b56b8100c
+- version_id: appgprj_6ae458b857808191853ff9c349cda1ff~appgver_517ade97e0f08191a8de94e86f55d2b1
+- Commit nguồn Sites: ca6d573b16822b32fc9d8defe15d9f21c631c8e2
+- Checkout: sites-deploy/ (Git độc lập, không đưa Git lồng nhau vào repository chính).
+- Bản đóng gói: sites-deploy.tar.gz (không đưa lên repository chính).
+
+## Cập nhật website
+
+1. Sửa HTML gốc trong workspace.
+2. Chạy node scripts/build-sites.mjs.
+3. Dùng workflow Sites với đúng project_id để commit/push/đóng gói và deploy bản mới, giữ quyền owner-private.
+4. Chỉ báo hoàn tất khi deployment trả succeeded; ghi URL và commit mới vào PLAN.MD.
+5. Đồng bộ mã nguồn chính lên GitHub riêng.

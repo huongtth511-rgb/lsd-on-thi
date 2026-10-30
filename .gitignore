@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.local-credentials.txt
+node_modules/
+.DS_Store
+coverage/
+*.log
+.railway/
+.tools/
+sites-deploy/
+sites-deploy.tar.gz
