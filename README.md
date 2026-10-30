@@ -1,18 +1,20 @@
 # Lịch sử Đảng — Ôn thi cá nhân
 
-**Website đang chạy:** https://lsd-on-thi-huong511.creamcake65.chatgpt.site
+**Website:** https://lsd-on-thi-huong511.creamcake65.chatgpt.site
 
-Bản online được triển khai bằng **Sites**, không dùng Railway. Đăng nhập bằng tài khoản ChatGPT của chủ sở hữu; Site ở chế độ private. Nội dung ôn thi giữ nguyên, có nút đăng xuất. Tiến độ lưu trên trình duyệt, không đồng bộ thiết bị.
+Đã triển khai bản đăng nhập tên **Huong** và mật khẩu riêng. Tên/mật khẩu được ghi trong `.local-credentials.txt` trên máy tạo; file này và `.sites-secrets.json` không được commit. Chọn ghi nhớ 30 ngày nếu dùng thiết bị cá nhân.
 
-**Nếu gặp 403:** tài khoản ChatGPT trong trình duyệt phải trùng tài khoản sở hữu Site trong phiên Codex đã triển khai. Đã quan sát trường hợp Chrome đăng nhập tài khoản khác nên bị chặn. Đăng xuất khỏi Site và đăng nhập đúng tài khoản chủ sở hữu. Quyền private không tự cho phép mọi tài khoản ChatGPT truy cập.
+**Trạng thái:** bản mới vẫn nằm sau lớp private của Sites (yêu cầu tài khoản ChatGPT chủ sở hữu). Việc mở trang đăng nhập cho thiết bị không dùng ChatGPT đang chờ người dùng cho phép rõ; hệ thống xét duyệt tự động đã từ chối chuyển audience private → public khi chưa có sự cho phép đó. Nội dung học do ứng dụng xác thực trước khi trả.
 
-Repository được chỉ định: https://github.com/huongtth511-rgb/lsd-on-thi. Trạng thái đồng bộ ghi trong PLAN.MD.
+Tiến độ dùng localStorage trên từng trình duyệt, chưa đồng bộ giữa thiết bị. Bản Node.js dự phòng được mô tả bên dưới.
+
+Nguồn GitHub: https://github.com/huongtth511-rgb/lsd-on-thi. Nguồn Sites và GitHub là hai repository riêng; push GitHub không tự deploy Sites.
 
 ## Cập nhật bản Sites
 
-Chạy `node scripts/build-sites.mjs` để tạo `sites-deploy/dist/index.html`, sau đó xuất bản qua workflow Sites với project ID đã lưu trong `sites-deploy/.openai/hosting.json`. Repository của Sites độc lập với GitHub; push GitHub không tự deploy Site. Phải giữ quyền truy cập private.
+Giữ Site ID và cơ sở dữ liệu D1. Mã triển khai nằm tại `sites-app/`, HTML và màn hình đăng nhập gốc ở root. Chạy `node scripts/build-sites.mjs` để đưa các tệp vào checkout `sites-deploy/`; dùng workflow Sites để build, đóng gói và deploy commit chính xác. Không ghi secrets vào source hay Git. Các migration trong `sites-app/drizzle/` được lưu để theo dõi schema, tránh tạo lại hoặc sửa migration đã áp dụng.
 
-Các phần dưới mô tả **bản Node.js dự phòng**, dùng tài khoản admin/mật khẩu riêng khi tự host. Bản Sites đang chạy không cần thực hiện các bước này.
+Các phần dưới mô tả **bản Node.js dự phòng**, không phải bản Sites đang chạy.
 
 ## Chạy trên máy
 

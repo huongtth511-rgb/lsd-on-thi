@@ -53,3 +53,15 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 3. Dùng workflow Sites với đúng project_id để commit/push/đóng gói và deploy bản mới, giữ quyền owner-private.
 4. Chỉ báo hoàn tất khi deployment trả succeeded; ghi URL và commit mới vào PLAN.MD.
 5. Đồng bộ mã nguồn chính lên GitHub riêng.
+
+## Yêu cầu mới: đăng nhập Huong trên nhiều thiết bị — 30/10/2026
+
+- [x] Tạo ứng dụng đăng nhập trên máy chủ cho tài khoản `Huong`, mật khẩu ngẫu nhiên mạnh trong `.local-credentials.txt` (không commit).
+- [x] Dùng D1 lưu phiên; tùy chọn ghi nhớ 30 ngày, đăng xuất thu hồi phiên; kiểm tra Origin/CSRF và giới hạn thử mật khẩu.
+- [x] Chạy 10/10 kiểm thử thành công; kiểm thử Worker thực tế với D1 local, đăng nhập, tải nội dung và đăng xuất thành công. Kiểm tra bundle client không chứa ngân hàng câu hỏi.
+- [x] Cấu hình biến bí mật trong Sites và triển khai bản mới thành công dưới lớp private của Sites.
+- [ ] Chuyển lớp truy cập Sites để trang đăng nhập có thể được mở từ thiết bị không đăng nhập ChatGPT. Hệ thống xét duyệt tự động đã từ chối thay đổi private → public: cần người dùng cho phép rõ việc công khai trang đăng nhập; có rủi ro lộ nội dung nếu xác thực ứng dụng bị lỗi.
+- [ ] Sau khi được phép: xác minh truy cập HTTPS chưa đăng nhập không trả câu hỏi, đăng nhập đúng/sai, đăng xuất và kiểm tra trải nghiệm trên điện thoại/laptop. Không bỏ qua lớp xác thực ứng dụng.
+- Tiến độ hiện lưu trên từng trình duyệt, chưa đồng bộ thiết bị.
+- Site hiện vẫn yêu cầu tài khoản ChatGPT chủ sở hữu trước khi hiện form Huong. Không mô tả là đã hoàn tất truy cập độc lập.
+- Site source commit: 30346f9f766b7aa58c4799d70b348e62d0212df7; deployment: appgdep_6ae4664f6fd48191be8c00d74a61fe65.

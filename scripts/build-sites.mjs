@@ -1,16 +1,28 @@
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, copyFileSync, cpSync } from 'node:fs';
 import { Script } from 'node:vm';
 
 const root = new URL('../', import.meta.url);
+const target = new URL('sites-deploy/', root);
 const source = readFileSync(new URL('lich_su_dang_on_thi_tuong_tac_2026.html', root), 'utf8');
-const logout = '<a class="navbtn" style="text-decoration:none" href="/signout-with-chatgpt?return_to=%2F" target="_top"><span class="navicon" aria-hidden="true">↪</span>Đăng xuất</a>';
-const html = source.replace('</aside>', `${logout}</aside>`)
-  .replace('Chạy ngoại tuyến 100%', 'Không gian học cá nhân')
-  .replace('</head>', '<meta name="robots" content="noindex,nofollow"></head>')
-  .replace('</body>', "<script>window.addEventListener('pageshow',function(e){if(e.persisted)location.reload()});</script></body>");
-for (const [, script] of html.matchAll(/<script\b[^>]*>([\s\S]*?)<\/script>/gi)) new Script(script);
-if (!html.includes(logout) || !html.includes('const SETS=')) throw new Error('Nội dung deploy không hợp lệ');
-const out = new URL('sites-deploy/dist/', root);
-mkdirSync(out, { recursive: true });
-writeFileSync(new URL('index.html', out), html);
-console.log('Đã chuẩn bị và kiểm tra HTML cho Sites. Xác thực do lớp truy cập private của Sites quản lý.');
+for (const [, script] of source.matchAll(/<script\b[^>]*>([\s\S]*?)<\/script>/gi)) new Script(script);
+for (const dir of ['lib/study/', 'app/[[...path]]/', 'db/']) mkdirSync(new URL(dir, target), { recursive: true });
+writeFileSync(new URL('lib/study/quiz.html', target), source);
+let login = readFileSync(new URL('login.html', root), 'utf8');
+login = login.replace('autocomplete="username"', 'autocomplete="username" value="Huong"');
+login = login.replace('<button type="submit">', '<label style="display:flex;align-items:center;gap:10px;font-weight:400"><input type="checkbox" name="remember" style="width:18px;height:18px">Ghi nhớ đăng nhập 30 ngày trên thiết bị này</label><button type="submit">');
+writeFileSync(new URL('lib/study/login.html', target), login);
+copyFileSync(new URL('auth.mjs', root), new URL('lib/auth.mjs', target));
+copyFileSync(new URL('sites-app/handler.mjs', root), new URL('lib/study/handler.mjs', target));
+copyFileSync(new URL('sites-app/schema.ts', root), new URL('db/schema.ts', target));
+cpSync(new URL('sites-app/drizzle/', root), new URL('drizzle/', target), { recursive: true });
+writeFileSync(new URL('app/[[...path]]/route.ts', target), `import { env } from 'cloudflare:workers';
+import { createHandler } from '../../lib/study/handler.mjs';
+import quizHtml from '../../lib/study/quiz.html?raw';
+import loginHtml from '../../lib/study/login.html?raw';
+export const dynamic = 'force-dynamic';
+const handle = createHandler({ quizHtml, loginHtml });
+export function GET(request: Request) { return handle(request, env); }
+export function POST(request: Request) { return handle(request, env); }
+export function HEAD(request: Request) { return handle(request, env); }
+`);
+console.log('Đã chuẩn bị ứng dụng Sites với xác thực máy chủ. Không tạo HTML ôn thi trong thư mục public.');
