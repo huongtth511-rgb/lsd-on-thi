@@ -24,14 +24,15 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - [x] Commit/push mã nguồn sang repository của Sites và đóng gói đúng commit.
 - [x] Publish Site; nền tảng trả trạng thái succeeded cùng URL HTTPS.
 - [x] Khởi tạo Git local, nhánh main, cấu hình origin tới repository GitHub được chỉ định.
-- [ ] Commit/push bản nguồn chính lên GitHub và xác minh remote.
+- [x] Commit/push bản nguồn chính lên GitHub và xác minh remote (commit triển khai ban đầu: 5ff4b95b75e353d2cb18c5e7256d4aada27e3c72).
 
 ## Xác minh và giới hạn
 
 - Bản Node.js: 7/7 kiểm thử đạt, gồm chặn tải HTML/file nhạy cảm, đăng nhập đúng/sai, cookie giả, đăng xuất, CSRF, body quá lớn, production HTTPS, hết hạn phiên và giới hạn thử mật khẩu.
 - Bản Sites: script inline hợp lệ; đóng gói thành công; deployment succeeded.
 - Lớp xác thực của bản Sites do nền tảng quản lý, không dùng bộ session Node.js. Bộ kiểm thử Node.js không thay thế kiểm thử đăng nhập ChatGPT thực tế.
-- Chưa kiểm thử tương tác trình duyệt toàn bộ luồng học/đăng nhập trên website; browser access host không khả dụng ở bước kiểm tra ban đầu.
+- Kiểm tra Chrome qua giao diện native cho thấy 403: tài khoản đang đăng nhập trong Chrome khác tài khoản chủ sở hữu Site trong phiên Codex này. Lớp bảo vệ riêng tư đã chặn truy cập. Cần đăng nhập đúng tài khoản ChatGPT sở hữu Site để sử dụng; chưa kiểm thử luồng học sau đăng nhập của chủ sở hữu.
+- Không tự đổi quyền Site thành public hoặc cấp quyền cho tài khoản khác. Site đã deploy nhưng truy cập bằng tài khoản hiện tại trên Chrome còn vướng khác tài khoản.
 - Không tạo .env hay mật khẩu local vì bản Sites dùng tài khoản ChatGPT.
 - GitHub lưu mã nguồn chính. Sites có repository riêng để xuất bản; push GitHub không tự deploy Sites.
 - Giữ các file Node.js/Docker/Railway làm phương án tham khảo cho hosting Node.js khác; không có tài nguyên Railway được tạo.

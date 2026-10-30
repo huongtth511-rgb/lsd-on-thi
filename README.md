@@ -4,6 +4,8 @@
 
 Bản online được triển khai bằng **Sites**, không dùng Railway. Đăng nhập bằng tài khoản ChatGPT của chủ sở hữu; Site ở chế độ private. Nội dung ôn thi giữ nguyên, có nút đăng xuất. Tiến độ lưu trên trình duyệt, không đồng bộ thiết bị.
 
+**Nếu gặp 403:** tài khoản ChatGPT trong trình duyệt phải trùng tài khoản sở hữu Site trong phiên Codex đã triển khai. Đã quan sát trường hợp Chrome đăng nhập tài khoản khác nên bị chặn. Đăng xuất khỏi Site và đăng nhập đúng tài khoản chủ sở hữu. Quyền private không tự cho phép mọi tài khoản ChatGPT truy cập.
+
 Repository được chỉ định: https://github.com/huongtth511-rgb/lsd-on-thi. Trạng thái đồng bộ ghi trong PLAN.MD.
 
 ## Cập nhật bản Sites
