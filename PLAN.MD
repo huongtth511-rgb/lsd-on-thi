@@ -65,3 +65,8 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - Tiến độ hiện lưu trên từng trình duyệt, chưa đồng bộ thiết bị.
 - Site hiện vẫn yêu cầu tài khoản ChatGPT chủ sở hữu trước khi hiện form Huong. Không mô tả là đã hoàn tất truy cập độc lập.
 - Site source commit: 30346f9f766b7aa58c4799d70b348e62d0212df7; deployment: appgdep_6ae4664f6fd48191be8c00d74a61fe65.
+
+## Cập nhật GitHub public
+
+- [x] Người dùng đã chuyển `huongtth511-rgb/lsd-on-thi` sang public; kiểm tra API GitHub không đăng nhập trả HTTP 200. File HTML và các câu hỏi trong repository hiện công khai.
+- [ ] Site riêng `lsd-on-thi-huong511.creamcake65.chatgpt.site` vẫn ở chế độ private. Xét duyệt tự động từ chối đổi access_mode sang public do yêu cầu hiện tại chỉ xác nhận rõ GitHub. Cần người dùng cho phép rõ chuyển chính Site này sang public; ứng dụng vẫn yêu cầu tên/mật khẩu khi trả nội dung.

@@ -8,7 +8,7 @@
 
 Tiến độ dùng localStorage trên từng trình duyệt, chưa đồng bộ giữa thiết bị. Bản Node.js dự phòng được mô tả bên dưới.
 
-Nguồn GitHub: https://github.com/huongtth511-rgb/lsd-on-thi. Nguồn Sites và GitHub là hai repository riêng; push GitHub không tự deploy Sites.
+Nguồn GitHub công khai: https://github.com/huongtth511-rgb/lsd-on-thi. File HTML và câu hỏi trong repository có thể được mọi người xem. Nguồn Sites và GitHub là hai repository riêng; push GitHub không tự deploy Sites.
 
 ## Cập nhật bản Sites
 
