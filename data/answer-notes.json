@@ -2565,5 +2565,394 @@
     "issue": "Đề cần làm rõ nội dung trích dẫn",
     "explanation": "Cương lĩnh nêu thâu sản nghiệp lớn của tư bản đế quốc Pháp, thâu ruộng đế quốc và bỏ sưu thuế cho dân cày nghèo. A dùng cụm toàn bộ sản nghiệp lớn của đế quốc rộng hơn nguyên văn, còn C đổi cách gọi sưu thuế; cần sửa đề để đối chiếu chính xác.",
     "book_pages": "65"
+  },
+  "s5-i46": {
+    "explanation": "Sau chiến tranh, Liên Xô lớn mạnh là thuận lợi quốc tế; các lựa chọn còn lại là thuận lợi trong nước.",
+    "book_pages": "128–129"
+  },
+  "s5-i47": {
+    "explanation": "Kinh tế sau Cách mạng Tháng Tám kiệt quệ: công nghiệp đình đốn, nông nghiệp hoang hóa và ngân khố trống rỗng.",
+    "book_pages": "130"
+  },
+  "s5-i48": {
+    "explanation": "Chỉ thị xác định thực dân Pháp là kẻ thù chính, mục tiêu dân tộc giải phóng và khẩu hiệu Dân tộc trên hết, Tổ quốc trên hết.",
+    "book_pages": "131–132"
+  },
+  "s5-i51": {
+    "explanation": "Chỉ thị Kháng chiến kiến quốc xác định mục tiêu cách mạng vẫn là dân tộc giải phóng.",
+    "book_pages": "131"
+  },
+  "s5-i52": {
+    "explanation": "Việt Bắc là căn cứ địa kháng chiến, nơi đặt các cơ quan lãnh đạo và chiến khu quan trọng.",
+    "book_pages": "144, 154"
+  },
+  "s5-i53": {
+    "explanation": "Rạng sáng 23/9/1945 quân Pháp đánh chiếm Sài Gòn – Chợ Lớn, mở đầu cuộc chiến tranh xâm lược lần thứ hai.",
+    "book_pages": "130"
+  },
+  "s5-i54": {
+    "explanation": "Dựa vào sức mình là chính nghĩa là lấy nội lực dân tộc làm chỗ dựa chủ yếu, đồng thời tranh thủ giúp đỡ quốc tế.",
+    "book_pages": "150–151"
+  },
+  "s5-i55": {
+    "explanation": "Pháp bội ước, liên tục lấn tới và gửi tối hậu thư; Việt Nam buộc phải kháng chiến để bảo vệ độc lập.",
+    "book_pages": "146–147"
+  },
+  "s5-i57": {
+    "explanation": "Mỗi người dân tham gia chiến đấu, mỗi làng xã là pháo đài thể hiện phương châm kháng chiến toàn dân.",
+    "book_pages": "149–150"
+  },
+  "s5-i58": {
+    "explanation": "Lời kêu gọi viết: chúng ta muốn hòa bình nên phải nhân nhượng, nhưng Pháp vẫn tiếp tục lấn tới.",
+    "book_pages": "147"
+  },
+  "s5-i61": {
+    "explanation": "Hiệp định Giơnevơ được ký kết tháng 7/1954 tại Giơnevơ, Thụy Sĩ; mốc của đề là ngày 21/7.",
+    "book_pages": "175–176"
+  },
+  "s5-i62": {
+    "explanation": "Hiệp định ghi nhận quyền dân tộc cơ bản và chấm dứt chiến tranh ở Đông Dương, không duy trì sự bảo hộ của Pháp.",
+    "book_pages": "175–176"
+  },
+  "s5-i64": {
+    "explanation": "Sau năm 1954 đất nước tạm chia làm hai miền, với hai chế độ chính trị – xã hội khác nhau.",
+    "book_pages": "186–187"
+  },
+  "s5-i65": {
+    "explanation": "Chiến thắng Điện Biên Phủ và Hiệp định Giơnevơ kết thúc cuộc kháng chiến chống Pháp kéo dài chín năm; Pháp rút quân theo thỏa thuận.",
+    "book_pages": "175–176"
+  },
+  "s5-i66": {
+    "explanation": "Nghị quyết 15 chủ trương dùng sức mạnh quần chúng, dựa chủ yếu vào lực lượng chính trị, kết hợp lực lượng vũ trang.",
+    "book_pages": "190–191"
+  },
+  "s5-i68": {
+    "explanation": "Nghị quyết 15 xác định tiếp tục cách mạng dân tộc dân chủ nhân dân ở miền Nam để giải phóng miền Nam, thống nhất đất nước.",
+    "book_pages": "190–191"
+  },
+  "s5-i69": {
+    "explanation": "Việc Pháp công nhận Việt Nam là quốc gia tự do trong Liên hiệp Pháp thuộc Hiệp định Sơ bộ 1946, không phải nội dung Giơnevơ 1954.",
+    "book_pages": "140–141, 175–176"
+  },
+  "s5-i70": {
+    "explanation": "Hệ thống xã hội chủ nghĩa lớn mạnh và miền Bắc được giải phóng là thuận lợi, không phải khó khăn sau năm 1954.",
+    "book_pages": "182–187"
+  },
+  "s5-i71": {
+    "explanation": "Nghị quyết 15 kết hợp đấu tranh chính trị với lực lượng và đấu tranh vũ trang để giành chính quyền.",
+    "book_pages": "190–191"
+  },
+  "s5-i72": {
+    "explanation": "Đại hội III đề ra hai nhiệm vụ cách mạng ở hai miền; vấn đề thổ địa là cái cốt thuộc Luận cương 1930.",
+    "book_pages": "76, 193–195"
+  },
+  "s5-i73": {
+    "explanation": "Cách mạng xã hội chủ nghĩa miền Bắc giữ vai trò quyết định nhất đối với cách mạng cả nước và sự nghiệp thống nhất.",
+    "book_pages": "194–195"
+  },
+  "s5-i74": {
+    "explanation": "Đại hội III xác định hai nhiệm vụ ở hai miền cùng hướng tới hòa bình, thống nhất nước nhà.",
+    "book_pages": "193–195"
+  },
+  "s5-i75": {
+    "explanation": "Miền Bắc xây dựng tiềm lực xã hội chủ nghĩa, củng cố căn cứ địa và hậu thuẫn cuộc đấu tranh giải phóng miền Nam.",
+    "book_pages": "194–195"
+  },
+  "s5-i76": {
+    "explanation": "Nghị quyết Trung ương 15 tháng 1/1959 mở đường cho cách mạng miền Nam phát triển thế tiến công, tiến tới Đồng khởi.",
+    "book_pages": "190–191"
+  },
+  "s5-i78": {
+    "explanation": "Hội nghị Trung ương năm 1965 xác định phương châm đánh lâu dài, dựa vào sức mình là chính, đồng thời tranh thủ thời cơ.",
+    "book_pages": "206–208"
+  },
+  "s5-i79": {
+    "explanation": "Miền Bắc kết hợp xây dựng kinh tế, quốc phòng và làm hậu phương chi viện miền Nam chống Mỹ.",
+    "book_pages": "207–208"
+  },
+  "s5-i80": {
+    "explanation": "Đường lối 1965 xác định hai miền phối hợp kháng chiến; không chủ trương tiến hành cải cách ruộng đất trên cả nước trong thời điểm đó.",
+    "book_pages": "206–208"
+  },
+  "s5-i81": {
+    "explanation": "Mục tiêu chung là đánh thắng chiến tranh xâm lược, giải phóng miền Nam và tiến tới hòa bình, thống nhất nước nhà.",
+    "book_pages": "206–208"
+  },
+  "s5-i82": {
+    "explanation": "Độc lập chính trị, nhân nhượng kinh tế là sách lược với Pháp giai đoạn 1945–1946, không phải tư tưởng chỉ đạo miền Nam năm 1965.",
+    "book_pages": "132, 206–208"
+  },
+  "s5-i83": {
+    "explanation": "Hai nhiệm vụ miền Bắc xây dựng chủ nghĩa xã hội, miền Nam đấu tranh giải phóng gắn bó và hỗ trợ nhau.",
+    "book_pages": "194–195, 207–208"
+  },
+  "s5-i84": {
+    "explanation": "Trung ương 11 tháng 3/1965 và Trung ương 12 tháng 12/1965 nêu quyết tâm đánh thắng giặc Mỹ trên cả nước.",
+    "book_pages": "206–208"
+  },
+  "s5-i49": {
+    "answer": "A",
+    "explanation": "Trong Tuyên ngôn Độc lập, hai cụm cần điền đều theo thứ tự “tự do và độc lập”; đáp án gốc C đảo ngược thứ tự.",
+    "book_pages": "118"
+  },
+  "s5-i50": {
+    "issue": "Đề thiếu phương án đúng",
+    "explanation": "Lời kêu gọi được viết ngày 19/12/1946 và Đài Tiếng nói Việt Nam phát sáng 20/12/1946. Đề hỏi thời điểm phát nhưng chỉ có lựa chọn đến ngày 19/12.",
+    "book_pages": "147–148",
+    "source": "https://baotanglichsu.vn/vi/Articles/1001/13640/gioi-thieu-bao-vat-quoc-gia-10-ban-thao-loi-keu-goi-toan-quoc-khang-chien.html"
+  },
+  "s5-i60": {
+    "issue": "Cần phân biệt thời điểm bắt và kết thúc chiến dịch",
+    "explanation": "Khoảng 17 giờ 30 ngày 7/5/1954 tướng Đờ Cát bị bắt tại sở chỉ huy; cụm quân Pháp ở Hồng Cúm còn chiến đấu đến sáng 8/5. Hỏi lúc chiến dịch kết thúc mà chỉ nêu giờ là chưa rõ.",
+    "book_pages": "172–173",
+    "source": "https://nhandan.vn/dau-an-cua-su-doan-304-trong-chien-dich-ien-bien-phu-post201396.html"
+  },
+  "s5-i77": {
+    "issue": "Không có phương án ghi đúng ngày",
+    "explanation": "Đường lối được hình thành qua Hội nghị Trung ương 11 tháng 3/1965 và Trung ương 12 tháng 12/1965; B và C đều ghi tháng 1/1965, vì vậy D cũng không chính xác.",
+    "book_pages": "206–208"
+  },
+  "s5-i86": {
+    "explanation": "Sau chiến tranh đặc biệt, Mỹ chuyển sang chiến tranh cục bộ và đưa quân chiến đấu Mỹ, đồng minh trực tiếp tham chiến.",
+    "book_pages": "204–205"
+  },
+  "s5-i87": {
+    "explanation": "Đường lối năm 1965 nhấn mạnh xây dựng kinh tế, quốc phòng và chi viện miền Nam; cách gọi công nghiệp hóa, hiện đại hóa thuộc giai đoạn sau.",
+    "book_pages": "206–208"
+  },
+  "s5-i88": {
+    "explanation": "Điều 1 Hiệp định Pari 1973 ghi nhận các quyền độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ Việt Nam.",
+    "book_pages": "228"
+  },
+  "s5-i89": {
+    "explanation": "Hiệp định Pari nêu các quyền dân tộc cơ bản theo thứ tự độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ.",
+    "book_pages": "228"
+  },
+  "s5-i92": {
+    "explanation": "Điều 1 Hiệp định Pari mở đầu bằng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ.",
+    "book_pages": "228"
+  },
+  "s5-i93": {
+    "explanation": "Đại hội VI diễn ra tại Hà Nội từ ngày 15 đến ngày 18/12/1986.",
+    "book_pages": "260–261"
+  },
+  "s5-i94": {
+    "explanation": "Đại hội VI chủ trương đổi mới cơ chế quản lý, xóa bỏ tập trung quan liêu bao cấp và chuyển sang hạch toán kinh doanh.",
+    "book_pages": "262"
+  },
+  "s5-i95": {
+    "explanation": "Mục tiêu tổng quát gồm sản xuất đủ tiêu dùng, có tích lũy và bước đầu tạo cơ cấu kinh tế hợp lý.",
+    "book_pages": "262"
+  },
+  "s5-i97": {
+    "explanation": "Đại hội VI thực hiện nhất quán chính sách phát triển nhiều thành phần kinh tế.",
+    "book_pages": "262"
+  },
+  "s5-i99": {
+    "explanation": "Đại hội VII thông qua Cương lĩnh năm 1991 và Chiến lược ổn định, phát triển kinh tế – xã hội đến năm 2000.",
+    "book_pages": "272"
+  },
+  "s5-i100": {
+    "explanation": "Cương lĩnh năm 1991 khái quát sáu đặc trưng của xã hội xã hội chủ nghĩa.",
+    "book_pages": "273"
+  },
+  "s5-i104": {
+    "explanation": "Cương lĩnh 1991 nêu các dân tộc trong nước bình đẳng, đoàn kết và giúp đỡ nhau cùng tiến bộ.",
+    "book_pages": "273"
+  },
+  "s5-i106": {
+    "explanation": "Xây dựng văn hóa hướng tới hạnh phúc và sự phát triển phong phú, tự do, toàn diện của con người.",
+    "book_pages": "294"
+  },
+  "s5-i107": {
+    "explanation": "Đại hội VIII coi phát huy nguồn lực con người là yếu tố cơ bản cho phát triển nhanh và bền vững.",
+    "book_pages": "287"
+  },
+  "s5-i109": {
+    "explanation": "Nghị quyết nêu nền văn hóa Việt Nam thống nhất trong đa dạng của cộng đồng các dân tộc.",
+    "book_pages": "295"
+  },
+  "s5-i110": {
+    "explanation": "Năm 1991, sau hơn bốn năm đổi mới, đất nước cơ bản ổn định nhưng chưa ra khỏi khủng hoảng kinh tế – xã hội.",
+    "book_pages": "272"
+  },
+  "s5-i111": {
+    "explanation": "Nhà nước pháp quyền xã hội chủ nghĩa là của nhân dân, do nhân dân, vì nhân dân, không phải quyền lực riêng của một cá nhân.",
+    "book_pages": "339"
+  },
+  "s5-i113": {
+    "explanation": "Cương lĩnh 2011 xác định các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển.",
+    "book_pages": "339"
+  },
+  "s5-i114": {
+    "explanation": "Đại hội VIII nêu sáu quan điểm về công nghiệp hóa, hiện đại hóa.",
+    "book_pages": "287"
+  },
+  "s5-i116": {
+    "explanation": "Cương lĩnh 2011 xác định kinh tế nhà nước giữ vai trò chủ đạo trong nền kinh tế nhiều thành phần.",
+    "book_pages": "341–342"
+  },
+  "s5-i117": {
+    "explanation": "Nghị quyết Trung ương 5 khóa VIII xác định văn hóa vừa là mục tiêu, vừa là động lực phát triển kinh tế – xã hội.",
+    "book_pages": "294"
+  },
+  "s5-i118": {
+    "explanation": "Quan hệ hữu nghị với nhân dân các nước là đặc trưng đối ngoại của Cương lĩnh 1991, không phải một trong sáu quan điểm công nghiệp hóa của Đại hội VIII.",
+    "book_pages": "273, 287"
+  },
+  "s5-i119": {
+    "explanation": "Văn hóa là nền tảng tinh thần của xã hội, vừa là mục tiêu vừa là động lực phát triển kinh tế – xã hội.",
+    "book_pages": "294"
+  },
+  "s5-i120": {
+    "explanation": "Đại hội IX xác định kinh tế hàng hóa nhiều thành phần vận hành theo cơ chế thị trường, có quản lý của Nhà nước theo định hướng xã hội chủ nghĩa.",
+    "book_pages": "300"
+  },
+  "s5-i122": {
+    "explanation": "Mô hình Đại hội IX có nhiều hình thức sở hữu, nhiều thành phần và hình thức phân phối; không chỉ hai thành phần.",
+    "book_pages": "299–300"
+  },
+  "s5-i124": {
+    "explanation": "Cương lĩnh 2011 bổ sung đặc trưng tổng quát dân giàu, nước mạnh, dân chủ, công bằng, văn minh.",
+    "book_pages": "339–340"
+  },
+  "s5-i125": {
+    "explanation": "Đại hội IX nêu mở rộng đối ngoại, chủ động hội nhập kinh tế quốc tế.",
+    "book_pages": "300"
+  },
+  "s5-i126": {
+    "explanation": "Cương lĩnh 2011 viết xã hội do nhân dân làm chủ; bản 1991 viết nhân dân lao động làm chủ.",
+    "book_pages": "273, 339"
+  },
+  "s5-i127": {
+    "explanation": "Cương lĩnh 2011 xác định con người có cuộc sống ấm no, tự do, hạnh phúc và điều kiện phát triển toàn diện.",
+    "book_pages": "339"
+  },
+  "s5-i128": {
+    "explanation": "Đại hội VIII chủ trương dựa vào nguồn lực trong nước là chính, đồng thời tranh thủ tối đa nguồn lực bên ngoài.",
+    "book_pages": "287"
+  },
+  "s5-i129": {
+    "explanation": "Cương lĩnh 2011 nêu nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ, phù hợp.",
+    "book_pages": "339"
+  },
+  "s5-i130": {
+    "explanation": "Cương lĩnh bổ sung năm 2011 nêu tầm nhìn đến giữa thế kỷ XXI xây dựng nước công nghiệp hiện đại theo định hướng xã hội chủ nghĩa.",
+    "book_pages": "340"
+  },
+  "s5-i131": {
+    "explanation": "Đặc trưng tổng quát dân giàu, nước mạnh, dân chủ, công bằng, văn minh được bổ sung trong Cương lĩnh 2011.",
+    "book_pages": "339–340"
+  },
+  "s5-i133": {
+    "explanation": "Trong Đường cách mệnh, Nguyễn Ái Quốc nhấn mạnh Đảng muốn vững phải có chủ nghĩa làm cốt.",
+    "book_pages": "53"
+  },
+  "s5-i134": {
+    "explanation": "Luận cương chính trị tháng 10/1930 nêu cách mạng tư sản dân quyền, sau đó bỏ qua thời kỳ tư bản đi lên xã hội chủ nghĩa.",
+    "book_pages": "76"
+  },
+  "s5-i135": {
+    "explanation": "Cương lĩnh 2011 nêu tám phương hướng xây dựng chủ nghĩa xã hội; mối quan hệ riêng giữa Nhà nước và doanh nghiệp không được liệt kê như một phương hướng độc lập.",
+    "book_pages": "340–341"
+  },
+  "s5-i136": {
+    "explanation": "Một trong ba đột phá chiến lược của Đại hội XIII là phát triển nguồn nhân lực, nhất là nhân lực chất lượng cao.",
+    "book_pages": "392–393"
+  },
+  "s5-i137": {
+    "explanation": "Một phương hướng trong Cương lĩnh 2011 là xây dựng Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân.",
+    "book_pages": "340–341"
+  },
+  "s5-i141": {
+    "explanation": "Đại hội XIII năm 2021 nhấn mạnh khơi dậy khát vọng phát triển, tinh thần yêu nước và ý chí tự cường.",
+    "book_pages": "388"
+  },
+  "s5-i142": {
+    "explanation": "Cương lĩnh 2011 chủ trương đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và chủ động, tích cực hội nhập quốc tế.",
+    "book_pages": "340–341"
+  },
+  "s5-i143": {
+    "explanation": "Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân là đặc trưng được nêu trong Cương lĩnh 2011.",
+    "book_pages": "339"
+  },
+  "s5-i144": {
+    "explanation": "Cả Cương lĩnh 1991 và Cương lĩnh 2011 đều nêu nền văn hóa tiên tiến, đậm đà bản sắc dân tộc.",
+    "book_pages": "273, 339"
+  },
+  "s5-i145": {
+    "explanation": "Sáu quan điểm công nghiệp hóa của Đại hội VIII gồm nguồn lực con người, vai trò các thành phần kinh tế và kết hợp kinh tế với quốc phòng.",
+    "book_pages": "287"
+  },
+  "s5-i146": {
+    "explanation": "Ngày 7/4/1975, Đại tướng Võ Nguyên Giáp ra mệnh lệnh thần tốc, táo bạo tiến quân giải phóng miền Nam.",
+    "book_pages": "232"
+  },
+  "s5-i147": {
+    "explanation": "Bản sắc dân tộc gồm các giá trị bền vững và tinh hoa của cộng đồng các dân tộc Việt Nam được vun đắp qua lịch sử.",
+    "book_pages": "294–295"
+  },
+  "s5-i148": {
+    "explanation": "Đại hội IX xác định Việt Nam sẵn sàng là bạn, đối tác tin cậy, phấn đấu vì hòa bình, độc lập và phát triển.",
+    "book_pages": "300"
+  },
+  "s5-i149": {
+    "explanation": "Cuối năm 1946 Pháp đánh Hải Phòng, Lạng Sơn, chiếm đóng trái phép ở Đà Nẵng và gây hấn tại Hà Nội.",
+    "book_pages": "146–147"
+  },
+  "s5-i150": {
+    "explanation": "Đại hội IX xác định mô hình kinh tế tổng quát là kinh tế thị trường định hướng xã hội chủ nghĩa, với nhiều hình thức sở hữu và phân phối.",
+    "book_pages": "300"
+  },
+  "s5-i90": {
+    "issue": "Không có phương án đủ giai đoạn",
+    "explanation": "Chiến lược Việt Nam hóa chiến tranh thường được xác định giai đoạn 1969–1973; phương án D dừng ở 1972 nên thiếu năm kết thúc.",
+    "book_pages": "222–228",
+    "source": "https://www.tqsqk7.edu.vn/upload/16/151/L%E1%BB%8Bch%20s%E1%BB%AD%20KHCM%20T9.pdf"
+  },
+  "s5-i102": {
+    "issue": "Đề có nhiều phương án phù hợp",
+    "explanation": "Nghị quyết văn hóa nêu văn hóa vừa là mục tiêu, vừa là động lực phát triển; các văn kiện cũng xác định con người vừa là mục tiêu vừa là động lực. Cần nêu rõ văn kiện hoặc trích nguyên văn.",
+    "book_pages": "294"
+  },
+  "s5-i103": {
+    "issue": "Đề có hai phương án sai",
+    "explanation": "C là đặc trưng được bổ sung năm 2011; D cũng sai nguyên văn Cương lĩnh 1991 vì phải là hưởng theo lao động, không phải hưởng theo nhu cầu.",
+    "book_pages": "273, 339"
+  },
+  "s5-i105": {
+    "issue": "Đề có hai phương án sai",
+    "explanation": "C là đặc trưng được bổ sung năm 2011; D cũng sai nguyên văn Cương lĩnh 1991 vì phải là hưởng theo lao động, không phải hưởng theo nhu cầu.",
+    "book_pages": "273, 339"
+  },
+  "s5-i108": {
+    "answer": "B",
+    "explanation": "Cương lĩnh 1991 nêu làm theo năng lực, hưởng theo lao động; đáp án gốc hưởng theo nhu cầu là sai.",
+    "book_pages": "273"
+  },
+  "s5-i112": {
+    "issue": "Đề có nhiều phương án phù hợp",
+    "explanation": "Cả A và B đều nêu khoa học – công nghệ là động lực và tranh thủ hiện đại ở khâu quyết định; B đầy đủ hơn, nhưng đề không yêu cầu chọn phương án đầy đủ nhất.",
+    "book_pages": "287"
+  },
+  "s5-i115": {
+    "issue": "Đề cần giới hạn thời kỳ",
+    "explanation": "Ưu tiên công nghiệp nặng một cách hợp lý không nằm trong sáu quan điểm Đại hội VIII, nhưng từng là chủ trương trước đó; đề hỏi chung thời kỳ đổi mới mà không nêu mốc và tiêu chí.",
+    "book_pages": "195–196, 287"
+  },
+  "s5-i123": {
+    "issue": "Đề cần làm rõ tiêu chí",
+    "explanation": "Đại hội IX nhấn mạnh đối ngoại độc lập, tự chủ, đa dạng hóa và sẵn sàng là bạn, đối tác tin cậy. Quan hệ ba nước Đông Dương vẫn có vị trí quan trọng; cách diễn đạt C không đủ rõ để kết luận là đi ngược đường lối.",
+    "book_pages": "300"
+  },
+  "s5-i132": {
+    "answer": "A",
+    "explanation": "Theo giáo trình, đặc trưng văn hóa tiên tiến, đậm đà bản sắc dân tộc được giữ nguyên; đặc trưng đối ngoại đổi từ nhân dân tất cả các nước sang các nước trên thế giới.",
+    "book_pages": "273, 339–340"
+  },
+  "s5-i139": {
+    "issue": "Cần làm rõ thời điểm kết thúc",
+    "explanation": "11 giờ 30 ngày 30/4 là mốc cờ chiến thắng cắm trên Dinh Độc Lập; chiến sự và việc tiếp quản ở các địa bàn khác vẫn tiếp tục. Nếu hỏi sự kiện cắm cờ thì chọn A.",
+    "book_pages": "232–233"
   }
 }
