@@ -895,5 +895,341 @@
     "issue": "Số liệu cần đối chiếu trước khi chấm",
     "explanation": "Các tài liệu nêu tỷ lệ khác nhau hoặc làm tròn; giáo trình chỉ nói Mỹ gánh phần lớn chi phí. Đề không nói rõ nguồn và cách làm tròn để chọn duy nhất một con số.",
     "source": "https://www.qdnd.vn/ho-so-su-kien/60-nam-chien-thang-dien-bien-phu/dien-bien-phu-doc-dao-van-hoa-quan-su-viet-nam-260070"
+  },
+  "s6-i1": {
+    "explanation": "Cách mạng Tháng Tám mở kỷ nguyên độc lập, tự do; đất nước thống nhất sau thắng lợi năm 1975, không phải năm 1945.",
+    "book_pages": "122"
+  },
+  "s6-i2": {
+    "explanation": "Đó là lời khẳng định trong Tuyên ngôn độc lập Chủ tịch Hồ Chí Minh đọc ngày 2/9/1945.",
+    "book_pages": "117–118"
+  },
+  "s6-i3": {
+    "explanation": "Ngày 2/9/1945, Tuyên ngôn độc lập công bố sự ra đời của nước Việt Nam Dân chủ Cộng hòa.",
+    "book_pages": "117"
+  },
+  "s6-i5": {
+    "explanation": "Nhà nước ra đời sau Cách mạng Tháng Tám là nhà nước dân chủ nhân dân, của chung toàn dân tộc.",
+    "book_pages": "120"
+  },
+  "s6-i6": {
+    "explanation": "Tại Quảng trường Ba Đình ngày 2/9/1945, Hồ Chí Minh đọc Tuyên ngôn độc lập và tuyên bố thành lập nước.",
+    "book_pages": "117"
+  },
+  "s6-i7": {
+    "explanation": "Ủy ban Dân tộc giải phóng được cải tổ thành Chính phủ lâm thời; danh sách được công bố ngày 28/8/1945.",
+    "book_pages": "116"
+  },
+  "s6-i8": {
+    "explanation": "Chính quyền cách mạng được xây dựng là nhà nước của chung toàn dân tộc, không chỉ của một vài giai tầng.",
+    "book_pages": "120"
+  },
+  "s6-i9": {
+    "explanation": "Thắng lợi của Đồng minh và việc Nhật đầu hàng tạo điều kiện khách quan thuận lợi cho tổng khởi nghĩa.",
+    "book_pages": "109, 118"
+  },
+  "s6-i10": {
+    "explanation": "Cách mạng Tháng Tám chống phát xít Nhật và tay sai, là một bộ phận của cuộc đấu tranh chống phát xít thế giới.",
+    "book_pages": "120"
+  },
+  "s6-i12": {
+    "explanation": "Cách mạng kết hợp sức mạnh toàn dân với thời cơ quốc tế thuận lợi; bài học này vẫn có thể vận dụng trong xây dựng và bảo vệ đất nước.",
+    "book_pages": "118, 123"
+  },
+  "s6-i14": {
+    "explanation": "Thắng lợi Cách mạng Tháng Tám dẫn đến việc công bố nền độc lập và thành lập nước Việt Nam Dân chủ Cộng hòa ngày 2/9/1945.",
+    "book_pages": "117–118"
+  },
+  "s6-i15": {
+    "explanation": "Thắng lợi đã đưa nhân dân từ thân phận nô lệ lên địa vị người chủ đất nước; đó là ý nghĩa nổi bật về quyền làm chủ.",
+    "book_pages": "122"
+  },
+  "s6-i16": {
+    "explanation": "Chiến tranh thế giới thứ hai bùng nổ năm 1939, làm bối cảnh và nhiệm vụ cách mạng thay đổi.",
+    "book_pages": "92"
+  },
+  "s6-i17": {
+    "explanation": "Hội nghị Trung ương 6 tháng 11/1939 bắt đầu chuyển hướng chiến lược; Hội nghị Trung ương 8 năm 1941 hoàn chỉnh chủ trương đó.",
+    "book_pages": "92–93, 98"
+  },
+  "s6-i18": {
+    "explanation": "Quân Nhật tiến vào Đông Dương tháng 9/1940, làm nhân dân phải chịu ách thống trị Pháp – Nhật.",
+    "book_pages": "92"
+  },
+  "s6-i19": {
+    "explanation": "Hội nghị Trung ương 8 tháng 5/1941 quyết định thành lập Việt Minh; nhớ mốc thành lập 1941.",
+    "book_pages": "95–97"
+  },
+  "s6-i20": {
+    "explanation": "Các tổ chức quần chúng trong Mặt trận Việt Minh đều mang tên cứu quốc, thể hiện mục tiêu đoàn kết giành độc lập.",
+    "book_pages": "97"
+  },
+  "s6-i22": {
+    "explanation": "Hội nghị Trung ương 8 tháng 5/1941 đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và hoàn chỉnh chuyển hướng chiến lược.",
+    "book_pages": "96–98"
+  },
+  "s6-i23": {
+    "explanation": "Hội nghị Trung ương 8 họp tại Pác Bó, Cao Bằng vào tháng 5/1941, do Nguyễn Ái Quốc chủ trì.",
+    "book_pages": "95"
+  },
+  "s6-i24": {
+    "explanation": "Hội nghị Trung ương 8 xác định chuẩn bị khởi nghĩa vũ trang là nhiệm vụ trung tâm của Đảng và nhân dân.",
+    "book_pages": "97–98"
+  },
+  "s6-i25": {
+    "explanation": "Hội nghị Trung ương 8 chủ trương sau khi thắng lợi sẽ lập nước Việt Nam Dân chủ Cộng hòa của toàn dân tộc.",
+    "book_pages": "97"
+  },
+  "s6-i26": {
+    "explanation": "Tháng 5/1941, Hội nghị Trung ương 8 chủ trương thực hiện quyền dân tộc tự quyết trong khuôn khổ từng nước Đông Dương.",
+    "book_pages": "96–97"
+  },
+  "s6-i27": {
+    "explanation": "Tại Hội nghị Trung ương 8, Trường Chinh được cử làm Tổng Bí thư.",
+    "book_pages": "95"
+  },
+  "s6-i29": {
+    "explanation": "Đội Việt Nam tuyên truyền giải phóng quân thành lập ngày 22/12/1944 tại Cao Bằng.",
+    "book_pages": "104"
+  },
+  "s6-i30": {
+    "explanation": "Chỉ thị thành lập đội xác định tổ chức, hoạt động và tác chiến; giáo trình xem đây là một cương lĩnh quân sự tóm tắt.",
+    "book_pages": "104"
+  },
+  "s6-i31": {
+    "explanation": "Ngày 12/3/1945, sau cuộc đảo chính của Nhật, Ban Thường vụ Trung ương ra Chỉ thị Nhật – Pháp bắn nhau và hành động của chúng ta.",
+    "book_pages": "105–106"
+  },
+  "s6-i32": {
+    "explanation": "Sau khi Nhật đảo chính Pháp, khẩu hiệu chuyển từ đánh đuổi Nhật – Pháp sang đánh đuổi phát xít Nhật.",
+    "book_pages": "106"
+  },
+  "s6-i33": {
+    "explanation": "Ở thượng du và trung du Bắc Kỳ diễn ra chiến tranh du kích cục bộ và khởi nghĩa từng phần; trong các lựa chọn, C nêu hình thức vũ trang phù hợp.",
+    "book_pages": "106"
+  },
+  "s6-i34": {
+    "explanation": "Khẩu hiệu phá kho thóc, giải quyết nạn đói lan mạnh ở Bắc Bộ và Bắc Trung Bộ, thúc đẩy quần chúng đấu tranh.",
+    "book_pages": "108"
+  },
+  "s6-i35": {
+    "explanation": "Ở đô thị, các đội danh dự Việt Minh đẩy mạnh vũ trang tuyên truyền và diệt ác trừ gian.",
+    "book_pages": "108"
+  },
+  "s6-i36": {
+    "explanation": "Đại hội quốc dân Tân Trào lập Ủy ban Dân tộc giải phóng Việt Nam do Hồ Chí Minh làm Chủ tịch.",
+    "book_pages": "112"
+  },
+  "s6-i37": {
+    "explanation": "Hội nghị toàn quốc của Đảng ở Tân Trào quyết định phát động toàn dân tổng khởi nghĩa giành chính quyền.",
+    "book_pages": "110–112"
+  },
+  "s6-i38": {
+    "explanation": "Cần giành chính quyền khi Nhật đã đầu hàng, trước lúc quân Đồng minh vào, để chủ động xác lập chính quyền của nhân dân.",
+    "book_pages": "109–112, 116"
+  },
+  "s6-i39": {
+    "explanation": "Chính quyền non trẻ phải đồng thời đối phó giặc đói, giặc dốt và thù trong giặc ngoài: tình thế được ví như ngàn cân treo sợi tóc.",
+    "book_pages": "130–131"
+  },
+  "s6-i40": {
+    "explanation": "Sau độc lập, nước ta đối diện ngoại xâm và nội phản, kinh tế kiệt quệ, nạn đói và nạn mù chữ rất nặng nề.",
+    "book_pages": "130–131"
+  },
+  "s6-i41": {
+    "explanation": "Chính quyền cách mạng đã ra đời, nhân dân quyết tâm bảo vệ chế độ mới và tình hình quốc tế có những thuận lợi.",
+    "book_pages": "129–130"
+  },
+  "s6-i42": {
+    "explanation": "Chỉ thị Kháng chiến kiến quốc xác định thực dân Pháp xâm lược là kẻ thù chính cần tập trung đấu tranh.",
+    "book_pages": "131"
+  },
+  "s6-i43": {
+    "explanation": "Phiên họp Chính phủ đầu tiên nêu việc diệt giặc đói, giặc dốt, giặc ngoại xâm; chính quyền đồng thời phải đối phó nội phản.",
+    "book_pages": "131–132"
+  },
+  "s6-i44": {
+    "explanation": "Chỉ thị Kháng chiến kiến quốc được Trung ương ban hành ngày 25/11/1945.",
+    "book_pages": "131"
+  },
+  "s6-i46": {
+    "explanation": "Chỉ thị nêu khẩu hiệu Dân tộc trên hết, Tổ quốc trên hết để tập trung bảo vệ nền độc lập.",
+    "book_pages": "131–132"
+  },
+  "s6-i47": {
+    "explanation": "Đường lối ngoại giao nhằm thêm bạn bớt thù; với Tưởng chủ trương Hoa – Việt thân thiện, với Pháp giữ độc lập chính trị và nhân nhượng kinh tế.",
+    "book_pages": "132"
+  },
+  "s6-i48": {
+    "explanation": "Những việc củng cố chính quyền gồm tổng tuyển cử, xây dựng Hiến pháp, củng cố các đoàn thể và lực lượng vũ trang.",
+    "book_pages": "134–136"
+  },
+  "s6-i49": {
+    "explanation": "Các chi đội Nam tiến lên đường chi viện Nam Bộ từ cuối tháng 9/1945.",
+    "book_pages": "137"
+  },
+  "s6-i50": {
+    "explanation": "Ngày 11/11/1945, Đảng tuyên bố tự giải tán và rút vào bí mật; bộ phận công khai hoạt động dưới tên Hội Nghiên cứu chủ nghĩa Mác ở Đông Dương.",
+    "book_pages": "138–139"
+  },
+  "s6-i51": {
+    "explanation": "Hiệp định Sơ bộ ngày 6/3/1946 mở thời kỳ tạm hòa hoãn với Pháp để đẩy nhanh quân Tưởng rút và tranh thủ thời gian.",
+    "book_pages": "140–141"
+  },
+  "s6-i52": {
+    "explanation": "Tạm ước 14/9/1946 thỏa thuận đình chỉ chiến sự ở Nam Bộ và tiếp tục đàm phán chậm nhất tháng 1/1947; đồng thời có nhân nhượng về kinh tế, văn hóa.",
+    "book_pages": "142",
+    "source": "https://baotanghochiminh.vn/bien-nien-tieu-su/p-393.htm"
+  },
+  "s6-i45": {
+    "answer": "A",
+    "explanation": "Củng cố chính quyền nhân dân là nhiệm vụ trung tâm. Chỉ thị còn nêu chống Pháp, trừ nội phản và cải thiện đời sống; D không phân biệt nhiệm vụ trung tâm.",
+    "book_pages": "131–132",
+    "source": "https://www.thuvienlamdong.org.vn/Files/Books/78640.pdf"
+  },
+  "s6-i4": {
+    "issue": "Đề cần làm rõ trước khi chấm",
+    "explanation": "Thắng lợi nhanh gắn với cả sự chuẩn bị, lãnh đạo và thời cơ Nhật đầu hàng. Câu hỏi không nêu tiêu chí để phân biệt duy nhất nguyên nhân chủ yếu.",
+    "book_pages": "118"
+  },
+  "s6-i11": {
+    "issue": "Đề có nhiều phương án phù hợp",
+    "explanation": "Giữ vững vai trò lãnh đạo của Đảng và kết hợp đấu tranh chính trị với vũ trang đều là bài học; đề chỉ hỏi một bài học mà không nêu tiêu chí loại A.",
+    "book_pages": "123–125"
+  },
+  "s6-i13": {
+    "issue": "Đề cần làm rõ tiêu chí",
+    "explanation": "Giáo trình rút ra nhiều bài học, trong đó có đoàn kết dân tộc và nắm thời cơ; cách hỏi bài học quan trọng nhất cho hiện nay chưa chỉ rõ tiêu chí để chọn duy nhất.",
+    "book_pages": "123–125"
+  },
+  "s9-i1": {
+    "explanation": "Năm 1986 đất nước vẫn khủng hoảng; Đại hội VI nhìn thẳng sự thật và phát động đổi mới, chưa tuyên bố đã thoát khủng hoảng.",
+    "book_pages": "260–262"
+  },
+  "s9-i2": {
+    "explanation": "Đại hội VI chủ trương kinh tế nhiều thành phần và đổi mới cơ chế; tên gọi kinh tế thị trường định hướng xã hội chủ nghĩa được xác định ở Đại hội IX.",
+    "book_pages": "262, 300"
+  },
+  "s9-i3": {
+    "explanation": "Ba chương trình là lương thực – thực phẩm, hàng tiêu dùng và hàng xuất khẩu; công nghiệp nặng không nằm trong bộ ba.",
+    "book_pages": "262"
+  },
+  "s9-i4": {
+    "explanation": "Đại hội VI thừa nhận kinh tế nhiều thành phần; không xác định khu vực FDI là một thành phần giữ vai trò chủ đạo.",
+    "book_pages": "262"
+  },
+  "s9-i5": {
+    "explanation": "Đại hội kiểm điểm bệnh chủ quan duy ý chí và sai lầm trong chính sách, không kết luận chủ nghĩa Mác – Lênin đã lạc hậu.",
+    "book_pages": "261–262"
+  },
+  "s9-i6": {
+    "explanation": "Đại hội VI coi trọng quan hệ với Liên Xô và ba nước Đông Dương; bình thường hóa với Mỹ và gia nhập ASEAN diễn ra năm 1995.",
+    "book_pages": "264"
+  },
+  "s9-i7": {
+    "explanation": "Đổi mới trước hết là đổi mới tư duy, đặc biệt tư duy kinh tế; không đồng nghĩa từ bỏ mục tiêu xã hội chủ nghĩa.",
+    "book_pages": "264"
+  },
+  "s9-i8": {
+    "explanation": "Đại hội VI bố trí lại sản xuất, đầu tư và tập trung ba chương trình kinh tế, không ưu tiên tuyệt đối công nghiệp nặng.",
+    "book_pages": "262–263"
+  },
+  "s9-i9": {
+    "explanation": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ được thông qua tại Đại hội VII năm 1991, không phải Đại hội VI năm 1986.",
+    "book_pages": "272"
+  },
+  "s9-i10": {
+    "explanation": "Đường lối Đại hội VI nhấn mạnh đổi mới lãnh đạo của Đảng, tăng hiệu lực Nhà nước và phát huy quyền làm chủ của nhân dân.",
+    "book_pages": "264"
+  },
+  "s9-i11": {
+    "explanation": "Đại hội VI mở rộng kinh tế đối ngoại; công thức Việt Nam là bạn, đối tác tin cậy được hình thành và bổ sung trong các giai đoạn sau.",
+    "book_pages": "263–264, 300"
+  },
+  "s9-i12": {
+    "explanation": "Nghị quyết 10 năm 1988 phát huy vai trò tự chủ của hộ nông dân và khoán ổn định, không quốc hữu hóa toàn bộ ruộng đất để lập nông trường.",
+    "book_pages": "266–267"
+  },
+  "s9-i13": {
+    "explanation": "Đại hội VI khởi xướng đổi mới và đề ra ba chương trình kinh tế; việc phát triển khái niệm công nghiệp hóa, hiện đại hóa gắn với giai đoạn sau.",
+    "book_pages": "262–264"
+  },
+  "s9-i14": {
+    "explanation": "Bốn bài học của Đại hội VI là lấy dân làm gốc, tôn trọng thực tế và quy luật, kết hợp sức mạnh dân tộc – thời đại, xây dựng Đảng.",
+    "book_pages": "262"
+  },
+  "s9-i15": {
+    "explanation": "Đổi mới quản lý hướng tới xóa cơ chế quan liêu bao cấp và mở rộng hạch toán, không áp chỉ tiêu và giá cho mọi doanh nghiệp.",
+    "book_pages": "262–263"
+  },
+  "s9-i16": {
+    "explanation": "Đại hội VI năm 1986 bầu Nguyễn Văn Linh làm Tổng Bí thư; ông gắn với giai đoạn đầu thực hiện đường lối đổi mới.",
+    "book_pages": "261"
+  },
+  "s9-i17": {
+    "explanation": "Đại hội VI mở rộng hiệu quả kinh tế đối ngoại và Đại hội VII tiếp tục phát triển quan hệ đối ngoại, không chủ trương đóng cửa với mọi nước tư bản.",
+    "book_pages": "263–264, 278–279"
+  },
+  "s9-i18": {
+    "explanation": "Cương lĩnh 1991 khái quát sáu đặc trưng; Cương lĩnh bổ sung năm 2011 phát triển thành tám đặc trưng.",
+    "book_pages": "273, 339"
+  },
+  "s9-i19": {
+    "explanation": "Đại hội IX xác định mô hình kinh tế thị trường định hướng xã hội chủ nghĩa và nhấn mạnh vai trò chủ đạo của kinh tế nhà nước.",
+    "book_pages": "300"
+  },
+  "s9-i20": {
+    "explanation": "Đại hội VI khởi xướng đổi mới toàn diện trên con đường xã hội chủ nghĩa, không đoạn tuyệt với chủ nghĩa Mác – Lênin.",
+    "book_pages": "261–264"
+  },
+  "s9-i21": {
+    "explanation": "Đại hội VII tháng 6/1991 bầu Đỗ Mười làm Tổng Bí thư, không phải Nguyễn Văn Linh tiếp tục giữ chức.",
+    "book_pages": "272"
+  },
+  "s9-i22": {
+    "explanation": "Đại hội VII nêu nền kinh tế hàng hóa nhiều thành phần theo cơ chế thị trường; Đại hội IX xác định mô hình kinh tế thị trường định hướng xã hội chủ nghĩa.",
+    "book_pages": "272, 300"
+  },
+  "s9-i23": {
+    "explanation": "Cương lĩnh 1991 định hướng thời kỳ quá độ; Cương lĩnh chính trị đầu tiên của Đảng ra đời năm 1930.",
+    "book_pages": "62–64, 272"
+  },
+  "s9-i24": {
+    "explanation": "Cương lĩnh 1991 nêu sáu đặc trưng; mục tiêu tổng quát với cụm dân giàu, nước mạnh, dân chủ, công bằng, văn minh thuộc bản phát triển năm 2011.",
+    "book_pages": "273, 339"
+  },
+  "s9-i25": {
+    "explanation": "Cương lĩnh 1991 xác định nhân dân lao động làm chủ; quyền làm chủ không chỉ dành riêng cho công nhân công nghiệp.",
+    "book_pages": "273"
+  },
+  "s9-i26": {
+    "explanation": "Đặc trưng kinh tế trong Cương lĩnh 1991 nêu lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu.",
+    "book_pages": "273"
+  },
+  "s9-i27": {
+    "explanation": "Cương lĩnh 1991 xác định nền văn hóa tiên tiến, đậm đà bản sắc dân tộc; không chủ trương xóa bỏ toàn bộ tín ngưỡng, tôn giáo.",
+    "book_pages": "273"
+  },
+  "s9-i28": {
+    "explanation": "Cương lĩnh 1991 nêu làm theo năng lực, hưởng theo lao động; không nêu hưởng theo nhu cầu là đặc trưng về con người.",
+    "book_pages": "273"
+  },
+  "s9-i29": {
+    "explanation": "Cương lĩnh 1991 xác định các dân tộc bình đẳng, đoàn kết và giúp đỡ nhau tiến bộ; không có đặc quyền cho dân tộc đa số.",
+    "book_pages": "273"
+  },
+  "s9-i30": {
+    "explanation": "Cương lĩnh 1991 chủ trương hữu nghị, hợp tác với nhân dân tất cả các nước, không chỉ quan hệ với các nước xã hội chủ nghĩa.",
+    "book_pages": "273"
+  },
+  "s9-i67": {
+    "answer": "C",
+    "explanation": "Trong thời kỳ quá độ, không áp dụng ngay nguyên tắc mọi người hưởng theo nhu cầu; mục tiêu là con người có cuộc sống ấm no, tự do, hạnh phúc và điều kiện phát triển toàn diện.",
+    "book_pages": "339"
+  },
+  "s9-i63": {
+    "issue": "Đề cần làm rõ cách diễn đạt",
+    "explanation": "Cương lĩnh 2011 viết mục tiêu khái quát là dân giàu, nước mạnh, dân chủ, công bằng, văn minh. Phương án C đảo thứ tự nhưng vẫn diễn đạt những mục tiêu đó; cần sửa câu nếu yêu cầu chọn nguyên văn.",
+    "book_pages": "339"
   }
 }

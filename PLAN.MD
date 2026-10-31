@@ -112,3 +112,5 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - Đã nhận dạng 221 trang PDF quét để tìm kiếm, đang so sánh nội dung với trang sách và các nguồn chính thức.
 - Đã ghi chú 214 câu (80 câu có số trang giáo trình); 135 đáp án thiếu được bổ sung, 20 câu chưa rõ hoặc có lỗi không tính điểm.
 - Còn 496 câu chưa có lời giải; tiếp tục kiểm tra từng đáp án và viết lời giải trọng tâm, không tự suy đoán để lấp trống.
+
+- Đợt tiếp theo: đã đối chiếu thêm bộ chủ đề 1–2 và 30 câu đầu về Đổi mới; tổng cộng 296 câu có giải thích hoặc lưu ý, 162 câu có số trang, 24 câu cần làm rõ không tính điểm; còn 414 câu chưa có lời giải.
