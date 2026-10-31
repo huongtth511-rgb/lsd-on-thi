@@ -120,6 +120,7 @@ test('textbook citations appear and ambiguous questions remain ungraded', () => 
   assert.equal(a.keyed(byId.get('s6-i45')),'A');
   assert.equal(a.keyed(byId.get('s9-i67')),'C');
   assert.equal(a.keyed(byId.get('s9-i63')),null);
+  for (const id of ['s9-i31','s9-i44','s9-i71']) assert.equal(a.keyed(byId.get(id)),null);
   const q=byId.get('s5-i98');
   assert.match(a.preview({questions:[q]},true).html,/Giáo trình Lịch sử Đảng.*264/);
 });

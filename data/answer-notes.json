@@ -1176,7 +1176,8 @@
   },
   "s9-i19": {
     "explanation": "Đại hội IX xác định mô hình kinh tế thị trường định hướng xã hội chủ nghĩa và nhấn mạnh vai trò chủ đạo của kinh tế nhà nước.",
-    "book_pages": "300"
+    "book_pages": "300",
+    "source": "https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/hoi-nghi-bch-trung-uong/khoa-ix/nghi-quyet-so-14-nqtw-ngay-1832002-hoi-nghi-lan-thu-nam-ban-chap-hanh-trung-uong-dang-khoa-ix-ve-tiep-tuc-doi-moi-co-650"
   },
   "s9-i20": {
     "explanation": "Đại hội VI khởi xướng đổi mới toàn diện trên con đường xã hội chủ nghĩa, không đoạn tuyệt với chủ nghĩa Mác – Lênin.",
@@ -1231,5 +1232,219 @@
     "issue": "Đề cần làm rõ cách diễn đạt",
     "explanation": "Cương lĩnh 2011 viết mục tiêu khái quát là dân giàu, nước mạnh, dân chủ, công bằng, văn minh. Phương án C đảo thứ tự nhưng vẫn diễn đạt những mục tiêu đó; cần sửa câu nếu yêu cầu chọn nguyên văn.",
     "book_pages": "339"
+  },
+  "s9-i32": {
+    "explanation": "Cương lĩnh 1991 chủ trương kinh tế hàng hóa nhiều thành phần và nhiều hình thức sở hữu, không xóa bỏ hoàn toàn kinh tế cá thể, tư nhân.",
+    "book_pages": "273–274"
+  },
+  "s9-i33": {
+    "explanation": "Cương lĩnh chủ trương Nhà nước của nhân dân, do nhân dân, vì nhân dân dưới sự lãnh đạo của Đảng; không nêu mô hình tam quyền phân lập.",
+    "book_pages": "274–275"
+  },
+  "s9-i34": {
+    "explanation": "Cương lĩnh kết hợp xây dựng và bảo vệ Tổ quốc với đường lối hữu nghị, hợp tác; không chủ trương dựa vào liên minh quân sự nước ngoài.",
+    "book_pages": "273–275"
+  },
+  "s9-i35": {
+    "explanation": "Phương hướng thứ bảy là xây dựng Đảng trong sạch, vững mạnh; không quy định đa đảng đối lập.",
+    "book_pages": "274–275"
+  },
+  "s9-i37": {
+    "explanation": "Đại hội VIII xác định nguồn lực con người là yếu tố cơ bản; tài nguyên, khoáng sản không phải nguồn lực vô tận.",
+    "book_pages": "287"
+  },
+  "s9-i38": {
+    "explanation": "Công nghiệp hóa, hiện đại hóa là sự nghiệp của toàn dân, mọi thành phần; theo quan điểm Đại hội VIII, kinh tế nhà nước giữ vai trò chủ đạo.",
+    "book_pages": "287"
+  },
+  "s9-i39": {
+    "explanation": "Đại hội VIII lấy hiệu quả kinh tế – xã hội làm tiêu chuẩn cơ bản, đồng thời coi trọng bảo vệ môi trường, không chỉ xét lợi nhuận.",
+    "book_pages": "286–287"
+  },
+  "s9-i40": {
+    "explanation": "Khoa học và công nghệ là động lực của công nghiệp hóa, hiện đại hóa; phát triển còn gắn với con người, kinh tế và quốc phòng – an ninh.",
+    "book_pages": "287"
+  },
+  "s9-i41": {
+    "explanation": "Trung ương 2 khóa VIII coi giáo dục – đào tạo là quốc sách hàng đầu, sự nghiệp của toàn Đảng, Nhà nước và toàn dân; không chủ trương tư nhân hóa hoàn toàn.",
+    "book_pages": "292–293"
+  },
+  "s9-i42": {
+    "explanation": "Thiết bị quan trọng nhưng không thể kết luận đó là yếu tố quyết định nhất; chất lượng còn phụ thuộc vào đội ngũ nhà giáo, nội dung và phương pháp.",
+    "book_pages": "292–293"
+  },
+  "s9-i43": {
+    "explanation": "Trung ương 2 khóa VIII chủ trương ứng dụng khoa học – công nghệ trong nhiều ngành sản xuất, dịch vụ và quản lý, không độc quyền tại viện nhà nước.",
+    "book_pages": "293"
+  },
+  "s9-i45": {
+    "explanation": "Nghị quyết xác định văn hóa là nền tảng tinh thần, vừa là mục tiêu vừa là động lực phát triển; không chỉ là hoạt động giải trí.",
+    "book_pages": "294"
+  },
+  "s9-i46": {
+    "explanation": "Xây dựng văn hóa là sự nghiệp của toàn dân dưới sự lãnh đạo của Đảng; đội ngũ trí thức có vai trò quan trọng.",
+    "book_pages": "295"
+  },
+  "s9-i47": {
+    "explanation": "Bản sắc gồm những giá trị bền vững của dân tộc, trong đó có lòng yêu nước, ý chí tự cường; giữ bản sắc gắn với chọn lọc tinh hoa thế giới.",
+    "book_pages": "294–295"
+  },
+  "s9-i48": {
+    "explanation": "Nghị quyết chú trọng xây dựng con người, môi trường văn hóa và đời sống tinh thần, không yêu cầu chuyển toàn bộ ngân sách sang tượng đài.",
+    "book_pages": "294–295"
+  },
+  "s9-i49": {
+    "explanation": "Trước Hội nghị Trung ương 9 khóa XI năm 2014, Đảng đã có Đề cương văn hóa 1943 và Nghị quyết Trung ương 5 khóa VIII năm 1998.",
+    "book_pages": "101, 294–296"
+  },
+  "s9-i50": {
+    "explanation": "Tên nước Cộng hòa xã hội chủ nghĩa Việt Nam được quyết định năm 1976; Đại hội VIII năm 1996 đánh giá nước ta đã thoát khủng hoảng.",
+    "book_pages": "241, 286"
+  },
+  "s9-i51": {
+    "explanation": "Đại hội IX năm 2001 thông qua Chiến lược 2001–2010; quan điểm công nghiệp hóa, hiện đại hóa đã được đề cập trước đó.",
+    "book_pages": "282–283, 296–297"
+  },
+  "s9-i52": {
+    "explanation": "Đại hội IX coi kinh tế thị trường định hướng xã hội chủ nghĩa là mô hình kinh tế tổng quát trong thời kỳ quá độ, không chỉ sử dụng tạm thời.",
+    "book_pages": "299–300"
+  },
+  "s9-i53": {
+    "explanation": "Theo Đại hội IX, nền kinh tế nhiều thành phần, trong đó kinh tế nhà nước giữ vai trò chủ đạo; không phải kinh tế tư nhân.",
+    "book_pages": "299–300",
+    "source": "https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/hoi-nghi-bch-trung-uong/khoa-ix/nghi-quyet-so-14-nqtw-ngay-1832002-hoi-nghi-lan-thu-nam-ban-chap-hanh-trung-uong-dang-khoa-ix-ve-tiep-tuc-doi-moi-co-650"
+  },
+  "s9-i54": {
+    "explanation": "Đại đoàn kết tập hợp các giai cấp, tầng lớp và những người kinh doanh hợp pháp cùng hướng đến mục tiêu chung.",
+    "book_pages": "298–299"
+  },
+  "s9-i55": {
+    "explanation": "Đại hội IX gắn nội dung đấu tranh giai cấp với phát triển đất nước, chống nghèo nàn và bảo vệ lợi ích dân tộc; không chủ trương tước đoạt toàn bộ tài sản bằng vũ trang.",
+    "book_pages": "298–299"
+  },
+  "s9-i56": {
+    "explanation": "Làm giàu hợp pháp được khuyến khích; các vấn đề cần đấu tranh gồm tham nhũng, quan liêu và những hành vi chống phá đất nước.",
+    "book_pages": "298–299"
+  },
+  "s9-i57": {
+    "explanation": "Phân phối chủ yếu theo lao động và hiệu quả kinh tế, đồng thời theo vốn, nguồn lực và phúc lợi; không tuyệt đối hóa hưởng theo nhu cầu.",
+    "book_pages": "300"
+  },
+  "s9-i58": {
+    "explanation": "Đại hội IX gắn lợi ích giai cấp với lợi ích dân tộc, phát huy sức mạnh đại đoàn kết; không xem hai cuộc đấu tranh hoàn toàn tách rời.",
+    "book_pages": "298–299"
+  },
+  "s9-i59": {
+    "explanation": "Nhà nước quản lý nền kinh tế trong khuôn khổ thị trường, không giao chỉ tiêu và ấn định giá bắt buộc cho mọi doanh nghiệp tư nhân.",
+    "book_pages": "299–300"
+  },
+  "s9-i60": {
+    "explanation": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ được thông qua tại Đại hội VII năm 1991; Đại hội IX diễn ra năm 2001.",
+    "book_pages": "272, 296–300"
+  },
+  "s9-i61": {
+    "explanation": "Mô hình kinh tế thị trường định hướng xã hội chủ nghĩa được xác định ở Đại hội IX; Đại hội XI thông qua Cương lĩnh bổ sung năm 2011.",
+    "book_pages": "300, 335–336"
+  },
+  "s9-i62": {
+    "explanation": "Cương lĩnh 1991 có sáu đặc trưng; bản 2011 nêu tám đặc trưng, bổ sung mục tiêu tổng quát và Nhà nước pháp quyền.",
+    "book_pages": "273, 339–340"
+  },
+  "s9-i64": {
+    "explanation": "Cương lĩnh 1991 viết nhân dân lao động làm chủ, bản 2011 viết nhân dân làm chủ; không giới hạn quyền làm chủ ở công nhân và nông dân.",
+    "book_pages": "273, 339–340"
+  },
+  "s9-i65": {
+    "explanation": "Cương lĩnh 2011 nêu kinh tế phát triển cao với lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ, phù hợp; không đặt tư hữu tuyệt đối làm nền tảng.",
+    "book_pages": "339"
+  },
+  "s9-i66": {
+    "explanation": "Xây dựng văn hóa tiên tiến, đậm đà bản sắc dân tộc gắn với giữ gìn những giá trị tốt đẹp và tiếp thu tinh hoa nhân loại.",
+    "book_pages": "294–295, 339"
+  },
+  "s9-i68": {
+    "explanation": "Cương lĩnh 2011 nêu các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển; không có đặc quyền cho dân tộc đa số.",
+    "book_pages": "339"
+  },
+  "s9-i69": {
+    "explanation": "Cương lĩnh nêu Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân dưới sự lãnh đạo của Đảng.",
+    "book_pages": "339"
+  },
+  "s9-i70": {
+    "explanation": "Cương lĩnh 2011 chủ trương quan hệ hữu nghị, hợp tác; không nêu dựa vào liên minh quân sự để bảo vệ đất nước.",
+    "book_pages": "339"
+  },
+  "s9-i72": {
+    "explanation": "Cơ chế khái quát là Đảng lãnh đạo, Nhà nước quản lý, nhân dân làm chủ; phương án D đảo vai trò các chủ thể.",
+    "book_pages": "274–275, 341"
+  },
+  "s9-i73": {
+    "explanation": "Cương lĩnh cảnh báo quan liêu, tham nhũng và xa rời nhân dân có thể dẫn đến tổn thất lớn; không coi tham nhũng chỉ là khuyết điểm nhỏ.",
+    "book_pages": "336–337"
+  },
+  "s9-i74": {
+    "explanation": "Quan điểm là kết hợp phát triển kinh tế – xã hội với tăng cường quốc phòng, an ninh; không dừng phát triển kinh tế để chạy đua vũ trang.",
+    "book_pages": "341–342"
+  },
+  "s9-i75": {
+    "explanation": "Đại hội XI thông qua Cương lĩnh bổ sung năm 2011; công cuộc đổi mới toàn diện được khởi xướng tại Đại hội VI năm 1986.",
+    "book_pages": "261–264, 335"
+  },
+  "s9-i76": {
+    "explanation": "Đại hội XIII đặt tầm nhìn năm 2045 trở thành nước phát triển; mốc 2025 không phải mục tiêu nước công nghiệp phát triển thu nhập cao.",
+    "book_pages": "386–390"
+  },
+  "s9-i77": {
+    "explanation": "Đại hội XIII kiên định nền tảng tư tưởng, độc lập dân tộc gắn với chủ nghĩa xã hội và đường lối đổi mới.",
+    "book_pages": "388"
+  },
+  "s9-i78": {
+    "explanation": "Ghi nhớ: kinh tế – xã hội là trung tâm, xây dựng Đảng là then chốt, văn hóa là nền tảng tinh thần, quốc phòng – an ninh là trọng yếu, thường xuyên.",
+    "book_pages": "388"
+  },
+  "s9-i79": {
+    "explanation": "Đại hội XIII khơi dậy khát vọng phát triển, ý chí tự cường và sức mạnh đoàn kết; ODA không phải động lực duy nhất.",
+    "book_pages": "388–389"
+  },
+  "s9-i80": {
+    "explanation": "Đại hội XIII chủ trương phát huy nội lực, tranh thủ ngoại lực; nguồn lực nội sinh, nhất là con người, có ý nghĩa quan trọng nhất.",
+    "book_pages": "389"
+  },
+  "s9-i81": {
+    "explanation": "Đại hội XIII nhấn mạnh xây dựng Đảng, hệ thống chính trị và đội ngũ cán bộ đủ phẩm chất, năng lực, uy tín.",
+    "book_pages": "389"
+  },
+  "s9-i82": {
+    "explanation": "Đột phá thứ nhất là hoàn thiện thể chế phát triển, trọng tâm là thể chế kinh tế thị trường định hướng xã hội chủ nghĩa.",
+    "book_pages": "392–393"
+  },
+  "s9-i83": {
+    "explanation": "Đột phá thứ hai là phát triển nguồn nhân lực, nhất là nhân lực chất lượng cao; không chủ trương tư nhân hóa toàn bộ giáo dục công.",
+    "book_pages": "393"
+  },
+  "s9-i84": {
+    "explanation": "Đột phá hạ tầng gồm công trình giao thông, hạ tầng thông tin và nền tảng chuyển đổi số; không dừng hạ tầng số và đô thị.",
+    "book_pages": "393"
+  },
+  "s9-i85": {
+    "explanation": "Ba đột phá chiến lược đã được nêu từ Đại hội XI và tiếp tục được bổ sung qua các kỳ Đại hội sau, không bắt đầu tại Đại hội XIII.",
+    "book_pages": "348–349, 392–393"
+  },
+  "s9-i31": {
+    "issue": "Đề có nhiều phương án không chính xác",
+    "explanation": "D gán Cách mạng công nghiệp 4.0 cho Cương lĩnh 1991; C cũng trích không nguyên văn vì bản 1991 viết “do nhân dân lao động làm chủ”, còn bản 2011 viết “do nhân dân làm chủ”.",
+    "book_pages": "273, 339–340"
+  },
+  "s9-i44": {
+    "issue": "Đề cần làm rõ cách diễn đạt",
+    "explanation": "Trung ương 5 khóa VIII xác định nền văn hóa tiên tiến, đậm đà bản sắc dân tộc. Ba nguyên tắc dân tộc, khoa học, đại chúng gắn với Đề cương 1943 và được kế thừa, nên D cần nêu rõ đang hỏi nguyên văn của văn kiện nào.",
+    "book_pages": "101, 294–296",
+    "source": "https://dsvh.gov.vn/Upload/files/Tap%20chi%20DSVH/So%2011/1105_Nghi%20quyet%20trung%20uong%205%20va%20su%20quan%20triet%20nhung%20quan%20diem%20co%20ban%20cua%20chu%20tich%20Ho%20Chi%20Minh%20ve%20van%20hoa.pdf"
+  },
+  "s9-i71": {
+    "issue": "Đề có nhiều phương án cần sửa",
+    "explanation": "C sai vì Cương lĩnh 2011 xác định kinh tế nhà nước giữ vai trò chủ đạo. B cũng gán số lượng bốn thành phần cho Cương lĩnh, trong khi văn kiện chỉ ghi nhiều thành phần kinh tế.",
+    "book_pages": "341–342",
+    "source": "https://hcmcpv.org.vn/tin-tuc/cuong-linh-xay-dung-dat-nuoc-trong-thoi-ky-qua-do-len-chu-nghia-xa-hoi-bo-sung-phat-trien-nam-2011-1301300707"
   }
 }
