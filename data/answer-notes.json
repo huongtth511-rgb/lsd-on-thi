@@ -1822,5 +1822,162 @@
     "issue": "Đề cần làm rõ tiêu chí",
     "explanation": "Giáo trình nêu các bộ phận tiểu tư sản và tinh thần yêu nước của họ nhưng không xác định một nhóm quan trọng nhất; không đủ cơ sở để chấm duy nhất D.",
     "book_pages": "42"
+  },
+  "s7-i41": {
+    "explanation": "Tháng 6/1925, Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên tại Quảng Châu.",
+    "book_pages": "55–56"
+  },
+  "s7-i42": {
+    "explanation": "Hội xây dựng tổ chức, mở lớp huấn luyện tại Quảng Châu và cử cán bộ tiếp tục học tập, đào tạo.",
+    "book_pages": "56–58"
+  },
+  "s7-i43": {
+    "explanation": "Phong trào vô sản hóa năm 1928 đưa hội viên vào phong trào công nhân, góp phần truyền bá lý luận cách mạng.",
+    "book_pages": "55, 58"
+  },
+  "s7-i45": {
+    "explanation": "Các bài giảng ở Quảng Châu được Hội Liên hiệp các dân tộc bị áp bức ở Á Đông xuất bản thành Đường cách mệnh năm 1927.",
+    "book_pages": "57"
+  },
+  "s7-i46": {
+    "explanation": "Đường cách mệnh trình bày con đường giải phóng dân tộc gắn với cách mạng vô sản và triển vọng xã hội cộng sản.",
+    "book_pages": "53–54, 57"
+  },
+  "s7-i47": {
+    "explanation": "Đấu tranh công nhân giai đoạn đầu thể hiện qua các cuộc đình công, bãi công đòi quyền lợi.",
+    "book_pages": "58–59"
+  },
+  "s7-i49": {
+    "explanation": "Phong trào công nhân phát triển về quy mô và tổ chức, nội dung chính trị ngày càng sâu sắc trong những năm 1926–1929.",
+    "book_pages": "58–59"
+  },
+  "s7-i50": {
+    "explanation": "Sự truyền bá lý luận vô sản và phát triển phong trào công nhân thúc đẩy phong trào yêu nước theo khuynh hướng cách mạng vô sản.",
+    "book_pages": "58–59"
+  },
+  "s7-i51": {
+    "explanation": "Tháng 3/1929, những hội viên tiên tiến lập chi bộ cộng sản đầu tiên tại 5D Hàm Long, Hà Nội.",
+    "book_pages": "59"
+  },
+  "s7-i52": {
+    "explanation": "Đại hội lần thứ nhất Hội Việt Nam Cách mạng Thanh niên họp tháng 5/1929 ở Hương Cảng.",
+    "book_pages": "59"
+  },
+  "s7-i53": {
+    "explanation": "Ngày 17/6/1929, Đông Dương Cộng sản Đảng được thành lập tại Hà Nội.",
+    "book_pages": "59"
+  },
+  "s7-i55": {
+    "explanation": "Giáo trình ghi tháng 11/1929 thành lập An Nam Cộng sản Đảng trên cơ sở các chi bộ cộng sản Nam Kỳ.",
+    "book_pages": "59"
+  },
+  "s7-i56": {
+    "explanation": "Theo giáo trình, tháng 9/1929 những người tiên tiến trong Tân Việt ra tuyên đạt lập Đông Dương Cộng sản Liên đoàn.",
+    "book_pages": "60"
+  },
+  "s7-i57": {
+    "explanation": "Đông Dương Cộng sản Liên đoàn hình thành từ những người tiên tiến trong Tân Việt Cách mạng Đảng.",
+    "book_pages": "59–60"
+  },
+  "s7-i58": {
+    "explanation": "Ba tổ chức ra đời đánh dấu bước phát triển nhưng phân tán lực lượng; yêu cầu cấp thiết là thống nhất thành một đảng.",
+    "book_pages": "60–61"
+  },
+  "s7-i61": {
+    "explanation": "Đại hội III năm 1960 quyết nghị lấy ngày 3/2 hằng năm làm ngày kỷ niệm thành lập Đảng.",
+    "book_pages": "61"
+  },
+  "s7-i62": {
+    "explanation": "Hội nghị hợp nhất quyết định tên tổ chức là Đảng Cộng sản Việt Nam.",
+    "book_pages": "62"
+  },
+  "s7-i63": {
+    "explanation": "Hội nghị thông qua Chánh cương vắn tắt, Sách lược vắn tắt, Chương trình tóm tắt và Điều lệ vắn tắt.",
+    "book_pages": "62–63"
+  },
+  "s7-i64": {
+    "explanation": "Ngày 24/2/1930, việc thống nhất được hoàn thành khi Đông Dương Cộng sản Liên đoàn được chấp nhận gia nhập Đảng.",
+    "book_pages": "63"
+  },
+  "s7-i65": {
+    "explanation": "Quyết nghị ngày 24/2/1930 chấp nhận Đông Dương Cộng sản Liên đoàn gia nhập Đảng Cộng sản Việt Nam.",
+    "book_pages": "63"
+  },
+  "s7-i67": {
+    "explanation": "Cương lĩnh xác định làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
+    "book_pages": "64"
+  },
+  "s7-i68": {
+    "explanation": "Cương lĩnh đặt nhiệm vụ chống đế quốc, phong kiến, giành độc lập và xây dựng chính quyền công nông binh.",
+    "book_pages": "64–65"
+  },
+  "s7-i69": {
+    "explanation": "Cương lĩnh xác định Đảng là đội tiên phong của giai cấp công nhân, lãnh đạo quần chúng cách mạng.",
+    "book_pages": "66–67"
+  },
+  "s7-i73": {
+    "explanation": "Đảng ra đời gắn với yêu cầu giải quyết cả mâu thuẫn dân tộc và mâu thuẫn giai cấp của xã hội thuộc địa.",
+    "book_pages": "43, 68–69"
+  },
+  "s7-i74": {
+    "explanation": "Đảng ra đời từ sự kết hợp chủ nghĩa Mác – Lênin với phong trào công nhân và phong trào yêu nước Việt Nam.",
+    "book_pages": "68–69"
+  },
+  "s7-i77": {
+    "explanation": "Hội nghị tháng 10/1930 quyết định đổi tên Đảng Cộng sản Việt Nam thành Đảng Cộng sản Đông Dương.",
+    "book_pages": "75"
+  },
+  "s7-i78": {
+    "explanation": "Hội nghị Trung ương tháng 10/1930 bầu Trần Phú làm Tổng Bí thư.",
+    "book_pages": "75"
+  },
+  "s7-i79": {
+    "explanation": "Luận cương 1930 xác định cách mạng tư sản dân quyền, sau đó bỏ qua thời kỳ tư bản để tiến lên chủ nghĩa xã hội.",
+    "book_pages": "76"
+  },
+  "s7-i48": {
+    "answer": "D",
+    "explanation": "Hội Thanh niên có vai trò trước năm 1929; trong năm 1929 xuất hiện các tổ chức cộng sản và Công hội đỏ, tiếp tục tổ chức phong trào công nhân. Vì câu hỏi bao trùm cả giai đoạn, không chỉ A đúng.",
+    "book_pages": "58–59",
+    "source": "https://btctdbp.svhttdl.dienbien.gov.vn/portal/pages/2021-7-30/Ky-niem-92-nam-Ngay-Thanh-lap-cong-doan-Viet-Nam-2nprhace6rvp2.aspx"
+  },
+  "s7-i54": {
+    "issue": "Cần đối chiếu nguyên văn tuyên ngôn",
+    "explanation": "Giáo trình xác nhận Đông Dương Cộng sản Đảng thông qua Tuyên ngôn nhưng không trích đủ ba phương án; chưa có đủ căn cứ để khẳng định D là phương án duy nhất.",
+    "book_pages": "59"
+  },
+  "s7-i59": {
+    "explanation": "Ngày 27/10/1929, Quốc tế Cộng sản gửi tài liệu về việc thành lập một đảng cộng sản ở Đông Dương.",
+    "source": "https://www.thuvienlamdong.org.vn/Files/Books/78640.pdf"
+  },
+  "s7-i66": {
+    "issue": "Đề không có phương án đầy đủ và duy nhất",
+    "explanation": "Giáo trình xác định Cương lĩnh gồm Chánh cương vắn tắt và Sách lược vắn tắt. A và B chỉ nêu từng phần; D thêm Chương trình tóm tắt nên không đúng theo định nghĩa này.",
+    "book_pages": "64"
+  },
+  "s7-i70": {
+    "issue": "Đề có nhiều phương án đúng",
+    "explanation": "Giáo trình nêu cách mạng Việt Nam vừa liên hệ mật thiết, vừa là một bộ phận của cách mạng thế giới; cả B và C đều phù hợp.",
+    "book_pages": "67"
+  },
+  "s7-i71": {
+    "issue": "Đề cần làm rõ phạm vi lực lượng",
+    "explanation": "Công nhân và nông dân là lực lượng cơ bản; Cương lĩnh đồng thời chủ trương tập hợp tiểu tư sản, trí thức và nhiều lực lượng yêu nước. Đề không làm rõ đang hỏi lực lượng cơ bản hay toàn bộ lực lượng.",
+    "book_pages": "66"
+  },
+  "s7-i75": {
+    "explanation": "Sau thời gian học tập ở Liên Xô, Trần Phú về nước tháng 4/1930 và tham gia chuẩn bị Luận cương chính trị.",
+    "source": "https://tulieuvankien.dangcongsan.vn/Uploads/2018/6/3/14/tranphutieusu.pdf"
+  },
+  "s7-i76": {
+    "issue": "Không có phương án đúng theo giáo trình",
+    "explanation": "Giáo trình ghi Hội nghị lần thứ nhất họp từ 14 đến 31/10/1930; phương án A ghi đến ngày 30/10 nên không khớp.",
+    "book_pages": "75",
+    "source": "https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/lich-su-dang/lich-su-bien-nien-dang-cong-san-viet-nam-tap-2-175"
+  },
+  "s7-i80": {
+    "answer": "D",
+    "explanation": "Luận cương nêu đồng thời hai nhiệm vụ chống đế quốc và chống phong kiến, cách mạng ruộng đất. Vì A, B, C đều mô tả đúng những nội dung đó, chọn D.",
+    "book_pages": "76"
   }
 }
