@@ -95,3 +95,13 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - [x] Giữ nút luyện bình thường và chế độ đề 40 câu theo cách chấm sau khi nộp; lượt cũ không có cờ phản hồi vẫn giữ chế độ cũ.
 - [x] Chạy 14/14 kiểm thử, build, deploy và kiểm tra bản online có các chức năng mới. Browser access host không khả dụng, chưa kiểm thử tương tác bằng giao diện trình duyệt.
 - Source Sites: 113b80acb88e45e9410e57cdc02b82c8d6834a29; deployment: appgdep_6ae56be177408191af2c6ad368c3798e.
+
+## Chế độ học cả bộ và rà soát đáp án
+
+- [x] Hiển thị toàn bộ câu trong bộ đề; nút hiện/ẩn toàn bộ đáp án. Khi ẩn, xóa lựa chọn đang xem để đáp án trở về trạng thái ẩn.
+- [x] Bấm trực tiếp phương án trong từng câu: phản hồi đúng/sai và hiển thị giải thích khi đã biên soạn. Không chấm câu không có đáp án; vẫn giữ chế độ thi 40 câu chấm sau nộp.
+- [x] Kiểm tra 710 câu về số lượng, cấu trúc phương án và khóa đáp án; tham khảo các nguồn trong `data/NGUON_VA_TIEN_DO.md`.
+- [x] Thêm 177 giải thích và 112 đáp án gợi ý cho câu vốn thiếu; đánh dấu 5 câu lỗi/mơ hồ để không chấm.
+- [ ] Rà soát nội dung và đối chiếu nguồn cho toàn bộ ngân hàng; hiện vẫn còn 37 câu chưa có đáp án và 533 câu chưa có giải thích. Các đáp án gốc khác chưa được xác nhận đồng loạt bởi giảng viên. Không coi tác vụ nghiên cứu là hoàn tất.
+- [x] 16/16 kiểm thử đạt; kiểm tra production bằng cách đăng nhập và chạy logic HTML. Chưa kiểm tra tương tác bằng giao diện trên thiết bị người dùng.
+- Source Sites: 8d6b78b6a8e8d1451ebf11a5ab6ca60b83d7de01; deployment: appgdep_6ae5746c872c8191a65cac8f6d9070c7.
