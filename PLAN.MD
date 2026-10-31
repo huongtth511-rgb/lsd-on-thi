@@ -122,3 +122,5 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - Đã đối chiếu thêm 40 câu về bối cảnh ra đời của Đảng; tổng cộng 439 câu có giải thích hoặc lưu ý, 301 câu ghi trang giáo trình, 37 câu cần làm rõ không tính điểm; còn 271 câu chưa có lời giải.
 
 - Đã biên soạn thêm 37 câu về thành lập Đảng và Luận cương 1930; tổng cộng 476 câu có giải thích hoặc lưu ý, 336 câu ghi trang giáo trình, 42 câu cần làm rõ không tính điểm; còn 234 câu chưa có lời giải.
+
+- Đã đối chiếu thêm 30 câu cuối bộ ôn tập Chương 1; tổng cộng 506 câu có giải thích hoặc lưu ý, 365 câu ghi trang giáo trình, 45 câu cần làm rõ không tính điểm; còn 204 câu chưa có lời giải.
