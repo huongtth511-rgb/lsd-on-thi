@@ -123,8 +123,11 @@ test('textbook citations appear and ambiguous questions remain ungraded', () => 
   assert.equal(a.keyed(byId.get('s7-i80')),'D');
   assert.equal(a.keyed(byId.get('s7-i83')),'D');
   assert.equal(a.keyed(byId.get('s7-i85')),'B');
+  assert.equal(a.keyed(byId.get('s8-i39')),'A');
+  assert.equal(a.keyed(byId.get('s8-i55')),'B');
+  assert.equal(a.keyed(byId.get('s8-i62')),'B');
   assert.equal(a.keyed(byId.get('s9-i63')),null);
-  for (const id of ['s9-i31','s9-i44','s9-i71','s3-i14','s3-i69','s7-i4','s7-i8','s7-i13','s7-i66','s7-i76','s7-i88','s7-i106']) assert.equal(a.keyed(byId.get(id)),null);
+  for (const id of ['s9-i31','s9-i44','s9-i71','s3-i14','s3-i69','s7-i4','s7-i8','s7-i13','s7-i66','s7-i76','s7-i88','s7-i106','s8-i19','s8-i24']) assert.equal(a.keyed(byId.get(id)),null);
   const q=byId.get('s5-i98');
   assert.match(a.preview({questions:[q]},true).html,/Giáo trình Lịch sử Đảng.*264/);
 });
