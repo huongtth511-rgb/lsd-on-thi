@@ -105,3 +105,10 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - [ ] Rà soát nội dung và đối chiếu nguồn cho toàn bộ ngân hàng; hiện vẫn còn 37 câu chưa có đáp án và 533 câu chưa có giải thích. Các đáp án gốc khác chưa được xác nhận đồng loạt bởi giảng viên. Không coi tác vụ nghiên cứu là hoàn tất.
 - [x] 16/16 kiểm thử đạt; kiểm tra production bằng cách đăng nhập và chạy logic HTML. Chưa kiểm tra tương tác bằng giao diện trên thiết bị người dùng.
 - Source Sites: 8d6b78b6a8e8d1451ebf11a5ab6ca60b83d7de01; deployment: appgdep_6ae5746c872c8191a65cac8f6d9070c7.
+
+
+## Đối chiếu giáo trình 2026
+
+- Đã nhận dạng 221 trang PDF quét để tìm kiếm, đang so sánh nội dung với trang sách và các nguồn chính thức.
+- Đã ghi chú 214 câu (80 câu có số trang giáo trình); 135 đáp án thiếu được bổ sung, 20 câu chưa rõ hoặc có lỗi không tính điểm.
+- Còn 496 câu chưa có lời giải; tiếp tục kiểm tra từng đáp án và viết lời giải trọng tâm, không tự suy đoán để lấp trống.

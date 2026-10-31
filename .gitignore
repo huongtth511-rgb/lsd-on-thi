@@ -14,3 +14,5 @@ sites-deploy.tar.gz
 .sites-auth-starter/
 .sites-secrets.json
 sites-auth-deploy.tar.gz
+
+.study-ocr/

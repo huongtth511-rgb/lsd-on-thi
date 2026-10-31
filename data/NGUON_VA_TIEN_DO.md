@@ -1,6 +1,7 @@
 # Đối chiếu đáp án và giải thích
 
-Nguồn tham khảo chính đã dùng cho các nội dung được bổ sung:
+Nguồn chính đang đối chiếu là file **Giáo trình Lịch sử Đảng năm 2026** do người dùng cung cấp (221 trang PDF quét, mỗi trang PDF thường gồm hai trang sách). Số trang bên cạnh lời giải là số trang in trên sách. Nội dung quét được nhận dạng chữ để tìm kiếm và được đối chiếu với bản ảnh khi cần; nhận dạng tự động có thể nhầm chữ hoặc năm. Một số câu cần thêm nguồn chính thức khác:
+
 
 - [Cương lĩnh chính trị và Luận cương 1930 — Tư liệu Văn kiện Đảng](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/gioi-thieu-van-kien-dang/cuong-linh-chinh-tri-ngon-co-tu-tuong-ly-luan-chi-dao-su-nghiep-cach-mang-cua-chung-ta-948).
 - [Nguyễn Ái Quốc đọc Luận cương và Đại hội Tours — Hồ Chí Minh](https://hochiminh.vn/tin-tuc/chu-tich-ho-chi-minh-va-hanh-trinh-30-nam-tim-duong-cuu-nuoc-giai-phong-dan-toc-9013).
@@ -11,4 +12,4 @@ Nguồn tham khảo chính đã dùng cho các nội dung được bổ sung:
 
 Các nguồn này bao quát nhiều chủ đề, không có nghĩa mỗi đáp án đã được từng nguồn xác nhận. Một số câu có thêm đường dẫn nguồn cụ thể ngay trong ứng dụng. Những đáp án có sẵn trong file gốc vẫn là đáp án gợi ý và chưa được xác nhận đồng loạt bởi giảng viên.
 
-Trạng thái: 710 câu; 177 câu đã thêm giải thích; 112 câu trước đây thiếu đáp án nay có đáp án gợi ý; 5 câu được đánh dấu phương án lỗi/mơ hồ, không chấm; còn 37 câu thiếu đáp án và 533 câu chưa có giải thích. Số liệu không bao gồm đáp án do người dùng tự sửa trong trình duyệt. Các câu còn lại cần được đối chiếu riêng, không suy đoán chỉ để lấp trống.
+Trạng thái đợt đối chiếu hiện tại: 710 câu; 214 câu có giải thích hoặc lưu ý, trong đó 80 câu ghi trang giáo trình; đã bổ sung đáp án gợi ý cho 135 câu trước đây thiếu; 20 câu có đề lỗi hoặc chưa rõ được đánh dấu không chấm; 496 câu chưa có giải thích. Không còn câu thiếu đáp án mà chưa được xử lý: các câu chưa đủ căn cứ đã được đánh dấu không chấm. Các đáp án có sẵn vẫn cần kiểm tra từng câu, không coi toàn bộ 710 câu đã được xác minh. Số liệu không bao gồm đáp án do người dùng tự sửa trong trình duyệt.

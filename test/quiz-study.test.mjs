@@ -33,7 +33,7 @@ test('preview displays all matching questions with keys, and preserves unknown k
   assert.equal((hidden.html.match(/class="review"/g)||[]).length,set.questions.length);
   assert.equal((shown.html.match(/class="review"/g)||[]).length,set.questions.length);
   assert.match(shown.html,/✓ Đáp án gợi ý/);
-  assert.match(shown.html,/Chưa đủ căn cứ để bổ sung đáp án/);
+  assert.match(shown.html,/Đề chưa có phương án phù hợp|Đề cần làm rõ|Không có phương án đúng|cần đối chiếu/);
   assert.doesNotMatch(hidden.html,/✓ Đáp án gợi ý/);
   assert.match(hidden.count,new RegExp(String(set.questions.length)));
   const unique='không có cụm này abcxyz';
@@ -109,4 +109,14 @@ test('ordinary 40-question exam keeps answers hidden until grading, including ol
   assert.doesNotMatch(view,/Bạn chọn đúng theo đáp án|Đáp án gợi ý là|answer correct|answer incorrect/);
   assert.match(view,/Nộp bài/);
   assert.equal(a.grade().right,1);
+});
+
+
+test('textbook citations appear and ambiguous questions remain ungraded', () => {
+  const a=app(), all=a.sets().flatMap(s=>s.questions), byId=new Map(all.map(q=>[q.id,q]));
+  for (const id of ['s1-i20','s3-i75']) assert.equal(a.keyed(byId.get(id)),null);
+  assert.equal(a.keyed(byId.get('s6-i21')),'C');
+  assert.equal(a.keyed(byId.get('s8-i58')),'B');
+  const q=byId.get('s5-i98');
+  assert.match(a.preview({questions:[q]},true).html,/Giáo trình Lịch sử Đảng.*264/);
 });

@@ -21,34 +21,43 @@
     "explanation": "Bãi công Ba Son đánh dấu bước đầu đấu tranh tự giác; sự ra đời của Đảng năm 1930 đánh dấu sự trưởng thành về chính trị."
   },
   "s1-i8": {
-    "explanation": "Nguyễn Ái Quốc đọc Luận cương của Lênin vào tháng 7/1920, không phải tháng 10/1917. Đại hội Tours tháng 12/1920 là mốc Người trở thành người cộng sản."
+    "explanation": "Nguyễn Ái Quốc đọc Luận cương của Lênin vào tháng 7/1920, không phải tháng 10/1917. Đại hội Tours tháng 12/1920 là mốc Người trở thành người cộng sản.",
+    "book_pages": "51"
   },
   "s1-i9": {
-    "explanation": "Đường Kách mệnh xuất bản năm 1927 để chuẩn bị về tư tưởng và chính trị; Cương lĩnh đầu tiên được thông qua năm 1930."
+    "explanation": "Đường Kách mệnh xuất bản năm 1927 để chuẩn bị về tư tưởng và chính trị; Cương lĩnh đầu tiên được thông qua năm 1930.",
+    "book_pages": "57, 64"
   },
   "s1-i10": {
-    "explanation": "Đông Dương Cộng sản Liên đoàn hình thành từ Tân Việt Cách mạng Đảng, không phải từ Hội Việt Nam Cách mạng Thanh niên."
+    "explanation": "Đông Dương Cộng sản Liên đoàn hình thành từ Tân Việt Cách mạng Đảng, không phải từ Hội Việt Nam Cách mạng Thanh niên.",
+    "book_pages": "59–60"
   },
   "s1-i11": {
-    "explanation": "Ba tổ chức cộng sản ra đời năm 1929 nhưng hoạt động riêng rẽ; việc hợp nhất năm 1930 khắc phục tình trạng phân tán."
+    "explanation": "Ba tổ chức cộng sản ra đời năm 1929 nhưng hoạt động riêng rẽ; việc hợp nhất năm 1930 khắc phục tình trạng phân tán.",
+    "book_pages": "60–61"
   },
   "s1-i12": {
-    "explanation": "Hội nghị hợp nhất có đại biểu Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng; Đông Dương Cộng sản Liên đoàn gia nhập sau."
+    "explanation": "Hội nghị hợp nhất có đại biểu Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng; Đông Dương Cộng sản Liên đoàn gia nhập sau.",
+    "book_pages": "62–63"
   },
   "s1-i13": {
-    "explanation": "Cương lĩnh coi công–nông là nền tảng nhưng chủ trương tập hợp thêm các lực lượng yêu nước khác."
+    "explanation": "Cương lĩnh coi công–nông là nền tảng nhưng chủ trương tập hợp thêm các lực lượng yêu nước khác.",
+    "book_pages": "66"
   },
   "s1-i14": {
-    "explanation": "Luận cương chưa đánh giá đầy đủ khả năng liên minh của tư sản dân tộc và các tầng lớp khác; không phải đã mở rộng hơn Cương lĩnh."
+    "explanation": "Luận cương chưa đánh giá đầy đủ khả năng liên minh của tư sản dân tộc và các tầng lớp khác; không phải đã mở rộng hơn Cương lĩnh.",
+    "book_pages": "66, 76–77"
   },
   "s1-i15": {
-    "explanation": "Hội nghị tháng 10/1930 thông qua Luận cương do Trần Phú khởi thảo, không lấy Đường Kách mệnh làm cương lĩnh thay thế."
+    "explanation": "Hội nghị tháng 10/1930 thông qua Luận cương do Trần Phú khởi thảo, không lấy Đường Kách mệnh làm cương lĩnh thay thế.",
+    "book_pages": "75"
   },
   "s1-i16": {
     "explanation": "Trần Phú là Tổng Bí thư đầu tiên; Nguyễn Ái Quốc không được Đại hội VII Quốc tế Cộng sản cử giữ chức này."
   },
   "s1-i17": {
-    "explanation": "Đại hội I năm 1935 bầu Lê Hồng Phong làm Tổng Bí thư; Nguyễn Văn Cừ giữ chức sau đó."
+    "explanation": "Đại hội I năm 1935 bầu Lê Hồng Phong làm Tổng Bí thư; Nguyễn Văn Cừ giữ chức sau đó.",
+    "book_pages": "75, 82"
   },
   "s1-i18": {
     "explanation": "Việt Nam Quốc dân Đảng theo khuynh hướng dân chủ tư sản, không lấy chủ nghĩa Mác–Lênin làm kim chỉ nam."
@@ -57,13 +66,16 @@
     "explanation": "Sự thành lập Đảng gắn với nhu cầu trong nước, phong trào công nhân, phong trào yêu nước và sự truyền bá chủ nghĩa Mác–Lênin."
   },
   "s1-i20": {
-    "explanation": "Chỉ thị Nhật–Pháp bắn nhau ra đời tháng 3/1945, sau Cương lĩnh đầu tiên năm 1930."
+    "issue": "Đề chưa có phương án phù hợp",
+    "explanation": "Giáo trình xác định Cương lĩnh đầu tiên gồm Chánh cương vắn tắt và Sách lược vắn tắt. Chương trình tóm tắt, Điều lệ vắn tắt cũng được hội nghị thông qua nhưng không phải hai văn kiện cấu thành Cương lĩnh; vì vậy cả C và D đều có thể không thuộc Cương lĩnh.",
+    "book_pages": "62–64"
   },
   "s1-i21": {
     "explanation": "Hội nghị hợp nhất năm 1930 diễn ra ở Hương Cảng; Nguyễn Ái Quốc về Cao Bằng năm 1941."
   },
   "s1-i22": {
-    "explanation": "Cương lĩnh xác định giai cấp công nhân lãnh đạo cách mạng; không phải cách mạng do giai cấp tư sản Việt Nam lãnh đạo."
+    "explanation": "Cương lĩnh xác định giai cấp công nhân lãnh đạo cách mạng; không phải cách mạng do giai cấp tư sản Việt Nam lãnh đạo.",
+    "book_pages": "64–67"
   },
   "s1-i23": {
     "explanation": "Kinh tế thuộc địa được tổ chức chủ yếu để phục vụ khai thác và lợi ích chính quốc, không nhằm xây dựng Việt Nam thành cường quốc công nghiệp."
@@ -72,7 +84,8 @@
     "explanation": "Chủ nghĩa Mác–Lênin được truyền bá mạnh vào Việt Nam trong thập niên 1920, không phải đã phổ biến từ cuối thế kỷ XIX."
   },
   "s1-i25": {
-    "explanation": "Sau khi đọc Luận cương năm 1920, Nguyễn Ái Quốc tiếp tục hoạt động tại Pháp và dự Đại hội Tours, không bỏ sang Mỹ tìm tài trợ."
+    "explanation": "Sau khi đọc Luận cương năm 1920, Nguyễn Ái Quốc tiếp tục hoạt động tại Pháp và dự Đại hội Tours, không bỏ sang Mỹ tìm tài trợ.",
+    "book_pages": "51"
   },
   "s1-i26": {
     "explanation": "Hội Việt Nam Cách mạng Thanh niên do Nguyễn Ái Quốc tổ chức để đào tạo và truyền bá tư tưởng cách mạng; Tân Việt không phải lực lượng nòng cốt của Hội."
@@ -81,7 +94,8 @@
     "explanation": "Đảng ra đời năm 1930 không đồng nghĩa miền Bắc lập tức được giải phóng; sự kiện này trước hết giải quyết vấn đề đường lối và lãnh đạo."
   },
   "s1-i28": {
-    "explanation": "Luận cương tháng 10/1930 chưa đánh giá đầy đủ vai trò các lực lượng ngoài công–nông, nhất là tư sản dân tộc."
+    "explanation": "Luận cương tháng 10/1930 chưa đánh giá đầy đủ vai trò các lực lượng ngoài công–nông, nhất là tư sản dân tộc.",
+    "book_pages": "76–77"
   },
   "s1-i29": {
     "explanation": "Các cuộc bãi công 1926–1929 phát triển về quy mô và ý thức chính trị, không chỉ nhằm đòi ghế trong Quốc hội Pháp."
@@ -90,16 +104,19 @@
     "explanation": "Cương lĩnh 1930 đặt vấn đề cách mạng dân tộc và dân chủ; không xác định công nghiệp hóa xã hội chủ nghĩa là mặt trận hàng đầu."
   },
   "s2-i1": {
-    "explanation": "Đông Dương Cộng sản Liên đoàn hình thành từ Tân Việt Cách mạng Đảng, không phải Việt Nam Quốc dân Đảng."
+    "explanation": "Đông Dương Cộng sản Liên đoàn hình thành từ Tân Việt Cách mạng Đảng, không phải Việt Nam Quốc dân Đảng.",
+    "book_pages": "60"
   },
   "s2-i2": {
-    "explanation": "Luận cương nhấn mạnh công nhân và nông dân, chưa đánh giá đầy đủ khả năng tập hợp các tầng lớp khác."
+    "explanation": "Luận cương nhấn mạnh công nhân và nông dân, chưa đánh giá đầy đủ khả năng tập hợp các tầng lớp khác.",
+    "book_pages": "66, 76–77"
   },
   "s2-i3": {
     "explanation": "Bãi công Ba Son diễn ra năm 1925, trước khi Đảng Cộng sản Việt Nam thành lập năm 1930."
   },
   "s2-i4": {
-    "explanation": "Đại hội VII Quốc tế Cộng sản xác định chủ nghĩa phát xít và nguy cơ chiến tranh là mối đe dọa trước mắt."
+    "explanation": "Đại hội VII Quốc tế Cộng sản xác định chủ nghĩa phát xít và nguy cơ chiến tranh là mối đe dọa trước mắt.",
+    "book_pages": "83–84"
   },
   "s2-i5": {
     "explanation": "Hội nghị Trung ương 8 chủ trương giải quyết vấn đề dân tộc trong từng nước Đông Dương, lập Việt Minh ở Việt Nam."
@@ -123,10 +140,12 @@
     "explanation": "Bãi công Ba Son năm 1925 thường được xem là mốc bước đầu chuyển sang đấu tranh tự giác; không phải bãi công Nam Định năm 1930."
   },
   "s2-i12": {
-    "explanation": "Tháng 3/1938, mặt trận được đổi thành Mặt trận Dân chủ Đông Dương; phương án B nhầm tên mặt trận phản đế."
+    "explanation": "Tháng 3/1938, mặt trận được đổi thành Mặt trận Dân chủ Đông Dương; phương án B nhầm tên mặt trận phản đế.",
+    "book_pages": "86"
   },
   "s2-i13": {
-    "explanation": "Hội nghị hợp nhất ban đầu có đại biểu của hai tổ chức; Đông Dương Cộng sản Liên đoàn gia nhập sau."
+    "explanation": "Hội nghị hợp nhất ban đầu có đại biểu của hai tổ chức; Đông Dương Cộng sản Liên đoàn gia nhập sau.",
+    "book_pages": "62–63"
   },
   "s2-i14": {
     "explanation": "Hội nghị Trung ương 6 tháng 11/1939 chuyển hướng, đặt nhiệm vụ giải phóng dân tộc lên hàng đầu."
@@ -144,7 +163,8 @@
     "explanation": "Lá cờ đỏ sao vàng gắn với khởi nghĩa Nam Kỳ năm 1940, không phải khởi nghĩa Bắc Sơn như phương án D."
   },
   "s2-i19": {
-    "explanation": "Luận cương chưa chủ trương đoàn kết chặt chẽ với tư sản mại bản như phương án B nêu."
+    "explanation": "Luận cương chưa chủ trương đoàn kết chặt chẽ với tư sản mại bản như phương án B nêu.",
+    "book_pages": "76–77"
   },
   "s2-i20": {
     "explanation": "Hiến pháp đầu tiên được Quốc hội thông qua tháng 11/1946, sau Đại hội Quốc dân Tân Trào tháng 8/1945."
@@ -168,7 +188,8 @@
     "explanation": "Đội Việt Nam Tuyên truyền Giải phóng quân thành lập ngày 22/12/1944, không phải tháng 12/1945."
   },
   "s2-i27": {
-    "explanation": "Văn kiện nêu giải phóng dân tộc không nhất thiết ràng buộc chặt với cách mạng điền địa; phương án C nêu điều ngược lại."
+    "explanation": "Văn kiện nêu giải phóng dân tộc không nhất thiết ràng buộc chặt với cách mạng điền địa; phương án C nêu điều ngược lại.",
+    "book_pages": "86–87"
   },
   "s2-i28": {
     "explanation": "Cứu quốc quân hình thành trước Tổng khởi nghĩa Tháng Tám 1945, gắn với lực lượng vũ trang ở căn cứ Bắc Sơn–Võ Nhai."
@@ -185,19 +206,23 @@
   },
   "s4-i2": {
     "answer": "A",
-    "explanation": "Chỉ thị Kháng chiến kiến quốc xác định cách mạng Đông Dương lúc này vẫn là cách mạng dân tộc giải phóng."
+    "explanation": "Chỉ thị Kháng chiến kiến quốc xác định cách mạng Đông Dương lúc này vẫn là cách mạng dân tộc giải phóng.",
+    "book_pages": "131"
   },
   "s4-i3": {
     "answer": "C",
-    "explanation": "Chỉ thị nêu khẩu hiệu Dân tộc trên hết, Tổ quốc trên hết."
+    "explanation": "Chỉ thị nêu khẩu hiệu Dân tộc trên hết, Tổ quốc trên hết.",
+    "book_pages": "131–132"
   },
   "s4-i4": {
     "answer": "D",
-    "explanation": "Chỉ thị ngày 25/11/1945 xác định thực dân Pháp xâm lược là kẻ thù chính trước mắt."
+    "explanation": "Chỉ thị ngày 25/11/1945 xác định thực dân Pháp xâm lược là kẻ thù chính trước mắt.",
+    "book_pages": "131"
   },
   "s4-i5": {
     "answer": "D",
-    "explanation": "Nhiệm vụ bao gồm củng cố chính quyền, chống Pháp xâm lược, bài trừ nội phản và cải thiện đời sống nhân dân."
+    "explanation": "Nhiệm vụ bao gồm củng cố chính quyền, chống Pháp xâm lược, bài trừ nội phản và cải thiện đời sống nhân dân.",
+    "book_pages": "132"
   },
   "s4-i6": {
     "answer": "C",
@@ -209,20 +234,24 @@
   },
   "s4-i10": {
     "answer": "D",
-    "explanation": "Chỉ thị xác định kẻ thù chính, định hướng chiến lược và đề ra nhiệm vụ đối nội, đối ngoại cấp bách."
+    "explanation": "Chỉ thị xác định kẻ thù chính, định hướng chiến lược và đề ra nhiệm vụ đối nội, đối ngoại cấp bách.",
+    "book_pages": "131–132"
   },
   "s4-i11": {
     "issue": "Không có phương án đúng",
     "explanation": "Tổng tuyển cử đầu tiên diễn ra ngày 6/1/1946. Bốn phương án trong đề không có ngày này, nên câu không được chấm tự động.",
-    "source": "https://quochoi.vn/tulieuquochoi/tulieu/baucuquochoi/Pages/bau-cu-quoc-hoi.aspx?ItemID=23986"
+    "source": "https://quochoi.vn/tulieuquochoi/tulieu/baucuquochoi/Pages/bau-cu-quoc-hoi.aspx?ItemID=23986",
+    "book_pages": "134"
   },
   "s4-i12": {
     "answer": "C",
-    "explanation": "Quốc hội thông qua Hiến pháp đầu tiên vào ngày 9/11/1946."
+    "explanation": "Quốc hội thông qua Hiến pháp đầu tiên vào ngày 9/11/1946.",
+    "book_pages": "135"
   },
   "s4-i13": {
     "answer": "B",
-    "explanation": "Quốc hội và hội đồng nhân dân được bầu theo hình thức phổ thông đầu phiếu, không do Đảng trực tiếp cử."
+    "explanation": "Quốc hội và hội đồng nhân dân được bầu theo hình thức phổ thông đầu phiếu, không do Đảng trực tiếp cử.",
+    "book_pages": "134–135"
   },
   "s4-i16": {
     "answer": "A",
@@ -246,7 +275,8 @@
   },
   "s4-i22": {
     "answer": "D",
-    "explanation": "Thời kỳ 1936–1939 kết hợp tổ chức và đấu tranh công khai, nửa công khai với hoạt động bí mật, bất hợp pháp."
+    "explanation": "Thời kỳ 1936–1939 kết hợp tổ chức và đấu tranh công khai, nửa công khai với hoạt động bí mật, bất hợp pháp.",
+    "book_pages": "85–86"
   },
   "s4-i24": {
     "answer": "C",
@@ -266,7 +296,8 @@
   },
   "s4-i29": {
     "answer": "C",
-    "explanation": "Luận cương tháng 10/1930 chưa đặt đúng mức vấn đề dân tộc, chưa thấy đầy đủ tính cấp bách của giải phóng dân tộc."
+    "explanation": "Luận cương tháng 10/1930 chưa đặt đúng mức vấn đề dân tộc, chưa thấy đầy đủ tính cấp bách của giải phóng dân tộc.",
+    "book_pages": "76–77"
   },
   "s4-i30": {
     "answer": "D",
@@ -298,15 +329,18 @@
   },
   "s4-i60": {
     "answer": "B",
-    "explanation": "Trọng tâm trước mắt 1936–1939 là đấu tranh đòi dân sinh, dân chủ và hòa bình."
+    "explanation": "Trọng tâm trước mắt 1936–1939 là đấu tranh đòi dân sinh, dân chủ và hòa bình.",
+    "book_pages": "85"
   },
   "s4-i61": {
     "answer": "C",
-    "explanation": "Kẻ thù trước mắt được xác định là bọn phản động thuộc địa và tay sai của chúng."
+    "explanation": "Kẻ thù trước mắt được xác định là bọn phản động thuộc địa và tay sai của chúng.",
+    "book_pages": "85"
   },
   "s4-i62": {
     "answer": "D",
-    "explanation": "Phong trào hướng vào chống phát xít, chống phản động thuộc địa và đòi tự do, dân chủ, cơm áo, hòa bình."
+    "explanation": "Phong trào hướng vào chống phát xít, chống phản động thuộc địa và đòi tự do, dân chủ, cơm áo, hòa bình.",
+    "book_pages": "85"
   },
   "s4-i63": {
     "answer": "A",
@@ -314,7 +348,8 @@
   },
   "s4-i64": {
     "answer": "B",
-    "explanation": "Tháng 3/1938, mặt trận được đổi tên thành Mặt trận Dân chủ Đông Dương."
+    "explanation": "Tháng 3/1938, mặt trận được đổi tên thành Mặt trận Dân chủ Đông Dương.",
+    "book_pages": "86"
   },
   "s4-i36": {
     "answer": "C",
@@ -389,19 +424,23 @@
   "s4-i69": {
     "answer": "C",
     "explanation": "Chỉ thị Kháng chiến kiến quốc ngày 25/11/1945 nêu bốn nhiệm vụ cấp bách.",
-    "source": "https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/lich-su-dang/lich-su-bien-nien-dang-cong-san-viet-nam-tap-3-176"
+    "source": "https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/lich-su-dang/lich-su-bien-nien-dang-cong-san-viet-nam-tap-3-176",
+    "book_pages": "131–132"
   },
   "s4-i70": {
     "answer": "A",
-    "explanation": "Hội nghị Trung ương tháng 10/1930 quyết định đổi tên thành Đảng Cộng sản Đông Dương."
+    "explanation": "Hội nghị Trung ương tháng 10/1930 quyết định đổi tên thành Đảng Cộng sản Đông Dương.",
+    "book_pages": "75"
   },
   "s4-i71": {
     "answer": "A",
-    "explanation": "Cương lĩnh đầu tiên xác định đánh đổ đế quốc Pháp và tay sai, làm cho nước Nam hoàn toàn độc lập."
+    "explanation": "Cương lĩnh đầu tiên xác định đánh đổ đế quốc Pháp và tay sai, làm cho nước Nam hoàn toàn độc lập.",
+    "book_pages": "64–65"
   },
   "s4-i75": {
     "answer": "C",
-    "explanation": "Luận cương chính trị tháng 10/1930 nhấn mạnh vấn đề ruộng đất là cốt lõi của cách mạng tư sản dân quyền."
+    "explanation": "Luận cương chính trị tháng 10/1930 nhấn mạnh vấn đề ruộng đất là cốt lõi của cách mạng tư sản dân quyền.",
+    "book_pages": "76"
   },
   "s4-i76": {
     "answer": "D",
@@ -409,7 +448,8 @@
   },
   "s4-i77": {
     "answer": "B",
-    "explanation": "Cuộc vận động 1936–1939 tập trung những yêu cầu trước mắt về dân sinh, dân chủ và hòa bình."
+    "explanation": "Cuộc vận động 1936–1939 tập trung những yêu cầu trước mắt về dân sinh, dân chủ và hòa bình.",
+    "book_pages": "85"
   },
   "s4-i79": {
     "answer": "D",
@@ -421,7 +461,8 @@
   },
   "s4-i82": {
     "answer": "B",
-    "explanation": "Văn kiện năm 1936 nêu cách mạng giải phóng dân tộc không nhất thiết phải kết chặt với cách mạng điền địa."
+    "explanation": "Văn kiện năm 1936 nêu cách mạng giải phóng dân tộc không nhất thiết phải kết chặt với cách mạng điền địa.",
+    "book_pages": "86–87"
   },
   "s4-i83": {
     "answer": "C",
@@ -442,7 +483,8 @@
   },
   "s4-i87": {
     "answer": "C",
-    "explanation": "Đại hội III xác định miền Bắc quyết định nhất đối với toàn bộ cách mạng; cách mạng miền Nam quyết định trực tiếp đối với giải phóng miền Nam."
+    "explanation": "Đại hội III xác định miền Bắc quyết định nhất đối với toàn bộ cách mạng; cách mạng miền Nam quyết định trực tiếp đối với giải phóng miền Nam.",
+    "book_pages": "194"
   },
   "s4-i88": {
     "answer": "D",
@@ -486,7 +528,8 @@
   },
   "s3-i45": {
     "issue": "Đề chưa có phương án phù hợp",
-    "explanation": "Nhân tố quyết định hàng đầu thường được xác định là sự lãnh đạo của Đảng; bốn phương án không nêu nội dung đó. Hậu phương miền Bắc rất quan trọng nhưng không nên tự thay thế đáp án."
+    "explanation": "Nhân tố quyết định hàng đầu thường được xác định là sự lãnh đạo của Đảng; bốn phương án không nêu nội dung đó. Hậu phương miền Bắc rất quan trọng nhưng không nên tự thay thế đáp án.",
+    "book_pages": "234–235"
   },
   "s3-i46": {
     "answer": "B",
@@ -534,7 +577,8 @@
   },
   "s3-i66": {
     "issue": "Đề chưa có phương án phù hợp",
-    "explanation": "Đề có hơn một nhận định đáng lưu ý: Lê Duẩn được bầu làm Bí thư thứ nhất năm 1960, còn vai trò quyết định trực tiếp đối với giải phóng miền Nam thuộc cách mạng miền Nam. Cần sửa phương án A hoặc C trước khi chấm."
+    "explanation": "Đề có hơn một nhận định đáng lưu ý: Lê Duẩn được bầu làm Bí thư thứ nhất năm 1960, còn vai trò quyết định trực tiếp đối với giải phóng miền Nam thuộc cách mạng miền Nam. Cần sửa phương án A hoặc C trước khi chấm.",
+    "book_pages": "194–195"
   },
   "s3-i67": {
     "answer": "D",
@@ -546,11 +590,13 @@
   },
   "s3-i71": {
     "issue": "Đề chưa có phương án phù hợp",
-    "explanation": "Phương án B đưa tư sản mại bản vào động lực cách mạng; phương án D cũng quy nhân tố quyết định nhất chỉ cho hậu phương. Câu có thể có hơn một ý sai nên cần đối chiếu và sửa đề."
+    "explanation": "Phương án B đưa tư sản mại bản vào động lực cách mạng; phương án D cũng quy nhân tố quyết định nhất chỉ cho hậu phương. Câu có thể có hơn một ý sai nên cần đối chiếu và sửa đề.",
+    "book_pages": "234–235"
   },
   "s3-i72": {
     "answer": "C",
-    "explanation": "Nha Bình dân học vụ được thành lập theo sắc lệnh ngày 8/9/1945, không phải cuối năm 1946."
+    "explanation": "Nha Bình dân học vụ được thành lập theo sắc lệnh ngày 8/9/1945, không phải cuối năm 1946.",
+    "book_pages": "134–135"
   },
   "s3-i73": {
     "answer": "C",
@@ -561,8 +607,9 @@
     "explanation": "Mỹ không ký Hiệp định Giơnevơ 1954; tuyên bố riêng của Mỹ không phải chữ ký chính thức trên hiệp định."
   },
   "s3-i75": {
-    "answer": "B",
-    "explanation": "Đồng Khởi Bến Tre ngày 17/1/1960 bùng nổ ở huyện Mỏ Cày, không phải Ba Tri."
+    "issue": "Đề cần làm rõ trước khi chấm",
+    "explanation": "Đề có ít nhất hai phương án sai: Đồng Khởi 17/1/1960 ở Mỏ Cày, không phải Ba Tri; đường Hồ Chí Minh trên biển hình thành năm 1961, không phải 1959 như phương án C.",
+    "book_pages": "191"
   },
   "s3-i76": {
     "answer": "A",
@@ -579,7 +626,8 @@
   "s3-i79": {
     "answer": "B",
     "explanation": "Hai câu thơ Đánh cho Mỹ cút, đánh cho ngụy nhào thuộc thư chúc Tết Xuân 1969, không phải 1968.",
-    "source": "https://hochiminh.vn/tu-tuong-dao-duc-ho-chi-minh/nghien-cuu-tu-tuong-dao-duc-ho-chi-minh/luon-khac-ghi-loi-bac-day-vung-tin-vao-thang-loi-cuoi-cung-9305"
+    "source": "https://hochiminh.vn/tu-tuong-dao-duc-ho-chi-minh/nghien-cuu-tu-tuong-dao-duc-ho-chi-minh/luon-khac-ghi-loi-bac-day-vung-tin-vao-thang-loi-cuoi-cung-9305",
+    "book_pages": "224"
   },
   "s3-i82": {
     "answer": "A",
@@ -650,11 +698,202 @@
   },
   "s4-i9": {
     "answer": "B",
-    "explanation": "Sách lược hòa hoãn nhấn mạnh giữ vững độc lập chính trị và có nhân nhượng về kinh tế để tranh thủ thời gian."
+    "explanation": "Sách lược hòa hoãn nhấn mạnh giữ vững độc lập chính trị và có nhân nhượng về kinh tế để tranh thủ thời gian.",
+    "book_pages": "132"
   },
   "s7-i44": {
     "answer": "D",
     "explanation": "Ngoài báo Thanh niên, Nguyễn Ái Quốc cùng các đồng chí xuất bản Công nông, Lính cách mệnh và Việt Nam tiền phong.",
     "source": "https://cdn.nhandan.vn/files/5c7519843d3aca07ce0c70c2e881b7e1936d216316999c4cc8955fcbec0b5d3ddb471febcafee0d246875ec8afe2ccd1970ca962a011d6f88f941f0795a6ad66/docbao-ndthoinay-19062025-1888.pdf"
+  },
+  "s3-i42": {
+    "answer": "C",
+    "explanation": "Ngày 2/5/1975, chiến đấu giải phóng các địa phương còn lại ở đồng bằng sông Cửu Long và các đảo đã kết thúc; lưu ý Hoàng Sa bị Trung Quốc chiếm từ năm 1974.",
+    "book_pages": "233"
+  },
+  "s3-i44": {
+    "answer": "C",
+    "explanation": "Đại hội IV ca ngợi thắng lợi như biểu tượng của chủ nghĩa anh hùng cách mạng và trí tuệ con người.",
+    "book_pages": "234"
+  },
+  "s3-i48": {
+    "issue": "Đề chưa có phương án phù hợp",
+    "explanation": "Giáo trình nêu hạn chế chủ quan, nóng vội trong chỉ đạo xây dựng miền Bắc cho cả giai đoạn; câu hỏi gán trực tiếp là hạn chế của Đại hội III mà không đủ căn cứ đối chiếu riêng.",
+    "book_pages": "235"
+  },
+  "s3-i70": {
+    "answer": "B",
+    "explanation": "Huế và Đà Nẵng được giải phóng cuối tháng 3; mệnh lệnh “Thần tốc” của Đại tướng Võ Nguyên Giáp được phát ngày 7/4/1975, sau chiến dịch này.",
+    "book_pages": "232–233"
+  },
+  "s3-i80": {
+    "answer": "C",
+    "explanation": "Huế và Đà Nẵng giải phóng cuối tháng 3; mệnh lệnh “Thần tốc” được phát ngày 7/4/1975, không phải trong chiến dịch Huế–Đà Nẵng.",
+    "book_pages": "232–233"
+  },
+  "s4-i7": {
+    "answer": "C",
+    "explanation": "Chỉ thị Kháng chiến kiến quốc nêu chủ trương “Hoa–Việt thân thiện” đối với quân Tưởng. Mẹo nhớ: Tưởng – thân thiện; Pháp – nhân nhượng kinh tế.",
+    "book_pages": "132"
+  },
+  "s4-i14": {
+    "answer": "D",
+    "explanation": "Chính phủ phát động tăng gia, cứu đói; bãi thuế vô lý, giảm tô 25% và xây dựng ngân khố.",
+    "book_pages": "133"
+  },
+  "s4-i15": {
+    "answer": "D",
+    "explanation": "Các biện pháp gồm Bình dân học vụ, xây dựng đời sống văn hóa mới và mở lại trường lớp.",
+    "book_pages": "134"
+  },
+  "s4-i27": {
+    "answer": "B",
+    "explanation": "Tháng 9/1929, những người tiên tiến trong Tân Việt ra tuyên đạt thành lập Đông Dương Cộng sản Liên đoàn.",
+    "book_pages": "60"
+  },
+  "s4-i53": {
+    "answer": "D",
+    "explanation": "Phương châm kết hợp đánh lâu dài, dựa vào sức mình là chính và tranh thủ thời cơ giành thắng lợi quyết định tương đối sớm.",
+    "book_pages": "207–208"
+  },
+  "s4-i96": {
+    "answer": "A",
+    "explanation": "Ba tổ chức là Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng và Đông Dương Cộng sản Liên đoàn. Lưu ý: Liên đoàn được chấp nhận gia nhập ngày 24/2/1930, sau hội nghị hợp nhất ban đầu.",
+    "book_pages": "60–63"
+  },
+  "s6-i21": {
+    "answer": "C",
+    "explanation": "Việt Minh công bố Tuyên ngôn ngày 25/10/1941; phân biệt với Hội nghị Trung ương 8 tháng 5/1941 chủ trương thành lập mặt trận.",
+    "book_pages": "100"
+  },
+  "s6-i28": {
+    "answer": "B",
+    "explanation": "Giáo trình ghi cuối năm 1941, Nguyễn Ái Quốc quyết định thành lập đội vũ trang ở Cao Bằng.",
+    "book_pages": "102"
+  },
+  "s7-i60": {
+    "answer": "C",
+    "explanation": "Giáo trình ghi hội nghị diễn ra từ 6/1 đến 7/2/1930; ngày 3/2 được chọn làm ngày kỷ niệm thành lập Đảng.",
+    "book_pages": "61"
+  },
+  "s8-i58": {
+    "answer": "B",
+    "explanation": "Tháng 10/1961, Trung ương Cục miền Nam được thành lập do Nguyễn Văn Linh làm Bí thư.",
+    "book_pages": "202"
+  },
+  "s8-i68": {
+    "answer": "B",
+    "explanation": "Hội nghị năm 1970 xác định nông thôn là hướng tiến công chính để ngăn chặn và đẩy lùi bình định.",
+    "book_pages": "224–225"
+  },
+  "s4-i72": {
+    "issue": "Đề chưa có phương án phù hợp",
+    "explanation": "Hai phương án C và D (“mở đường giải quyết” và “mở đường chấm dứt”) gần như đồng nghĩa trong câu này, không đủ căn cứ chấm một đáp án duy nhất. Giáo trình phân biệt sự ra đời ba tổ chức năm 1929 và việc hợp nhất thành Đảng năm 1930.",
+    "book_pages": "60–61"
+  },
+  "s5-i85": {
+    "issue": "Đề chưa có phương án phù hợp",
+    "explanation": "Đề đặt cụm cần điền sai vị trí: giáo trình ghi “tiến tới thực hiện hòa bình, thống nhất nước nhà”. Cụm dự kiến là “hòa bình, thống nhất”, nhưng không khớp câu nguyên văn đang hiển thị; cần sửa câu trước khi chấm.",
+    "book_pages": "206–207"
+  },
+  "s4-i23": {
+    "answer": "D",
+    "explanation": "Bối cảnh gồm chủ nghĩa tư bản chuyển sang đế quốc chủ nghĩa, ảnh hưởng chủ nghĩa Mác–Lênin, Cách mạng Tháng Mười và Quốc tế Cộng sản.",
+    "book_pages": "36–38"
+  },
+  "s4-i44": {
+    "answer": "D",
+    "explanation": "Đề cương năm 1956 xác định phải dùng con đường cách mạng chống chế độ Mỹ–Diệm; tư liệu lịch sử làm rõ phương hướng sử dụng bạo lực cách mạng.",
+    "book_pages": "189",
+    "source": "https://baotanglichsuquocgia.vn/vi/Articles/3096/17790/djong-chi-le-duan-va-viec-ra-djoi-dje-cuong-cach-mang-mien-nam-nam-1956.html"
+  },
+  "s4-i46": {
+    "answer": "D",
+    "explanation": "Nghị quyết 15 xác định giải phóng miền Nam, thực hiện độc lập và người cày có ruộng, hoàn thành cách mạng dân tộc dân chủ.",
+    "book_pages": "191",
+    "source": "https://tulieuvankien.dangcongsan.vn/ban-chap-hanh-trung-uong-dang/dai-hoi-dang/lan-thu-ii/nien-bieu-toan-khoa-25"
+  },
+  "s4-i73": {
+    "answer": "C",
+    "explanation": "Lý tưởng của thanh niên An Nam là bài diễn thuyết của Nguyễn An Ninh, không phải Nguyễn Ái Quốc.",
+    "source": "https://baotanglichsu.vn/vi/Articles/3098/13195/nguyen-an-ninh-nha-van-hoa-lanh-tu-lon-cua-phong-trao-yeu-nuoc-viet-nam-truoc-cach-mang-thang-8-1945.html"
+  },
+  "s4-i78": {
+    "answer": "A",
+    "explanation": "Đoạn trích thuộc nghị quyết Hội nghị Trung ương tháng 11/1939, tức Hội nghị Trung ương 6.",
+    "book_pages": "93"
+  },
+  "s8-i59": {
+    "answer": "D",
+    "explanation": "Nghị quyết nêu hai nhiệm vụ có quan hệ mật thiết và thúc đẩy lẫn nhau.",
+    "book_pages": "193–194",
+    "source": "https://tulieuvankien.dangcongsan.vn/upload/3000006/20251024/66144a54e38ddb2fe44a241832a094c0baochi.pdf"
+  },
+  "s8-i23": {
+    "issue": "Đề cần làm rõ trước khi chấm",
+    "explanation": "Đề không nêu phạm vi: giấy bạc được phép phát hành từ 31/1/1946 tại miền Nam Trung Bộ; Quốc hội cho phát hành rộng rãi toàn quốc tháng 11/1946. Nếu hỏi toàn quốc thì A, nhưng hỏi chung như đề là thiếu rõ ràng.",
+    "source": "https://baotanglichsu.vn/vi/Articles/2001/66753/giay-bac-cu-ho-djong-tien-djau-tien-cua-nuoc-viet-nam-djoc-lap.html"
+  },
+  "s8-i64": {
+    "issue": "Đề cần làm rõ trước khi chấm",
+    "explanation": "Cả bốn tên đều liên quan tới chiến tranh Mỹ tiến hành ở miền Nam hoặc mở rộng toàn Đông Dương. Việt Nam hóa là chiến lược ở miền Nam gắn với Đông Dương hóa; câu hỏi không xác định rõ tiêu chí để loại D.",
+    "book_pages": "224–225",
+    "source": "https://www.qdnd.vn/chinh-tri/cac-van-de/tang-cuong-doan-ket-hiep-dong-chien-dau-giua-quan-doi-nhan-dan-va-cong-an-nhan-dan-trong-thuc-hien-nhiem-vu-quoc-phong-an-ninh-bao-ve-to-quoc-632107"
+  },
+  "s4-i66": {
+    "issue": "Đề cần làm rõ trước khi chấm",
+    "explanation": "A, B, C là các nhận xét tích cực về Cương lĩnh; D nói tới kết quả về tổ chức gắn với sự thành lập Đảng. Đây là khác biệt về loại nhận xét, không phải mệnh đề lịch sử sai rõ ràng; đề cần nêu rõ tiêu chí.",
+    "book_pages": "68–70"
+  },
+  "s4-i74": {
+    "issue": "Đề cần làm rõ trước khi chấm",
+    "explanation": "Các phương án đều chứa nhận định có cơ sở; D nêu quá trình hình thành hơn là ý nghĩa, còn A diễn đạt “mở đường” thay vì giáo trình ghi “chấm dứt”. Đề cần làm rõ yêu cầu trước khi chấm một phương án sai duy nhất.",
+    "book_pages": "68–70"
+  },
+  "s5-i91": {
+    "issue": "Đề cần làm rõ trước khi chấm",
+    "explanation": "Cả hai hiệp định đều có nội dung ngừng bắn và ghi nhận các quyền dân tộc cơ bản. Các phương án không nêu rõ điểm phân biệt then chốt như việc quân Mỹ rút theo Hiệp định Pari; cần đối chiếu nguyên văn và sửa câu.",
+    "book_pages": "228–229",
+    "source": "https://vanban.chinhphu.vn/giai-doan-1955-1975-xay-dung-cnxh-va-dau-tranh-thong-nhat-dat-nuoc/5-hoi-nghi-pari-ve-viet-nam-cuoc-dam-phan-hoa-binh-gay-go-nhat-the-ky-xx-10001595"
+  },
+  "s4-i18": {
+    "answer": "C",
+    "explanation": "Hội nghị tháng 10/1930 bầu Ban Chấp hành Trung ương gồm 6 ủy viên; Trần Phú làm Tổng Bí thư.",
+    "source": "https://www.thuvienlamdong.org.vn/Files/Books/78640.pdf"
+  },
+  "s4-i81": {
+    "answer": "C",
+    "explanation": "Thư tháng 12/1930 tiếp tục nhấn mạnh đấu tranh giai cấp; khác với Chỉ thị lập Hội phản đế đồng minh chủ trương đoàn kết dân tộc rộng rãi.",
+    "source": "https://www.thuvienlamdong.org.vn/Files/Books/78640.pdf"
+  },
+  "s5-i98": {
+    "answer": "D",
+    "explanation": "Đại hội VI chủ trương tăng cường quan hệ với Liên Xô và các nước Đông Dương, đồng thời bình thường hóa quan hệ với Trung Quốc.",
+    "book_pages": "264"
+  },
+  "s4-i50": {
+    "issue": "Đề cần làm rõ trước khi chấm",
+    "explanation": "Các phương án đều nêu những sự kiện có thật; câu hỏi không quy định tiêu chí hay danh sách đầy đủ để phân biệt duy nhất một đáp án.",
+    "book_pages": "36–38"
+  },
+  "s4-i65": {
+    "issue": "Đề cần làm rõ trước khi chấm",
+    "explanation": "Các phương án đều đề cập những nội dung có liên quan đến con đường, lực lượng và nhiệm vụ cách mạng; đề chưa nêu tiêu chí đủ rõ để xác định duy nhất một nhận định sai.",
+    "book_pages": "64–67"
+  },
+  "s4-i67": {
+    "issue": "Đề cần làm rõ trước khi chấm",
+    "explanation": "Đoàn kết với lực lượng dân chủ thế giới và với giai cấp công nhân, Đảng Cộng sản Pháp đều có cơ sở; câu hỏi chưa giới hạn tiêu chí để chọn duy nhất một phương án.",
+    "book_pages": "84–87"
+  },
+  "s4-i89": {
+    "issue": "Đề cần làm rõ trước khi chấm",
+    "explanation": "Giáo trình nêu kết hợp chống đế quốc và chống phong kiến, đồng thời cải thiện đời sống nhân dân; phương án B dùng cách diễn đạt khác nên cần sửa cho rõ trước khi chấm sai.",
+    "book_pages": "176–177"
+  },
+  "s8-i49": {
+    "issue": "Số liệu cần đối chiếu trước khi chấm",
+    "explanation": "Các tài liệu nêu tỷ lệ khác nhau hoặc làm tròn; giáo trình chỉ nói Mỹ gánh phần lớn chi phí. Đề không nói rõ nguồn và cách làm tròn để chọn duy nhất một con số.",
+    "source": "https://www.qdnd.vn/ho-so-su-kien/60-nam-chien-thang-dien-bien-phu/dien-bien-phu-doc-dao-van-hoa-quan-su-viet-nam-260070"
   }
 }
