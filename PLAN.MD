@@ -118,3 +118,5 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - Đã rà xong thêm 52 câu còn lại trong bộ Chương 3 – Câu hỏi khó; tổng cộng 348 câu có giải thích hoặc lưu ý, 214 câu có số trang, 27 câu cần làm rõ không tính điểm; còn 362 câu chưa có lời giải.
 
 - Đợt tiếp theo: đã biên soạn thêm 51 câu giai đoạn 1946–1975; tổng cộng 399 câu có giải thích hoặc lưu ý, 265 câu có số trang; 29 câu cần làm rõ không tính điểm và còn 311 câu chưa có lời giải.
+
+- Đã đối chiếu thêm 40 câu về bối cảnh ra đời của Đảng; tổng cộng 439 câu có giải thích hoặc lưu ý, 301 câu ghi trang giáo trình, 37 câu cần làm rõ không tính điểm; còn 271 câu chưa có lời giải.

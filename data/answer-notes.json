@@ -1654,5 +1654,173 @@
     "issue": "Đề có nhiều phương án sai hoặc chưa chính xác",
     "explanation": "B sai năm: câu thơ “đánh cho Mỹ cút, đánh cho ngụy nhào” thuộc thư chúc Tết 1969, không phải 1968. D cũng không nên quy toàn bộ số B-52 bị bắn rơi cho riêng dân quân: đó là chiến công của nhiều lực lượng phòng không.",
     "book_pages": "223–224"
+  },
+  "s7-i1": {
+    "explanation": "Cuối thế kỷ XIX, chủ nghĩa tư bản phương Tây chuyển từ tự do cạnh tranh sang giai đoạn độc quyền, tức chủ nghĩa đế quốc.",
+    "book_pages": "36"
+  },
+  "s7-i3": {
+    "explanation": "Áp bức thuộc địa làm đời sống nhân dân cực khổ, mâu thuẫn dân tộc gay gắt và phong trào giải phóng phát triển.",
+    "book_pages": "36–37"
+  },
+  "s7-i5": {
+    "explanation": "Phong trào công nhân cần lý luận khoa học làm cơ sở nhận thức và vũ khí tư tưởng để đấu tranh chống chủ nghĩa tư bản.",
+    "book_pages": "36–37"
+  },
+  "s7-i6": {
+    "explanation": "Sự giải phóng giai cấp công nhân gắn với giải phóng các tầng lớp lao động khỏi áp bức và bóc lột.",
+    "book_pages": "36–37"
+  },
+  "s7-i7": {
+    "explanation": "Sự truyền bá chủ nghĩa Mác – Lênin góp phần đưa phong trào yêu nước phát triển theo khuynh hướng cách mạng vô sản.",
+    "book_pages": "37–38"
+  },
+  "s7-i9": {
+    "explanation": "Cách mạng Tháng Mười Nga cổ vũ cả phong trào công nhân ở các nước tư bản và phong trào giải phóng ở thuộc địa.",
+    "book_pages": "37"
+  },
+  "s7-i10": {
+    "explanation": "Thắng lợi Tháng Mười nêu tấm gương cho các dân tộc bị áp bức đấu tranh giành độc lập.",
+    "book_pages": "37–38"
+  },
+  "s7-i11": {
+    "explanation": "Quốc tế Cộng sản được thành lập tháng 3/1919 dưới sự lãnh đạo của V.I. Lênin.",
+    "book_pages": "37"
+  },
+  "s7-i12": {
+    "explanation": "Quốc tế Cộng sản tổ chức, định hướng và thúc đẩy phong trào cộng sản, công nhân quốc tế và phong trào giải phóng dân tộc.",
+    "book_pages": "37–38"
+  },
+  "s7-i14": {
+    "explanation": "Luận cương về dân tộc và thuộc địa chỉ ra con đường giải phóng cho các dân tộc bị áp bức theo lập trường cách mạng vô sản.",
+    "book_pages": "37–38, 51"
+  },
+  "s7-i15": {
+    "explanation": "Quốc tế Cộng sản truyền bá tư tưởng vô sản, giúp đỡ phong trào thuộc địa và tác động đến cách mạng Việt Nam.",
+    "book_pages": "37–38"
+  },
+  "s7-i16": {
+    "explanation": "Trong Đường Kách mệnh, Nguyễn Ái Quốc viết về việc An Nam muốn cách mệnh thành công phải nhờ Đệ tam Quốc tế.",
+    "source": "https://hochiminh.vn/Uploads/2018/11/3/30/VV%C4%90NNVPL.pdf"
+  },
+  "s7-i19": {
+    "explanation": "Pháp cướp ruộng lập đồn điền, khai thác tài nguyên và xây dựng hạ tầng nhằm phục vụ việc bóc lột thuộc địa.",
+    "book_pages": "39–40"
+  },
+  "s7-i20": {
+    "explanation": "Nền kinh tế Việt Nam bị tổ chức lệ thuộc vào lợi ích tư bản Pháp và bị kìm hãm trong tình trạng lạc hậu.",
+    "book_pages": "39–40"
+  },
+  "s7-i21": {
+    "explanation": "Về văn hóa, Pháp thực hiện chính sách ngu dân, nô dịch để dễ thống trị thuộc địa.",
+    "book_pages": "40"
+  },
+  "s7-i22": {
+    "explanation": "Dưới sự thống trị của Pháp, xã hội Việt Nam mang tính chất thuộc địa nửa phong kiến.",
+    "book_pages": "39–42"
+  },
+  "s7-i23": {
+    "explanation": "Hai mâu thuẫn cơ bản là nông dân với địa chủ phong kiến và toàn thể dân tộc với thực dân Pháp cùng tay sai.",
+    "book_pages": "41–43"
+  },
+  "s7-i24": {
+    "explanation": "Mâu thuẫn nổi bật nhất là giữa toàn thể dân tộc Việt Nam với thực dân Pháp và phong kiến phản động.",
+    "book_pages": "43"
+  },
+  "s7-i25": {
+    "explanation": "Nông dân là giai cấp đông đảo nhất, chiếm hơn 90% dân số theo giáo trình.",
+    "book_pages": "41"
+  },
+  "s7-i26": {
+    "explanation": "Giai cấp công nhân hình thành gắn với khai thác thuộc địa, trong đó cuộc khai thác lần thứ nhất diễn ra từ 1897 đến 1914.",
+    "book_pages": "39–41"
+  },
+  "s7-i27": {
+    "explanation": "Phần lớn công nhân Việt Nam xuất thân từ nông dân, tạo cơ sở gần gũi với giai cấp nông dân.",
+    "book_pages": "41–42"
+  },
+  "s7-i29": {
+    "explanation": "Công nhân Việt Nam phần lớn xuất thân từ nông dân, ra đời trước tư sản dân tộc, bị áp bức nặng nề và sớm tiếp thu tư tưởng cách mạng.",
+    "book_pages": "41–42"
+  },
+  "s7-i30": {
+    "explanation": "Tư sản dân tộc bị chèn ép, yếu về kinh tế và không đủ khả năng tập hợp các tầng lớp để lãnh đạo cách mạng thành công.",
+    "book_pages": "42"
+  },
+  "s7-i31": {
+    "explanation": "Tiểu tư sản bao gồm các tầng lớp như học sinh, trí thức, viên chức, người làm nghề tự do, tiểu thương và tiểu chủ.",
+    "book_pages": "42"
+  },
+  "s7-i33": {
+    "explanation": "Phong trào Cần Vương do vua Hàm Nghi và Tôn Thất Thuyết khởi xướng là phong trào yêu nước theo hệ tư tưởng phong kiến.",
+    "book_pages": "44"
+  },
+  "s7-i34": {
+    "explanation": "Việt Nam Quốc dân Đảng thành lập năm 1927 hoạt động theo khuynh hướng dân chủ tư sản.",
+    "book_pages": "45–47"
+  },
+  "s7-i35": {
+    "explanation": "Nguyễn Ái Quốc tìm hiểu các cuộc cách mạng tư sản, tiêu biểu là cách mạng Mỹ 1776 và cách mạng Pháp 1789.",
+    "source": "https://hochiminh.vn/book/tac-pham-cua-ho-chi-minh/ho-chi-minh-tuyen-tap/ho-chi-minh-tuyen-tap-1919-1945-tap-1-nxb-chinh-tri-quoc-gia-2002-392?categoryId=102000010"
+  },
+  "s7-i36": {
+    "explanation": "Tháng 7/1920, Nguyễn Ái Quốc đọc Sơ thảo luận cương của Lênin về vấn đề dân tộc và thuộc địa trên báo Nhân đạo.",
+    "book_pages": "51"
+  },
+  "s7-i37": {
+    "explanation": "Tại Đại hội Tours tháng 12/1920, Nguyễn Ái Quốc tán thành gia nhập Quốc tế Cộng sản và tham gia thành lập Đảng Cộng sản Pháp.",
+    "book_pages": "51"
+  },
+  "s7-i38": {
+    "explanation": "Việc tán thành Quốc tế Cộng sản và tham gia sáng lập Đảng Cộng sản Pháp đánh dấu bước chuyển thành người cộng sản của Nguyễn Ái Quốc.",
+    "book_pages": "51"
+  },
+  "s7-i39": {
+    "explanation": "Nguyễn Ái Quốc truyền bá tư tưởng cách mạng, xác định phương hướng và chuẩn bị về chính trị, tư tưởng, tổ chức cho sự ra đời của Đảng.",
+    "book_pages": "51–57"
+  },
+  "s7-i40": {
+    "explanation": "Bản án chế độ thực dân Pháp vạch trần tội ác của chủ nghĩa thực dân, góp phần thức tỉnh tinh thần đấu tranh giải phóng dân tộc.",
+    "source": "https://hochiminh.vn/tin-tuc/bac-ho-nha-bao-vi-dai-nguoi-sang-lap-va-phat-trien-bao-chi-cach-mang-viet-nam-3015"
+  },
+  "s7-i2": {
+    "issue": "Đề có nhiều phương án phù hợp",
+    "explanation": "Xâm lược, áp bức và tăng cường khai thác thuộc địa đều là biểu hiện hoạt động đối ngoại của chủ nghĩa đế quốc; câu hỏi chưa có tiêu chí để loại C.",
+    "book_pages": "36–37"
+  },
+  "s7-i4": {
+    "issue": "Không có phương án đúng",
+    "explanation": "Chiến tranh thế giới thứ nhất thường được tính bắt đầu ngày 28/7/1914 khi Áo – Hung tuyên chiến với Serbia; ngày này không có trong các lựa chọn.",
+    "source": "https://media.unesco.org/sites/default/files/webform/mow001/serbia_telegram_eng.pdf"
+  },
+  "s7-i8": {
+    "issue": "Không có phương án đầy đủ",
+    "explanation": "Cương lĩnh xác định cả chủ nghĩa Mác – Lênin và tư tưởng Hồ Chí Minh là nền tảng tư tưởng, kim chỉ nam; phương án C chỉ nêu một phần.",
+    "book_pages": "275"
+  },
+  "s7-i13": {
+    "issue": "Đề cần làm rõ từ công bố",
+    "explanation": "Luận cương được đăng trên báo Nhân đạo tháng 7/1920; Đại hội II Quốc tế Cộng sản năm 1920 thảo luận và thông qua. Câu hỏi không phân biệt công bố với thông qua.",
+    "book_pages": "37–38, 51"
+  },
+  "s7-i17": {
+    "issue": "Đề cần làm rõ trình tự",
+    "explanation": "Pháp lập bộ máy cai trị và tiến hành khai thác trong khi phong trào chống Pháp vẫn tiếp diễn; cách nói đã dập tắt các phong trào rồi mới khai thác không chính xác.",
+    "book_pages": "38–39"
+  },
+  "s7-i18": {
+    "issue": "Phương án cần diễn đạt chính xác",
+    "explanation": "Pháp chia ba kỳ và dựa vào một bộ phận địa chủ để cai trị; phương án A dùng từ mọi quyền quá tuyệt đối đối với bộ máy phong kiến được duy trì dưới sự kiểm soát của Pháp.",
+    "book_pages": "39–40"
+  },
+  "s7-i28": {
+    "issue": "Đề cần làm rõ đối tượng",
+    "explanation": "Chính sách chiếm ruộng trực tiếp tác động đến nông dân, trong đó có người mất ruộng trở thành công nhân; không thể đồng nhất toàn bộ công nhân với nạn nhân trực tiếp của chiếm ruộng.",
+    "book_pages": "39–42"
+  },
+  "s7-i32": {
+    "issue": "Đề cần làm rõ tiêu chí",
+    "explanation": "Giáo trình nêu các bộ phận tiểu tư sản và tinh thần yêu nước của họ nhưng không xác định một nhóm quan trọng nhất; không đủ cơ sở để chấm duy nhất D.",
+    "book_pages": "42"
   }
 }
