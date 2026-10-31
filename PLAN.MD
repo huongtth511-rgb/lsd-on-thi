@@ -87,3 +87,11 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - Đổi Referrer-Policy sang `same-origin`. Với trang đăng nhập cũ đang mở, cho phép `Origin: null` duy nhất khi trình duyệt cung cấp `Sec-Fetch-Site: same-origin`; CSRF token độc lập vẫn bắt buộc.
 - 11/11 kiểm thử đạt. Production: kiểm tra mô phỏng yêu cầu iPhone/Zalo đăng nhập, mở nội dung và đăng xuất thành công; cross-site và CSRF giả vẫn bị chặn. Chưa trực tiếp thao tác trên điện thoại của người dùng.
 - Site source commit: c56dadf0bcdb9893de763cc06cda51375e60f1c8. Deployment: appgdep_6ae469dc435081918dbb008dcaff8654.
+
+## Ôn đáp án và phản hồi ngay — 31/10/2026
+
+- [x] Thêm nút **Hiện toàn bộ đáp án** trong phần xem trước của bộ đề; hiện tất cả câu phù hợp và đánh dấu đáp án gợi ý. Câu chưa có đáp án được ghi rõ, không tự tạo đáp án.
+- [x] Thêm nút **Luyện & xem đúng sai ngay** trong cấu hình luyện theo file. Mỗi câu phản hồi ngay khi chọn; xóa hoặc thay đổi đáp án cập nhật phản hồi.
+- [x] Giữ nút luyện bình thường và chế độ đề 40 câu theo cách chấm sau khi nộp; lượt cũ không có cờ phản hồi vẫn giữ chế độ cũ.
+- [x] Chạy 14/14 kiểm thử, build, deploy và kiểm tra bản online có các chức năng mới. Browser access host không khả dụng, chưa kiểm thử tương tác bằng giao diện trình duyệt.
+- Source Sites: 113b80acb88e45e9410e57cdc02b82c8d6834a29; deployment: appgdep_6ae56be177408191af2c6ad368c3798e.
