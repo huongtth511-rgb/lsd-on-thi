@@ -126,3 +126,5 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - Đã đối chiếu thêm 30 câu cuối bộ ôn tập Chương 1; tổng cộng 506 câu có giải thích hoặc lưu ý, 365 câu ghi trang giáo trình, 45 câu cần làm rõ không tính điểm; còn 204 câu chưa có lời giải.
 
 - Đã đối chiếu thêm 66 câu bộ ôn tập Chương 2; tổng cộng 572 câu có giải thích hoặc lưu ý, 429 câu ghi trang giáo trình, 50 câu cần làm rõ không tính điểm; còn 138 câu chưa có lời giải.
+
+- Đã biên soạn 45 câu đầu bộ 150 câu bắt buộc; tổng cộng 617 câu có giải thích hoặc lưu ý, 474 câu ghi trang giáo trình, 55 câu cần làm rõ không tính điểm; còn 93 câu chưa có lời giải.
