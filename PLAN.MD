@@ -132,3 +132,6 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - Đã bổ sung lời giải hoặc lưu ý cho 93 câu còn thiếu của bộ bắt buộc: 710/710 câu có ghi chú, 567 câu ghi trang giáo trình, 66 câu cần làm rõ không tính điểm. Tiếp tục kiểm tra chất lượng từng đáp án và ghi chú cũ; chưa coi toàn bộ đáp án đã được xác minh.
 
 - Bổ sung bộ PDF Chương 3 – Nhận diện kiến thức cơ bản: 232 câu, đáp án gợi ý từ lựa chọn tô vàng; 28 câu đã được bổ sung lời giải hoặc lưu ý, 5 câu không chấm. Tiếp tục đối chiếu 204 câu còn lại với giáo trình.
+
+- Theo xác nhận của người dùng, dùng đáp án tô vàng làm khóa cho toàn bộ 232 câu Chương 3 và bổ sung giải thích ngắn cho cả bộ. Những chỗ đáp án tô vàng dùng cách diễn đạt khác giáo trình 2026 được ghi rõ trong lời giải.
+- Với 66 câu cũ từng không chấm do đề lỗi hoặc mơ hồ, chọn phương án phù hợp nhất để luyện tập và giải thích điểm chưa chính xác của đề. Ngân hàng hiện có 942/942 câu có đáp án và giải thích; chế độ luyện 40 câu rồi nộp chấm điểm giữ nguyên.

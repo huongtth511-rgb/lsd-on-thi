@@ -12,7 +12,7 @@ Nguồn chính đang đối chiếu là file **Giáo trình Lịch sử Đảng 
 
 Các nguồn này bao quát nhiều chủ đề, không có nghĩa mỗi đáp án đã được từng nguồn xác nhận. Một số câu có thêm đường dẫn nguồn cụ thể ngay trong ứng dụng. Những đáp án có sẵn trong file gốc vẫn là đáp án gợi ý và chưa được xác nhận đồng loạt bởi giảng viên.
 
-Trạng thái đợt đối chiếu hiện tại: 710 câu; 710 câu có giải thích hoặc lưu ý, trong đó 567 câu ghi trang giáo trình; đã bổ sung đáp án gợi ý cho 135 câu trước đây thiếu; 66 câu có đề lỗi hoặc chưa rõ được đánh dấu không chấm; 0 câu chưa có giải thích hoặc lưu ý. Không còn câu thiếu đáp án mà chưa được xử lý: các câu chưa đủ căn cứ đã được đánh dấu không chấm. Các đáp án có sẵn vẫn cần kiểm tra từng câu, không coi toàn bộ 710 câu đã được xác minh. Số liệu không bao gồm đáp án do người dùng tự sửa trong trình duyệt.
+Trạng thái hiện tại của 710 câu ban đầu: cả 710 câu đều có giải thích và một đáp án để luyện tập. Với 66 câu từng được đánh dấu chưa rõ hoặc đề có lỗi, đã chọn phương án phù hợp nhất trong các lựa chọn và ghi cụ thể điểm cần lưu ý; một số câu không có phương án khớp chính xác sự kiện lịch sử. Các đáp án gốc còn lại không được xác nhận đồng loạt bởi giảng viên. Số liệu không bao gồm đáp án do người dùng tự sửa trong trình duyệt.
 
 
-Bộ mới **Chương 3 – Nhận diện kiến thức cơ bản**: 232 câu trích từ PDF người dùng cung cấp; đáp án gợi ý đọc từ dấu tô vàng trong PDF, chưa xác minh toàn bộ. Đã đối chiếu và thêm lời giải hoặc lưu ý cho 28 câu trong bộ mới, trong đó 5 câu không chấm vì đề chưa rõ. Các số liệu ở đoạn trước chỉ bao gồm 710 câu ban đầu.
+Bộ mới **Chương 3 – Nhận diện kiến thức cơ bản**: 232 câu trích từ PDF người dùng cung cấp; đáp án theo dấu tô vàng được người dùng xác nhận. Cả 232 câu đã có giải thích ngắn và được chấm theo đáp án tô vàng. Những câu mà cách diễn đạt của phương án khác giáo trình 2026 được chú thích ngay dưới câu. Tổng ngân hàng hiện có 942 câu, tất cả có đáp án và giải thích.
