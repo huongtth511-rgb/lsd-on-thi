@@ -1,0 +1,6034 @@
+[
+  {
+    "no": 1,
+    "q": "Sau đại thắng mùa Xuân năm 1975, nhiệm vụ bức thiết nhất của Đảng là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cải cách ruộng đất"
+      },
+      {
+        "letter": "B",
+        "text": "Thống nhất đất nước về mặt nhà nước"
+      },
+      {
+        "letter": "C",
+        "text": "Cải tạo xã hội chủ nghĩa"
+      },
+      {
+        "letter": "D",
+        "text": "Hội nhập quốc tế"
+      }
+    ],
+    "id": "s10-i1",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 2,
+    "q": "Cuộc tổng tuyển cử bầu Quốc hội chung của cả nước thống nhất diễn ra vào:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "15/4/1976"
+      },
+      {
+        "letter": "B",
+        "text": "25/4/1976"
+      },
+      {
+        "letter": "C",
+        "text": "2/9/1976"
+      },
+      {
+        "letter": "D",
+        "text": "24/6/1976"
+      }
+    ],
+    "id": "s10-i2",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 3,
+    "q": "Tên nước Việt Nam thống nhất được Quốc hội thông qua là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cộng hòa Dân chủ Việt Nam"
+      },
+      {
+        "letter": "B",
+        "text": "Cộng hòa Nhân dân Việt Nam"
+      },
+      {
+        "letter": "C",
+        "text": "Cộng hòa Xã hội chủ nghĩa Việt Nam"
+      },
+      {
+        "letter": "D",
+        "text": "Nhà nước XHCN Việt Nam"
+      }
+    ],
+    "id": "s10-i3",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 4,
+    "q": "Chủ trương hoàn thành thống nhất nước nhà, đưa cả nước tiến nhanh, tiến mạnh, tiến vững chắc lên chủ nghĩa xã hội, được Đảng ta nêu lên tại:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hội nghị Bộ chính trị đợt 2 (1-1975)"
+      },
+      {
+        "letter": "B",
+        "text": "Hội nghị BCH Trung ương lần thứ 24 (8-1975)"
+      },
+      {
+        "letter": "C",
+        "text": "Đại hội lần thứ IV của Đảng (12-1976)"
+      },
+      {
+        "letter": "D",
+        "text": "Đại hội lần thứV của Đảng (3-1982)"
+      }
+    ],
+    "id": "s10-i4",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 5,
+    "q": "Chủ trương xây dựng và tổ chức thực hiện ba chương trình kinh tế về lương thực-thực phẩm; hàng tiêu dùng; hàng xuất khẩu được Đảng đề ra tại Đại hội đại biểu toàn quốc lần thứ:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "IV (1976)"
+      },
+      {
+        "letter": "B",
+        "text": "VI (1986)"
+      },
+      {
+        "letter": "C",
+        "text": "V (1982)"
+      },
+      {
+        "letter": "D",
+        "text": "VII(1991)"
+      }
+    ],
+    "id": "s10-i5",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 6,
+    "q": "Thành phố Sài Gòn được đổi tên thành:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Thành phố Nam Bộ"
+      },
+      {
+        "letter": "B",
+        "text": "Thành phố Vinh Quang"
+      },
+      {
+        "letter": "C",
+        "text": "Thành phố Giải Phóng"
+      },
+      {
+        "letter": "D",
+        "text": "Thành phố Hồ Chí Minh"
+      }
+    ],
+    "id": "s10-i6",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 7,
+    "q": "Đại hội IV của Đảng diễn ra vào thời gian nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "4/1976"
+      },
+      {
+        "letter": "B",
+        "text": "12/1976"
+      },
+      {
+        "letter": "C",
+        "text": "3/1977"
+      },
+      {
+        "letter": "D",
+        "text": "1/1977"
+      }
+    ],
+    "id": "s10-i7",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 8,
+    "q": "Tại Đại hội IV, Đảng ta đã đổi tên từ Đảng Lao động Việt Nam thành:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đảng Cộng sản Việt Nam"
+      },
+      {
+        "letter": "B",
+        "text": "Đảng Nhân dân Việt Nam"
+      },
+      {
+        "letter": "C",
+        "text": "Đảng Cách mạng Việt Nam"
+      },
+      {
+        "letter": "D",
+        "text": "Đảng Dân chủ Việt Nam"
+      }
+    ],
+    "id": "s10-i8",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 9,
+    "q": "Đại hội IV xác định nhiệm vụ trung tâm của cách mạng là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cải cách hành chính"
+      },
+      {
+        "letter": "B",
+        "text": "Bảo vệ an ninh biên giới"
+      },
+      {
+        "letter": "C",
+        "text": "Xây dựng công nghiệp nặng"
+      },
+      {
+        "letter": "D",
+        "text": "Tiến hành đồng thời ba cuộc cách mạng"
+      }
+    ],
+    "id": "s10-i9",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 10,
+    "q": "Một trong bốn đặc trưng cơ bản của CNXH do Đại hội IV xác định là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nhà nước pháp quyền"
+      },
+      {
+        "letter": "B",
+        "text": "Kinh tế thị trường"
+      },
+      {
+        "letter": "C",
+        "text": "Nền văn hóa mới XHCN"
+      },
+      {
+        "letter": "D",
+        "text": "Cải cách hành chính sâu rộng"
+      }
+    ],
+    "id": "s10-i10",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 11,
+    "q": "Chỉ thị 100-CT/TW của Ban Bí thư (1981) đề cập đến nội dung gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hợp tác hóa nông nghiệp"
+      },
+      {
+        "letter": "B",
+        "text": "Khoán sản phẩm đến nhóm và người lao động"
+      },
+      {
+        "letter": "C",
+        "text": "Quản lý chặt chẽ thị trường"
+      },
+      {
+        "letter": "D",
+        "text": "Tăng cường quốc phòng"
+      }
+    ],
+    "id": "s10-i11",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 12,
+    "q": "Quyết định số 25-CP năm 1981 của Chính phủ quy định:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Quyền thuế tài sản của doanh nghiệp"
+      },
+      {
+        "letter": "B",
+        "text": "Trả lương khoán, lương sản phẩm"
+      },
+      {
+        "letter": "C",
+        "text": "Quyền chủ động sản xuất, kinh doanh"
+      },
+      {
+        "letter": "D",
+        "text": "Quyền ban hành pháp lệnh địa phương"
+      }
+    ],
+    "id": "s10-i12",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 13,
+    "q": "Hội nghị Trung ương 6 (8/1979) được xem là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bước đột phá về giáo dục"
+      },
+      {
+        "letter": "B",
+        "text": "Sự kiện đối ngoại quan trọng"
+      },
+      {
+        "letter": "C",
+        "text": "Bước đột phá đầu tiên trong đổi mới tư duy kinh tế"
+      },
+      {
+        "letter": "D",
+        "text": "Hội nghị bàn về chính sách quốc phòng"
+      }
+    ],
+    "id": "s10-i13",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 14,
+    "q": "Đại hội V của Đảng (3/1982) đã xác định:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phát triển dịch vụ là then chốt"
+      },
+      {
+        "letter": "B",
+        "text": "Kinh tế tư nhân là chủ đạo"
+      },
+      {
+        "letter": "C",
+        "text": "Nông nghiệp là mặt trận hàng đầu"
+      },
+      {
+        "letter": "D",
+        "text": "Công nghiệp nặng là trung tâm"
+      }
+    ],
+    "id": "s10-i14",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 15,
+    "q": "Đến cuối năm 1985, nước ta rơi vào tình trạng:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ổn định vĩ mô"
+      },
+      {
+        "letter": "B",
+        "text": "Khủng hoảng toàn diện về kinh tế – xã hội"
+      },
+      {
+        "letter": "C",
+        "text": "Phát triển bền vững"
+      },
+      {
+        "letter": "D",
+        "text": "Giảm lạm phát"
+      }
+    ],
+    "id": "s10-i15",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 16,
+    "q": "Nền kinh tế trong giai đoạn 1975–1985 vận hành chủ yếu theo mô hình:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kế hoạch hóa tập trung, quan liêu, bao cấp"
+      },
+      {
+        "letter": "B",
+        "text": "Kinh tế thị trường tư bản"
+      },
+      {
+        "letter": "C",
+        "text": "Kinh tế hỗn hợp tư nhân – nhà nước"
+      },
+      {
+        "letter": "D",
+        "text": "Kinh tế tự cung tự cấp"
+      }
+    ],
+    "id": "s10-i16",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 17,
+    "q": "Khó khăn lớn nhất của mô hình kinh tế bao cấp là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Lãi suất cao"
+      },
+      {
+        "letter": "B",
+        "text": "Thặng dư hàng hóa"
+      },
+      {
+        "letter": "C",
+        "text": "Không tạo ra động lực phát triển và hiệu quả sản xuất thấp"
+      },
+      {
+        "letter": "D",
+        "text": "Tập trung hóa ngân sách địa phương"
+      }
+    ],
+    "id": "s10-i17",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 18,
+    "q": "Một hệ quả tiêu cực của mô hình tập trung quan liêu bao cấp là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tư tưởng ỷ lại, thụ động trong sản xuất"
+      },
+      {
+        "letter": "B",
+        "text": "Gia tăng cạnh tranh thị trường"
+      },
+      {
+        "letter": "C",
+        "text": "Tự do hóa sản xuất nông nghiệp"
+      },
+      {
+        "letter": "D",
+        "text": "Tập trung vốn đầu tư nước ngoài"
+      }
+    ],
+    "id": "s10-i18",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 19,
+    "q": "Đại hội VI (1986) có ý nghĩa lịch sử như thế nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hoàn thành cải cách tư pháp"
+      },
+      {
+        "letter": "B",
+        "text": "Bắt đầu hội nhập quốc tế"
+      },
+      {
+        "letter": "C",
+        "text": "Khởi xướng công cuộc đổi mới toàn diện"
+      },
+      {
+        "letter": "D",
+        "text": "Kết thúc khủng hoảng kinh tế"
+      }
+    ],
+    "id": "s10-i19",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 20,
+    "q": "Đại hội nào của Đảng được coi là Đại hội mở đầu quá trình đổi mới ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đại hôi Đảng lần thứ IV (1976)"
+      },
+      {
+        "letter": "B",
+        "text": "Đại hội Đảng lần thứ V (1982)"
+      },
+      {
+        "letter": "C",
+        "text": "Đại hội Đảng lần thứ VI (1986)"
+      },
+      {
+        "letter": "D",
+        "text": "Đại hội Đảng lần thứ VII (1991)"
+      }
+    ],
+    "id": "s10-i20",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 21,
+    "q": "Đại hội Đảng lầ thứ VI (1986), diễn ra với tinh thần như thế nào ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nhìn thẳng vào sự thật,"
+      },
+      {
+        "letter": "B",
+        "text": "Đáng giá đúng sự thật,"
+      },
+      {
+        "letter": "C",
+        "text": "Nói rõ sự thật"
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i21",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 22,
+    "q": "Đại hội Đảng lần thứ VI (1986), cụ thể hoá nội dung công nghiệp hoá xã hội chủ nghĩa trong chặng đường đầu tiên là gì ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Thực hiện ba chương trình kinh tế: sản xuất lương thực thực phẩm, sản xuất hàng tiêu dùng, sản xuất hàng xuất khẩu"
+      },
+      {
+        "letter": "B",
+        "text": "Tập trung phát triển công nghiệp nặng trên cơ sở phát triển nông nghiệp"
+      },
+      {
+        "letter": "C",
+        "text": "Phát triển công nghiêp nhẹ - nông nghiệp – dịch vụ"
+      },
+      {
+        "letter": "D",
+        "text": "Tập trung phát triển công nghiệp nặng và dịch vụ"
+      }
+    ],
+    "id": "s10-i22",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 23,
+    "q": "Đại hội Đảng lần thứ VI (1986), xác định chặng đường đầu tiên của công nghiệp hoá xã hội chủ nghĩa ở nước ta là gì ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Xây dựng cơ sở vật chất cho chặng đường tiếp theo"
+      },
+      {
+        "letter": "B",
+        "text": "Tạo tiền đề cần thiết cho chặng đường tiếp theo"
+      },
+      {
+        "letter": "C",
+        "text": "Đẩy mạnh công nghiệp hoá, hiện đại hoá"
+      },
+      {
+        "letter": "D",
+        "text": "Đẩy mạnh công nghiệp hoá, hiện đại hoá gắn với kinh tế tri thức"
+      }
+    ],
+    "id": "s10-i23",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 24,
+    "q": "Đại hội Đảng lần thứ VI (1986), nêu cơ cấu kinh tế trong chặng đường đầu tiên là gì ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Công nghiệp nặng – nông nghiệp"
+      },
+      {
+        "letter": "B",
+        "text": "Nông nghiệp – công nghiệp – dịch vụ"
+      },
+      {
+        "letter": "C",
+        "text": "Công – nông nghiêp hiện đại"
+      },
+      {
+        "letter": "D",
+        "text": "Công – nông – lâm nghiệp"
+      }
+    ],
+    "id": "s10-i24",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 25,
+    "q": "Một trong ba chương trình kinh tế lớn được đề ra tại Đại hội VI là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Công nghiệp nặng"
+      },
+      {
+        "letter": "B",
+        "text": "Hàng tiêu dùng"
+      },
+      {
+        "letter": "C",
+        "text": "Dịch vụ tài chính"
+      },
+      {
+        "letter": "D",
+        "text": "Công nghiệp nhẹ"
+      }
+    ],
+    "id": "s10-i25",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 26,
+    "q": "Đại hội VI đã xác định đổi mới là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đổi mới về mặt thể chế chính trị"
+      },
+      {
+        "letter": "B",
+        "text": "Đổi mới từng phần"
+      },
+      {
+        "letter": "C",
+        "text": "Đổi mới toàn diện và đồng bộ"
+      },
+      {
+        "letter": "D",
+        "text": "Đổi mới chủ yếu ở khu vực tư"
+      }
+    ],
+    "id": "s10-i26",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 27,
+    "q": "Một nội dung cốt lõi trong đổi mới tư duy kinh tế tại Đại hội VI của Đảng là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tăng cường vai trò của kế hoạch hóa tập trung"
+      },
+      {
+        "letter": "B",
+        "text": "Giữ vững cơ chế bao cấp truyền thống"
+      },
+      {
+        "letter": "C",
+        "text": "Xóa bỏ cơ chế tập trung, bao cấp, chuyển sang cơ chế thị trường có sự quản lý của nhà nước"
+      },
+      {
+        "letter": "D",
+        "text": "Tăng cường sở hữu nhà nước trong mọi lĩnh vực"
+      }
+    ],
+    "id": "s10-i27",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 28,
+    "q": "Cơ chế quản lý kinh tế mới theo Đại hội VI là sự kết hợp giữa:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tư nhân hóa toàn diện và thị trường mở"
+      },
+      {
+        "letter": "B",
+        "text": "Kế hoạch hóa tập trung và tự quản địa phương"
+      },
+      {
+        "letter": "C",
+        "text": "Hạch toán, kinh doanh và kế hoạch với thị trường"
+      },
+      {
+        "letter": "D",
+        "text": "Bao cấp ngân sách và kiểm soát giá cả"
+      }
+    ],
+    "id": "s10-i28",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 29,
+    "q": "Ba chương trình kinh tế lớn được đề ra tại Đại hội VI là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Công nghiệp hóa – hiện đại hóa – đô thị hóa"
+      },
+      {
+        "letter": "B",
+        "text": "Giáo dục – đào tạo – khoa học"
+      },
+      {
+        "letter": "C",
+        "text": "Lương thực – thực phẩm, hàng tiêu dùng, hàng xuất khẩu"
+      },
+      {
+        "letter": "D",
+        "text": "Giao thông – thông tin – thương mại"
+      }
+    ],
+    "id": "s10-i29",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 30,
+    "q": "Đại hội VI nhấn mạnh thực hiện cải tạo xã hội chủ nghĩa theo hướng nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Dứt điểm trong một thời kỳ ngắn"
+      },
+      {
+        "letter": "B",
+        "text": "Toàn diện và triệt để ngay"
+      },
+      {
+        "letter": "C",
+        "text": "Từng bước, hình thức và bước đi phù hợp"
+      },
+      {
+        "letter": "D",
+        "text": "Phụ thuộc vào viện trợ quốc tế"
+      }
+    ],
+    "id": "s10-i30",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 31,
+    "q": "Một trong các vấn đề cấp bách trong lĩnh vực kinh tế mà Đại hội VI đề cập là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nâng cấp hệ thống thuế"
+      },
+      {
+        "letter": "B",
+        "text": "Giải quyết vấn đề phân phối và lưu thông"
+      },
+      {
+        "letter": "C",
+        "text": "Tăng lương cho cán bộ"
+      },
+      {
+        "letter": "D",
+        "text": "Phát triển bất động sản"
+      }
+    ],
+    "id": "s10-i31",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 32,
+    "q": "Một trong những nội dung chính của đường lối đối ngoại trong Đại hội VI là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cắt đứt quan hệ với các nước xã hội chủ nghĩa"
+      },
+      {
+        "letter": "B",
+        "text": "Tăng cường đối đầu với các nước phương Tây"
+      },
+      {
+        "letter": "C",
+        "text": "Mở rộng và phát triển quan hệ ngoại giao đa phương, đa dạng hóa quan hệ đối ngoại"
+      },
+      {
+        "letter": "D",
+        "text": "Chỉ tập trung quan hệ với Liên Xô và Trung Quốc"
+      }
+    ],
+    "id": "s10-i32",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 33,
+    "q": "Đường lối đối ngoại của Đảng trong Đại hội VI nhấn mạnh đến việc:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phát triển quan hệ đối ngoại theo nguyên tắc bình đẳng và cùng có lợi"
+      },
+      {
+        "letter": "B",
+        "text": "Chỉ quan hệ với các nước xã hội chủ nghĩa"
+      },
+      {
+        "letter": "C",
+        "text": "Loại bỏ quan hệ với các nước tư bản chủ nghĩa"
+      },
+      {
+        "letter": "D",
+        "text": "Chỉ hợp tác trong lĩnh vực quân sự"
+      }
+    ],
+    "id": "s10-i33",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 34,
+    "q": "Theo đường lối đối ngoại của Đại hội VI, mục tiêu quan trọng nhất của đối ngoại Việt Nam là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Giữ vững độc lập, chủ quyền và toàn vẹn lãnh thổ"
+      },
+      {
+        "letter": "B",
+        "text": "Tăng cường ảnh hưởng quân sự ở Đông Nam Á"
+      },
+      {
+        "letter": "C",
+        "text": "Tập trung phát triển quan hệ với các nước Liên Xô cũ"
+      },
+      {
+        "letter": "D",
+        "text": "Mở rộng viện trợ nước ngoài"
+      }
+    ],
+    "id": "s10-i34",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 35,
+    "q": "Từ khóa thể hiện nội dung cốt lõi của “Đổi mới” là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kinh tế – văn hóa – quốc phòng"
+      },
+      {
+        "letter": "B",
+        "text": "Đổi mới tư duy, đặc biệt là tư duy kinh tế"
+      },
+      {
+        "letter": "C",
+        "text": "Đổi mới thể chế quản lý tài chính"
+      },
+      {
+        "letter": "D",
+        "text": "Cải cách tư pháp toàn diện"
+      }
+    ],
+    "id": "s10-i35",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 36,
+    "q": "Văn kiện quan trọng được thông qua tại Đại hội VII là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cương lĩnh phát triển công nghiệp"
+      },
+      {
+        "letter": "B",
+        "text": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH"
+      },
+      {
+        "letter": "C",
+        "text": "Cương lĩnh phát triển văn hóa dân tộc"
+      },
+      {
+        "letter": "D",
+        "text": "Cương lĩnh quốc phòng toàn dân"
+      }
+    ],
+    "id": "s10-i36",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 37,
+    "q": "Khẩu hiệu nổi bật của Đại hội VII là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "“Vì dân tộc phồn vinh”"
+      },
+      {
+        "letter": "B",
+        "text": "“Đổi mới, dân chủ, kỷ cương, đoàn kết”"
+      },
+      {
+        "letter": "C",
+        "text": "“Kinh tế là trung tâm”"
+      },
+      {
+        "letter": "D",
+        "text": "“Đẩy mạnh công nghiệp hóa”"
+      }
+    ],
+    "id": "s10-i37",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 38,
+    "q": "Đại hội VII đánh dấu bước phát triển mới trong công cuộc đổi mới về:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Thay đổi hệ thống chính trị"
+      },
+      {
+        "letter": "B",
+        "text": "Thống nhất hệ thống hành chính"
+      },
+      {
+        "letter": "C",
+        "text": "Tư duy lý luận và thực tiễn đổi mới"
+      },
+      {
+        "letter": "D",
+        "text": "Hòa nhập văn hóa khu vực"
+      }
+    ],
+    "id": "s10-i38",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 39,
+    "q": "Một trong những chủ trương đổi mới của Đảng về xây dựng Đảng giai đoạn 1986–1996 là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tập trung hóa quyền lực"
+      },
+      {
+        "letter": "B",
+        "text": "Tổ chức lại Quốc hội"
+      },
+      {
+        "letter": "C",
+        "text": "Nâng cao chất lượng đảng viên"
+      },
+      {
+        "letter": "D",
+        "text": "Bỏ cơ chế lãnh đạo tập trung"
+      }
+    ],
+    "id": "s10-i39",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 40,
+    "q": "Đặc trưng nào khẳng định vai trò chủ thể của nhân dân trong mô hình xã hội chủ nghĩa ở Việt Nam?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nền văn hoá tiên tiến"
+      },
+      {
+        "letter": "B",
+        "text": "Do nhân dân lao động làm chủ"
+      },
+      {
+        "letter": "C",
+        "text": "Quan hệ hợp tác quốc tế"
+      },
+      {
+        "letter": "D",
+        "text": "Công hữu về tư liệu sản xuất"
+      }
+    ],
+    "id": "s10-i40",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 41,
+    "q": "Trong mô hình xã hội chủ nghĩa, đặc trưng nào nói đến sự phát triển của lực lượng sản xuất hiện đại?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Văn hóa dân tộc"
+      },
+      {
+        "letter": "B",
+        "text": "Nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại"
+      },
+      {
+        "letter": "C",
+        "text": "Quan hệ hữu nghị"
+      },
+      {
+        "letter": "D",
+        "text": "Nhân dân làm chủ"
+      }
+    ],
+    "id": "s10-i41",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 42,
+    "q": "Theo Cương lĩnh 1991, đặc trưng nào thể hiện yêu cầu phát triển văn hóa gắn với dân tộc?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kinh tế hiện đại"
+      },
+      {
+        "letter": "B",
+        "text": "Giải phóng con người"
+      },
+      {
+        "letter": "C",
+        "text": "Nền văn hoá tiên tiến, đậm đà bản sắc dân tộc"
+      },
+      {
+        "letter": "D",
+        "text": "Hợp tác quốc tế"
+      }
+    ],
+    "id": "s10-i42",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 43,
+    "q": "Đặc trưng nào nhấn mạnh sự giải phóng con người và phân phối theo lao động?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Công hữu tư liệu sản xuất"
+      },
+      {
+        "letter": "B",
+        "text": "Phát triển văn hóa"
+      },
+      {
+        "letter": "C",
+        "text": "Đoàn kết dân tộc"
+      },
+      {
+        "letter": "D",
+        "text": "Con người được giải phóng khỏi áp bức, bóc lột"
+      }
+    ],
+    "id": "s10-i43",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 44,
+    "q": "Đặc trưng nào phản ánh sự đoàn kết giữa các dân tộc trong nước?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hợp tác quốc tế"
+      },
+      {
+        "letter": "B",
+        "text": "Các dân tộc trong nước bình đẳng, đoàn kết và giúp đỡ lẫn nhau"
+      },
+      {
+        "letter": "C",
+        "text": "Giải phóng con người"
+      },
+      {
+        "letter": "D",
+        "text": "Nền kinh tế phát triển"
+      }
+    ],
+    "id": "s10-i44",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 45,
+    "q": "Vì sao Đảng ta xem “do nhân dân lao động làm chủ” là đặc trưng hàng đầu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vì phù hợp với xu hướng thế giới"
+      },
+      {
+        "letter": "B",
+        "text": "Vì để thu hút đầu tư nước ngoài"
+      },
+      {
+        "letter": "C",
+        "text": "Vì nhân dân là chủ thể của cách mạng"
+      },
+      {
+        "letter": "D",
+        "text": "Vì để tăng trưởng kinh tế"
+      }
+    ],
+    "id": "s10-i45",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 46,
+    "q": "Phát biểu nào sau đây phản ánh đúng nguyên tắc phân phối trong xã hội xã hội chủ nghĩa?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mọi người được hưởng ngang nhau"
+      },
+      {
+        "letter": "B",
+        "text": "Hưởng theo chức vụ"
+      },
+      {
+        "letter": "C",
+        "text": "Làm theo năng lực, hưởng theo lao động"
+      },
+      {
+        "letter": "D",
+        "text": "Phân phối theo hộ khẩu"
+      }
+    ],
+    "id": "s10-i46",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 47,
+    "q": "Cơ chế Đảng lãnh đạo, Nhà nước quản lý, nhân dân làm chủ thể hiện rõ đặc trưng nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Công hữu tư liệu sản xuất"
+      },
+      {
+        "letter": "B",
+        "text": "Phát triển kinh tế"
+      },
+      {
+        "letter": "C",
+        "text": "Nhân dân lao động làm chủ"
+      },
+      {
+        "letter": "D",
+        "text": "Hợp tác quốc tế"
+      }
+    ],
+    "id": "s10-i47",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 48,
+    "q": "Cương lĩnh 1991 lần đầu nêu rõ mấy đặc trưng của CNXH Việt Nam?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "4"
+      },
+      {
+        "letter": "B",
+        "text": "6"
+      },
+      {
+        "letter": "C",
+        "text": "8"
+      },
+      {
+        "letter": "D",
+        "text": "10"
+      }
+    ],
+    "id": "s10-i48",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 49,
+    "q": "Tư tưởng Hồ Chí Minh được xác định là gì trong Cương lĩnh 1991?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phương pháp giáo dục nhân dân"
+      },
+      {
+        "letter": "B",
+        "text": "Lý luận văn hóa"
+      },
+      {
+        "letter": "C",
+        "text": "Nền tảng tư tưởng và kim chỉ nam cho hành động của Đảng"
+      },
+      {
+        "letter": "D",
+        "text": "Một bộ phận của lý luận dân chủ tư sản"
+      }
+    ],
+    "id": "s10-i49",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 50,
+    "q": "Tư tưởng Hồ Chí Minh lần đầu tiên được nêu là nền tảng tư tưởng của Đảng tại Đại hội nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đại hội VI"
+      },
+      {
+        "letter": "B",
+        "text": "Đại hội VII"
+      },
+      {
+        "letter": "C",
+        "text": "Đại hội VIII"
+      },
+      {
+        "letter": "D",
+        "text": "Đại hội IX"
+      }
+    ],
+    "id": "s10-i50",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 51,
+    "q": "Đại hội VII lần đầu tiên đề ra định hướng xây dựng nhà nước pháp quyền như thế nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nhà nước của công chức, vì công chức"
+      },
+      {
+        "letter": "B",
+        "text": "Nhà nước tư sản dân chủ hiện đại"
+      },
+      {
+        "letter": "C",
+        "text": "Nhà nước của nhân dân, do nhân dân, vì nhân dân"
+      },
+      {
+        "letter": "D",
+        "text": "Nhà nước liên bang theo mô hình phương Tây"
+      }
+    ],
+    "id": "s10-i51",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 52,
+    "q": "Một trong bốn nguy cơ được Hội nghị giữa nhiệm kỳ khóa VII (1994) xác định là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đổi mới quá nhanh"
+      },
+      {
+        "letter": "B",
+        "text": "Lạm phát phi mã"
+      },
+      {
+        "letter": "C",
+        "text": "Diễn biến hòa bình của các thế lực thù địch"
+      },
+      {
+        "letter": "D",
+        "text": "Chủ nghĩa thực dân kiểu mới quay trở lại"
+      }
+    ],
+    "id": "s10-i52",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 53,
+    "q": "Chiến lược ổn định và phát triển KT-XH đến năm 2000 do Đại hội VII đề ra có mục tiêu tổng quát nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đưa Việt Nam thành nước phát triển"
+      },
+      {
+        "letter": "B",
+        "text": "Ra khỏi khủng hoảng, ổn định tình hình KT-XH"
+      },
+      {
+        "letter": "C",
+        "text": "Thành lập cộng đồng kinh tế ASEAN"
+      },
+      {
+        "letter": "D",
+        "text": "Xây dựng chủ nghĩa cộng sản hoàn chỉnh"
+      }
+    ],
+    "id": "s10-i53",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 54,
+    "q": "Đại hội VIII của Đảng diễn ra vào thời gian nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "4/1996"
+      },
+      {
+        "letter": "B",
+        "text": "1/1996"
+      },
+      {
+        "letter": "C",
+        "text": "6–7/1996"
+      },
+      {
+        "letter": "D",
+        "text": "10/1996"
+      }
+    ],
+    "id": "s10-i54",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 55,
+    "q": "Đại hội VIII nêu rõ đặc trưng tổng quát của mục tiêu CNXH là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nhà nước pháp quyền"
+      },
+      {
+        "letter": "B",
+        "text": "Dân giàu, nước mạnh, xã hội công bằng, văn minh"
+      },
+      {
+        "letter": "C",
+        "text": "Toàn dân làm chủ"
+      },
+      {
+        "letter": "D",
+        "text": "Kinh tế thị trường tự do"
+      }
+    ],
+    "id": "s10-i55",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 56,
+    "q": "Đại hội Đảng lần thứ VIII (1996), nhìn lại đất nước sau 10 năm đổi mới đã đưa ra nhận định gì ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nước ta đã ra khỏi khủng hoảng kinh tế - xã hội"
+      },
+      {
+        "letter": "B",
+        "text": "Nhiệm vụ đề ra cho chặng đường đầu tiên của thời kỳ quá độ là chuẩn bị tiền đề cho công nghiệp hoá đã cơ bản hoàn thành"
+      },
+      {
+        "letter": "C",
+        "text": "Cho phép chuyển sang thời kỳ mới là đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước."
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i56",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 57,
+    "q": "Đại hội Đảng lần thứ VIII (1996), quyết định đưa nước ta chuyển sang thời kỳ mới đó là thời kỳ nào ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Thời kỳ đẩy mạnh công nghiêp hoá, hiện đại hoá"
+      },
+      {
+        "letter": "B",
+        "text": "Thời kỳ hoàn thành công nghiệp hoá"
+      },
+      {
+        "letter": "C",
+        "text": "Thời kỳ xây dựng cơ sở vật chất cho công nghiệp hoá"
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i57",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 58,
+    "q": "Những yếu tố nào quyết định đến sự tăng trưởng kinh tế ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vốn, khoa học công nghệ, con người"
+      },
+      {
+        "letter": "B",
+        "text": "Con người, khoa học công nghệ, thể chế chính trị"
+      },
+      {
+        "letter": "C",
+        "text": "Khoa học công nghệ, con người, cơ cấu kinh tế"
+      },
+      {
+        "letter": "D",
+        "text": "Vốn, khoa học công nghệ, con người, cơ cấu kinh tế, thể chế chính trị"
+      }
+    ],
+    "id": "s10-i58",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 59,
+    "q": "Để phát triển nguồn lực con người đáp ứng yêu cầu của công nghiệp hoá, hiện đại hoá, cần phải đặc biệt chú ý đến điều gì ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hoàn chỉnh hệ thống pháp luật"
+      },
+      {
+        "letter": "B",
+        "text": "Cải cách hành chính"
+      },
+      {
+        "letter": "C",
+        "text": "Chú ý phát triển giáo dục đào tạo"
+      },
+      {
+        "letter": "D",
+        "text": "Xây dựng Đảng vững mạnh"
+      }
+    ],
+    "id": "s10-i59",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 60,
+    "q": "Đại hội Đảng lần thứ VIII và các Đại hội tiếp theo đều xác định coi giáo dục - đào tạo cùng với khoa học công nghệ là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nhiệm vụ quan trọng nhất"
+      },
+      {
+        "letter": "B",
+        "text": "Nhiệm vụ hàng đầu"
+      },
+      {
+        "letter": "C",
+        "text": "Nhiệm vụ chiến lược"
+      },
+      {
+        "letter": "D",
+        "text": "Là quốc sách hàng đầu"
+      }
+    ],
+    "id": "s10-i60",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 61,
+    "q": "Đáp án nào thể hiện một trong những nội dung của công nghiệp hoá, hiện đại hoá gắn với phát triển kinh tế thời kỳ đổi mới ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Xây dựng cơ cấu kinh tế hiện đại và hợp lý theo ngành, lĩnh vực và lãnh thổ"
+      },
+      {
+        "letter": "B",
+        "text": "Công nghiệp hoá nông nghiệp nông thôn"
+      },
+      {
+        "letter": "C",
+        "text": "Chuyển dịch cơ cấu nông nghiệp nông thôn"
+      },
+      {
+        "letter": "D",
+        "text": "Giải quyết lao động, việc làm ở nông thôn"
+      }
+    ],
+    "id": "s10-i61",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 62,
+    "q": "Nội dung nào thể hiện một trong những quan điểm của Đảng về công nghiệp hoá, hiện đại hoá gắn với kinh tế tri thức thời kỳ đổi mới ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Công nghiệp hoá, hiện đại hoá gắn với phát triển kinh tế thị trường định hướng xã hội chủ nghĩa và hội nhập kinh tế quốc tế"
+      },
+      {
+        "letter": "B",
+        "text": "Công nghiệp hoá, hiện đại hoá gắn vớ phát triển bền vững"
+      },
+      {
+        "letter": "C",
+        "text": "Công nghiệp hoá, hiện đại hoá gắn với hội nhập quốc tế"
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i62",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 63,
+    "q": "Tại Hội nghị Trung ương 2 khóa VIII (12-1996), Ban chấp hành Trung ương Đảng đã thông qua 2 Nghị quyết quan trọng đó là Nghị quyết về:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tiếp tục xây dựng nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam trong sạch, vững mạnh"
+      },
+      {
+        "letter": "B",
+        "text": "Định hướng chiến lược phát triển giáo dục và đào tạo; khoa học và công nghệ trong thời kỳ công nghiệp hóa, hiện đại hóa"
+      },
+      {
+        "letter": "C",
+        "text": "Xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc"
+      },
+      {
+        "letter": "D",
+        "text": "Chiến lược cán bộ thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước"
+      }
+    ],
+    "id": "s10-i63",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 64,
+    "q": "Hội nghị Trung ương 2 khóa VIII (1996) xác định quốc sách hàng đầu là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bảo vệ môi trường"
+      },
+      {
+        "letter": "B",
+        "text": "Xóa đói giảm nghèo"
+      },
+      {
+        "letter": "C",
+        "text": "Giáo dục – đào tạo, khoa học – công nghệ"
+      },
+      {
+        "letter": "D",
+        "text": "Xuất khẩu lao động"
+      }
+    ],
+    "id": "s10-i64",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 65,
+    "q": "Đại hội VIII xác định mục tiêu công nghiệp hóa, hiện đại hóa là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phát triển thương mại khu vực"
+      },
+      {
+        "letter": "B",
+        "text": "Xây dựng cơ sở vật chất – kỹ thuật cho CNXH"
+      },
+      {
+        "letter": "C",
+        "text": "Nâng cấp đô thị hóa"
+      },
+      {
+        "letter": "D",
+        "text": "Gia tăng đầu tư tư nhân"
+      }
+    ],
+    "id": "s10-i65",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 66,
+    "q": "Trong chiến lược phát triển, ngành kinh tế được xác định là mũi nhọn là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tài chính"
+      },
+      {
+        "letter": "B",
+        "text": "Công nghiệp chế biến"
+      },
+      {
+        "letter": "C",
+        "text": "Công nghiệp điện tử – công nghệ thông tin"
+      },
+      {
+        "letter": "D",
+        "text": "Công nghiệp quốc phòng"
+      }
+    ],
+    "id": "s10-i66",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 67,
+    "q": "Đại hội VIII đã nhấn mạnh vai trò then chốt của lĩnh vực nào trong phát triển đất nước?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Dân số – kế hoạch hóa gia đình"
+      },
+      {
+        "letter": "B",
+        "text": "Hành chính công"
+      },
+      {
+        "letter": "C",
+        "text": "Giáo dục và đào tạo"
+      },
+      {
+        "letter": "D",
+        "text": "Du lịch và dịch vụ"
+      }
+    ],
+    "id": "s10-i67",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 68,
+    "q": "Tại Hội nghị Ban chấp hành Trung ương Đảng lần thứ 5 khóa VIII (7-1998), Đảng ta đã đề ra Nghị quyết về:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phát huy quyền làm chủ của nhân dân"
+      },
+      {
+        "letter": "B",
+        "text": "Định hướng chiến lược phát triển giáo dục và đào tạo; khoa học và công nghệ trong thời kỳ công nghiệp hóa, hiện đại hóa"
+      },
+      {
+        "letter": "C",
+        "text": "Xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc"
+      },
+      {
+        "letter": "D",
+        "text": "Chiến lược cán bộ thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước"
+      }
+    ],
+    "id": "s10-i68",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 69,
+    "q": "Nghị quyết của Hội nghị Trung ương 5, khóa VIII đề ra chủ trương xây dựng và phát triển nền văn hóa Việt Nam thời kỳ đổi mới như thế nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tiên tiến, đậm đà bản sắc dân tộc"
+      },
+      {
+        "letter": "B",
+        "text": "Tiếp thu hoàn toàn văn hóa nước ngoài"
+      },
+      {
+        "letter": "C",
+        "text": "Phát triển theo hướng hiện đại hóa và công nghiệp hóa"
+      },
+      {
+        "letter": "D",
+        "text": "Đơn giản hóa và loại bỏ truyền thống"
+      }
+    ],
+    "id": "s10-i69",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 70,
+    "q": "Theo Nghị quyết Hội nghị Trung ương 5, văn hóa được đóng vai trò gì đối với xã hội?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nền tảng tinh thần, mục tiêu và động lực thúc đẩy phát triển kinh tế - xã hội"
+      },
+      {
+        "letter": "B",
+        "text": "Chỉ là mục tiêu phát triển xã hội"
+      },
+      {
+        "letter": "C",
+        "text": "Chỉ là phần bổ sung của kinh tế"
+      },
+      {
+        "letter": "D",
+        "text": "Yếu tố không quan trọng trong phát triển xã hội"
+      }
+    ],
+    "id": "s10-i70",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 71,
+    "q": "Hội nghị Trung ương 5, khóa VIII đã đề ra bao nhiêu nhiệm vụ xây dựng và phát triển văn hóa?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "5 nhiệm vụ"
+      },
+      {
+        "letter": "B",
+        "text": "8 nhiệm vụ"
+      },
+      {
+        "letter": "C",
+        "text": "10 nhiệm vụ"
+      },
+      {
+        "letter": "D",
+        "text": "12 nhiệm vụ"
+      }
+    ],
+    "id": "s10-i71",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 72,
+    "q": "Nghị quyết của Hội nghị Trung ương 5, khóa VIII (7-1998) về văn hóa nhấn mạnh vai trò của văn hóa trong:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phát triển kinh tế-xã hội và bảo tồn bản sắc dân tộc"
+      },
+      {
+        "letter": "B",
+        "text": "Mở rộng giao lưu văn hóa quốc tế mà không cần bảo tồn bản sắc"
+      },
+      {
+        "letter": "C",
+        "text": "Phát triển kinh tế mà không cần quan tâm văn hóa"
+      },
+      {
+        "letter": "D",
+        "text": "Chỉ tập trung vào phát triển công nghiệp"
+      }
+    ],
+    "id": "s10-i72",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 73,
+    "q": "Quan điểm coi văn hoá là nền tảng tinh thần của xã hội, vừa là mục tiêu, vừa là động lực cho sự phát triển kinh tế - xã hội. Điều này có nghĩa là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Chỉ rõ chức năng của văn hoá"
+      },
+      {
+        "letter": "B",
+        "text": "Chỉ rõ vai trò đặc biệt của văn hoá"
+      },
+      {
+        "letter": "C",
+        "text": "Chỉ rõ vị trí, vai trò đặc biệt của văn hoá"
+      },
+      {
+        "letter": "D",
+        "text": "Chỉ rõ nhiệm vụ của văn hoá"
+      }
+    ],
+    "id": "s10-i73",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 74,
+    "q": "Quan điểm coi văn hoá là mục tiêu, động lực cho sự phát triển kinh tế - xã hội. Vậy mục tiêu, động lực hoá là gì ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Là con người, vì con người, do con người"
+      },
+      {
+        "letter": "B",
+        "text": "Là tạo tiền đề cho phát triển kinh tế - xã hội"
+      },
+      {
+        "letter": "C",
+        "text": "Là cơ sở cho việc xây dựng con người mới"
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i74",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 75,
+    "q": "Thế nào là nền văn hoá tiên tiến ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nền văn hoá luôn đặt sự nghiệp dân tộc lên hàng đầu"
+      },
+      {
+        "letter": "B",
+        "text": "Nền văn hoá mang bản sắc dân tộc"
+      },
+      {
+        "letter": "C",
+        "text": "Nền văn hoá phát huy được truyền thống tốt đẹp của dân tộc"
+      },
+      {
+        "letter": "D",
+        "text": "Nền văn hoá yêu nước, tiến bộ mà nội dung cốt lõi là lý tưởng ĐLDT gắn với CNXH theo CNMLN và tư tưởng Hồ chí Minh nhằm mục tiêu tất cả vì con người"
+      }
+    ],
+    "id": "s10-i75",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 76,
+    "q": "Tại sao phải làm cho văn hoá thấm sâu vào mọi lĩnh vực của đời sống xã hội ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Làm cho các gia trị văn hoá trở thành nền tảng tinh thần của xã hội"
+      },
+      {
+        "letter": "B",
+        "text": "Làm cho văn hoá trở thành động lực cho sự phát triển kinh tế, xã hội"
+      },
+      {
+        "letter": "C",
+        "text": "Là con đường để xây dựng con người mới, xây dựng môi trường văn hoá lành mạnh"
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i76",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 77,
+    "q": "Bảo vệ bản sắc văn hoá dân tộc, mở rộng giao lưu, tiếp thu tinh hoa văn hoá nhân loại nhằm mục đích gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phát triển nền văn hoá dân tộc tiên tiến"
+      },
+      {
+        "letter": "B",
+        "text": "Làm cho văn hoá Việt Nam bắt kịp với sự phát triển của thời đại"
+      },
+      {
+        "letter": "C",
+        "text": "Tạo điều kiện để mở rộng quan hệ đối ngoại"
+      },
+      {
+        "letter": "D",
+        "text": "Tiếp thu tinh hoa văn hoá nhân loại"
+      }
+    ],
+    "id": "s10-i77",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 78,
+    "q": "Thế nào là bản sắc dân tộc ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bao gồm những giá trị văn hoá truyền thống bền vững của cộng đồng dân tộc Việt Nam được hình thành qua hàng ngàn năm lịch sử"
+      },
+      {
+        "letter": "B",
+        "text": "Đó là sự tinh tế trong ứng xử, tính giản dị trong lối sống"
+      },
+      {
+        "letter": "C",
+        "text": "Thể hiện đậm nét cả trong hình thức biểu hiện mang tính dân tộc độc đáo"
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i78",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 79,
+    "q": "Quan điểm của Đảng ta là giữ gìn bản sắc văn hoá dân tộc nhưng phải đi liền với nhiệm vụ gì ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phải loại bỏ những cái lạc hậu, lỗi thời trong phong tục, tập quán và lề thói cũ"
+      },
+      {
+        "letter": "B",
+        "text": "Phải thưởng xuyên đấu tranh chống lại văn hoá phản động"
+      },
+      {
+        "letter": "C",
+        "text": "Không ngừng tiếp thu tinh hoa văn hoá nhân loại"
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i79",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 80,
+    "q": "Nghị quyết của Hội nghị Trung ương 2 khóa VIII xác định giáo dục-đào tạo cùng với khoa học và công nghệ là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Quốc sách hàng đầu"
+      },
+      {
+        "letter": "B",
+        "text": "Nhiệm vụ phụ trợ"
+      },
+      {
+        "letter": "C",
+        "text": "Công việc của các trường đại học"
+      },
+      {
+        "letter": "D",
+        "text": "Chỉ là nhiệm vụ của Nhà nước"
+      }
+    ],
+    "id": "s10-i80",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 81,
+    "q": "Quan điểm xây dựng con người trong giáo dục-đào tạo theo Nghị quyết Trung ương 2 khóa VIII là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Chỉ phát triển chuyên môn, kỹ năng"
+      },
+      {
+        "letter": "B",
+        "text": "Xây dựng con người vừa “hồng” vừa “chuyên”"
+      },
+      {
+        "letter": "C",
+        "text": "Tập trung phát triển tư duy khoa học"
+      },
+      {
+        "letter": "D",
+        "text": "Chỉ chú trọng về đạo đức"
+      }
+    ],
+    "id": "s10-i81",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 82,
+    "q": "Theo Nghị quyết Hội nghị Trung ương 2 khóa VIII (12-1996), giáo dục-đào tạo được coi là sự nghiệp của ai?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Chỉ của Nhà nước"
+      },
+      {
+        "letter": "B",
+        "text": "Chỉ của Đảng"
+      },
+      {
+        "letter": "C",
+        "text": "Của Đảng, Nhà nước và toàn dân"
+      },
+      {
+        "letter": "D",
+        "text": "Chỉ của toàn dân"
+      }
+    ],
+    "id": "s10-i82",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 83,
+    "q": "Về khoa học và công nghệ, Nghị quyết Trung ương 2 khóa VIII đề ra mục tiêu nào sau đây?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đẩy mạnh nghiên cứu ứng dụng, nâng cao năng lực nội sinh"
+      },
+      {
+        "letter": "B",
+        "text": "Tập trung phát triển công nghiệp nặng"
+      },
+      {
+        "letter": "C",
+        "text": "Phát triển khoa học cơ bản mà không quan tâm ứng dụng"
+      },
+      {
+        "letter": "D",
+        "text": "Giảm đầu tư cho nghiên cứu khoa học"
+      }
+    ],
+    "id": "s10-i83",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 84,
+    "q": "Mục tiêu phát triển khoa học và công nghệ được nêu trong Nghị quyết Hội nghị Trung ương 2 khóa VIII (12-1996) là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Từng bước hình thành nền khoa học và công nghệ Việt Nam hiện đại"
+      },
+      {
+        "letter": "B",
+        "text": "Tập trung vào nhập khẩu công nghệ nước ngoài"
+      },
+      {
+        "letter": "C",
+        "text": "Chỉ phát triển khoa học tự nhiên"
+      },
+      {
+        "letter": "D",
+        "text": "Phát triển công nghệ truyền thống"
+      }
+    ],
+    "id": "s10-i84",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 85,
+    "q": "Đại hội III (1960) của Đảng xác định mục tiêu tổng quát của công nghiệp hóa xã hội chủ nghĩa ở miền Bắc là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phát triển thương mại và dịch vụ"
+      },
+      {
+        "letter": "B",
+        "text": "Phát triển kinh tế thị trường định hướng xã hội chủ nghĩa"
+      },
+      {
+        "letter": "C",
+        "text": "Xây dựng cơ sở vật chất – kỹ thuật của chủ nghĩa xã hội"
+      },
+      {
+        "letter": "D",
+        "text": "Đẩy mạnh sản xuất nông nghiệp để xuất khẩu"
+      }
+    ],
+    "id": "s10-i85",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 86,
+    "q": "Mô hình công nghiệp hóa được lựa chọn từ Đại hội III là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Công nghiệp hóa tự phát theo thị trường"
+      },
+      {
+        "letter": "B",
+        "text": "Công nghiệp hóa xuất khẩu"
+      },
+      {
+        "letter": "C",
+        "text": "Công nghiệp hóa hướng nội, thiên về phát triển công nghiệp nặng"
+      },
+      {
+        "letter": "D",
+        "text": "Công nghiệp hóa hiện đại, toàn diện"
+      }
+    ],
+    "id": "s10-i86",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 87,
+    "q": "Trong thời kỳ từ Đại hội III đến Đại hội V, công nghiệp hoá chủ yếu tập trung vào:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phát triển ngành dịch vụ và công nghệ cao"
+      },
+      {
+        "letter": "B",
+        "text": "Ưu tiên phát triển công nghiệp nhẹ và tiêu dùng"
+      },
+      {
+        "letter": "C",
+        "text": "Ưu tiên phát triển công nghiệp nặng và kinh tế tập trung quan liêu bao cấp"
+      },
+      {
+        "letter": "D",
+        "text": "Phát triển đồng bộ các thành phần kinh tế"
+      }
+    ],
+    "id": "s10-i87",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 88,
+    "q": "Đại hội nào đã nêu khẩu hiệu: “Ra sức phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ”?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đại hội III"
+      },
+      {
+        "letter": "B",
+        "text": "Đại hội IV"
+      },
+      {
+        "letter": "C",
+        "text": "Đại hội V"
+      },
+      {
+        "letter": "D",
+        "text": "Đại hội VI"
+      }
+    ],
+    "id": "s10-i88",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 89,
+    "q": "Hạn chế lớn nhất của mô hình công nghiệp hoá thời kỳ trước Đổi mới là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Thiếu đầu tư vào nông nghiệp"
+      },
+      {
+        "letter": "B",
+        "text": "Phân bổ nguồn lực không hiệu quả, tập trung quá mức vào công nghiệp nặng, bỏ qua hiệu quả kinh tế"
+      },
+      {
+        "letter": "C",
+        "text": "Phát triển quá nhanh ngành công nghiệp công nghệ cao"
+      },
+      {
+        "letter": "D",
+        "text": "Thiếu sự hỗ trợ từ nước ngoài"
+      }
+    ],
+    "id": "s10-i89",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 90,
+    "q": "Vì sao mô hình công nghiệp hóa thời kỳ trước Đổi mới được gọi là “thiên về công nghiệp nặng”?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vì tập trung toàn bộ ngân sách vào phát triển quốc phòng"
+      },
+      {
+        "letter": "B",
+        "text": "Vì chủ trương phát triển công nghiệp nặng được đặt lên hàng đầu như một tiêu chí của chủ nghĩa xã hội"
+      },
+      {
+        "letter": "C",
+        "text": "Vì không quan tâm đến sản xuất tiêu dùng"
+      },
+      {
+        "letter": "D",
+        "text": "Vì công nghiệp nặng có thể thu hút vốn đầu tư nước ngoài"
+      }
+    ],
+    "id": "s10-i90",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 91,
+    "q": "Đặc điểm chủ yếu của mô hình CNH ở Việt Nam trước Đại hội VI là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kết hợp kinh tế thị trường với kinh tế kế hoạch"
+      },
+      {
+        "letter": "B",
+        "text": "Phát triển theo hướng xuất khẩu sản phẩm công nghiệp"
+      },
+      {
+        "letter": "C",
+        "text": "Dựa vào bao cấp từ nhà nước và viện trợ từ bên ngoài, tập trung kế hoạch hoá tập trung cao độ"
+      },
+      {
+        "letter": "D",
+        "text": "Dựa vào doanh nghiệp tư nhân làm động lực"
+      }
+    ],
+    "id": "s10-i91",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 92,
+    "q": "Đại hội VI của Đảng (1986) đã có thay đổi như thế nào về quan điểm công nghiệp hoá?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Giữ nguyên mô hình công nghiệp hóa thiên về công nghiệp nặng"
+      },
+      {
+        "letter": "B",
+        "text": "Bỏ hẳn công nghiệp nặng để tập trung nông nghiệp"
+      },
+      {
+        "letter": "C",
+        "text": "Bắt đầu đổi mới tư duy, coi trọng hiệu quả, lấy nông nghiệp làm mặt trận hàng đầu và đa dạng hóa thành phần kinh tế"
+      },
+      {
+        "letter": "D",
+        "text": "Chuyển sang mô hình công nghiệp hóa tư bản chủ nghĩa"
+      }
+    ],
+    "id": "s10-i92",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 93,
+    "q": "Đại hội VIII của Đảng xác định phương châm đối ngoại trong CNH – HĐH là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ưu tiên hợp tác với các nước phát triển"
+      },
+      {
+        "letter": "B",
+        "text": "Chỉ hợp tác với các nước trong khu vực"
+      },
+      {
+        "letter": "C",
+        "text": "Giữ vững độc lập tự chủ đi đôi với mở rộng hợp tác quốc tế"
+      },
+      {
+        "letter": "D",
+        "text": "Tập trung mở rộng đầu tư nội địa"
+      }
+    ],
+    "id": "s10-i93",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 94,
+    "q": "Theo Đại hội VIII, công nghiệp hóa, hiện đại hóa là sự nghiệp:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Của nhà nước"
+      },
+      {
+        "letter": "B",
+        "text": "Của khu vực tư nhân"
+      },
+      {
+        "letter": "C",
+        "text": "Của toàn dân, của mọi thành phần kinh tế"
+      },
+      {
+        "letter": "D",
+        "text": "Của doanh nghiệp có vốn đầu tư nước ngoài"
+      }
+    ],
+    "id": "s10-i94",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 95,
+    "q": "Nguồn lực con người được Đại hội VIII xác định là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tài nguyên bổ sung"
+      },
+      {
+        "letter": "B",
+        "text": "Yếu tố cơ bản cho phát triển nhanh và bền vững"
+      },
+      {
+        "letter": "C",
+        "text": "Đối tượng hỗ trợ an sinh xã hội"
+      },
+      {
+        "letter": "D",
+        "text": "Lực lượng lao động giá rẻ"
+      }
+    ],
+    "id": "s10-i95",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 96,
+    "q": "Động lực của CNH – HĐH được xác định trong Đại hội VIII là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Quản lý nhà nước hiệu quả"
+      },
+      {
+        "letter": "B",
+        "text": "Kinh tế tri thức"
+      },
+      {
+        "letter": "C",
+        "text": "Khoa học và công nghệ"
+      },
+      {
+        "letter": "D",
+        "text": "Đầu tư nước ngoài"
+      }
+    ],
+    "id": "s10-i96",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 97,
+    "q": "Tiêu chuẩn cơ bản để lựa chọn dự án đầu tư và công nghệ được Đại hội VIII nhấn mạnh là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hiệu quả kinh tế – xã hội"
+      },
+      {
+        "letter": "B",
+        "text": "Lợi nhuận tối đa"
+      },
+      {
+        "letter": "C",
+        "text": "Tính khả thi kỹ thuật"
+      },
+      {
+        "letter": "D",
+        "text": "Mức độ đổi mới công nghệ"
+      }
+    ],
+    "id": "s10-i97",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 98,
+    "q": "Đại hội VIII nhấn mạnh nguyên tắc kết hợp trong phát triển là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kết hợp giữa phát triển nông thôn và đô thị"
+      },
+      {
+        "letter": "B",
+        "text": "Kết hợp giữa đổi mới và cải cách hành chính"
+      },
+      {
+        "letter": "C",
+        "text": "Kết hợp kinh tế với quốc phòng – an ninh"
+      },
+      {
+        "letter": "D",
+        "text": "Kết hợp giữa công – tư"
+      }
+    ],
+    "id": "s10-i98",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 99,
+    "q": "Trong quá trình CNH-HĐH, thành phần kinh tế nào được xác định giữ vai trò chủ đạo?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kinh tế tư nhân"
+      },
+      {
+        "letter": "B",
+        "text": "Kinh tế tập thể"
+      },
+      {
+        "letter": "C",
+        "text": "Kinh tế nhà nước"
+      },
+      {
+        "letter": "D",
+        "text": "Kinh tế hộ gia đình"
+      }
+    ],
+    "id": "s10-i99",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 100,
+    "q": "Vì sao Đảng nhấn mạnh giữ vững độc lập tự chủ đi đôi với mở rộng hợp tác quốc tế trong CNH-HĐH?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Để tận dụng tối đa nguồn lực bên ngoài mà không mất quyền chủ động"
+      },
+      {
+        "letter": "B",
+        "text": "Để hạn chế ảnh hưởng nước ngoài"
+      },
+      {
+        "letter": "C",
+        "text": "Để không phải tham gia các tổ chức quốc tế"
+      },
+      {
+        "letter": "D",
+        "text": "Để chỉ tập trung phát triển trong nước"
+      }
+    ],
+    "id": "s10-i100",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 101,
+    "q": "Theo quan điểm của Đảng, vì sao kinh tế nhà nước giữ vai trò chủ đạo trong CNH- HĐH?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vì nó là duy nhất có vốn lớn"
+      },
+      {
+        "letter": "B",
+        "text": "Vì nó có khả năng điều tiết và định hướng phát triển kinh tế xã hội"
+      },
+      {
+        "letter": "C",
+        "text": "Vì nó là thành phần duy nhất làm công nghiệp nặng"
+      },
+      {
+        "letter": "D",
+        "text": "Vì nó dễ quản lý nhất"
+      }
+    ],
+    "id": "s10-i101",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 102,
+    "q": "Phát huy nguồn lực con người được xem là yếu tố cơ bản bởi vì:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Con người là nguồn lực duy nhất không thể thay thế"
+      },
+      {
+        "letter": "B",
+        "text": "Con người có thể học hỏi và sáng tạo, quyết định sự phát triển nhanh và bền vững"
+      },
+      {
+        "letter": "C",
+        "text": "Con người giúp giảm chi phí sản xuất"
+      },
+      {
+        "letter": "D",
+        "text": "Con người là đối tượng hưởng lợi duy nhất"
+      }
+    ],
+    "id": "s10-i102",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 103,
+    "q": "Đại hội IX của Đảng diễn ra vào:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "4/2000"
+      },
+      {
+        "letter": "B",
+        "text": "4/2001"
+      },
+      {
+        "letter": "C",
+        "text": "7/2001"
+      },
+      {
+        "letter": "D",
+        "text": "3/2002"
+      }
+    ],
+    "id": "s10-i103",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 104,
+    "q": "Chủ trương đối ngoại của Việt Nam là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Khép kín, bảo vệ nền kinh tế trong nước"
+      },
+      {
+        "letter": "B",
+        "text": "Độc lập, tự chủ, rộng mở, đa phương hoá, đa dạng hoá"
+      },
+      {
+        "letter": "C",
+        "text": "Phụ thuộc vào các nước lớn"
+      },
+      {
+        "letter": "D",
+        "text": "Chỉ quan hệ với các nước xã hội chủ nghĩa"
+      }
+    ],
+    "id": "s10-i104",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 105,
+    "q": "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trên cơ sở:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cạnh tranh và đối đầu"
+      },
+      {
+        "letter": "B",
+        "text": "Phụ thuộc và chờ đợi hỗ trợ quốc tế"
+      },
+      {
+        "letter": "C",
+        "text": "Vì hoà bình, độc lập và phát triển"
+      },
+      {
+        "letter": "D",
+        "text": "Lợi ích kinh tế đơn thuần"
+      }
+    ],
+    "id": "s10-i105",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 106,
+    "q": "Nội dung nào sau đây thể hiện đúng tinh thần hội nhập quốc tế của Việt Nam?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đóng cửa nền kinh tế để bảo vệ sản xuất trong nước"
+      },
+      {
+        "letter": "B",
+        "text": "Tăng cường đối đầu để khẳng định chủ quyền quốc gia"
+      },
+      {
+        "letter": "C",
+        "text": "Chủ động hội nhập nhưng bảo đảm độc lập, tự chủ"
+      },
+      {
+        "letter": "D",
+        "text": "Phụ thuộc vào viện trợ phát triển chính thức (ODA)"
+      }
+    ],
+    "id": "s10-i106",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 107,
+    "q": "Theo đường lối đối ngoại hiện nay, Việt Nam xác định vai trò của mình trong cộng đồng quốc tế như thế nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Là nước trung lập không tham gia vào các tổ chức quốc tế"
+      },
+      {
+        "letter": "B",
+        "text": "Là bạn, là đối tác tin cậy của các nước"
+      },
+      {
+        "letter": "C",
+        "text": "Là quốc gia nhỏ cần dựa vào các cường quốc"
+      },
+      {
+        "letter": "D",
+        "text": "Là nước chưa sẵn sàng hội nhập"
+      }
+    ],
+    "id": "s10-i107",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 108,
+    "q": "Đại hội IX của Đảng (2001) đã xác định phương châm đối ngoại nào dưới đây?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Việt Nam là bạn thân thiết của các nước xã hội chủ nghĩa"
+      },
+      {
+        "letter": "B",
+        "text": "Việt Nam là đối tác chiến lược của các nước lớn"
+      },
+      {
+        "letter": "C",
+        "text": "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế"
+      },
+      {
+        "letter": "D",
+        "text": "Việt Nam hội nhập toàn diện với phương Tây"
+      }
+    ],
+    "id": "s10-i108",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 109,
+    "q": "Phương châm “Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế” được xác định tại Đại hội nào của Đảng?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đại hội VII"
+      },
+      {
+        "letter": "B",
+        "text": "Đại hội VIII"
+      },
+      {
+        "letter": "C",
+        "text": "Đại hội IX"
+      },
+      {
+        "letter": "D",
+        "text": "Đại hội X"
+      }
+    ],
+    "id": "s10-i109",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 110,
+    "q": "Nội dung “phấn đấu vì hòa bình, độc lập và phát triển” trong đường lối đối ngoại của Đại hội IX phản ánh rõ nhất mục tiêu nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đảm bảo an ninh nội bộ và quốc phòng toàn dân"
+      },
+      {
+        "letter": "B",
+        "text": "Góp phần bảo vệ Tổ quốc từ xa bằng sức mạnh kinh tế"
+      },
+      {
+        "letter": "C",
+        "text": "Kết hợp phát triển kinh tế với củng cố chính trị nội bộ"
+      },
+      {
+        "letter": "D",
+        "text": "Góp phần tạo môi trường quốc tế thuận lợi cho công cuộc đổi mới và hội nhập"
+      }
+    ],
+    "id": "s10-i110",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 111,
+    "q": "Quan điểm đối ngoại tại Đại hội IX đã thể hiện rõ tinh thần nào dưới đây trong việc tham gia vào các quan hệ quốc tế?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cạnh tranh để khẳng định vị thế trong khu vực"
+      },
+      {
+        "letter": "B",
+        "text": "Chỉ ưu tiên các quốc gia xã hội chủ nghĩa"
+      },
+      {
+        "letter": "C",
+        "text": "Chủ động, tích cực hội nhập kinh tế quốc tế"
+      },
+      {
+        "letter": "D",
+        "text": "Phụ thuộc vào các nước phát triển để tăng trưởng"
+      }
+    ],
+    "id": "s10-i111",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 112,
+    "q": "Mục tiêu tổng quát được nêu trong Đại hội IX của Đảng là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phát triển giáo dục và y tế làm trọng tâm"
+      },
+      {
+        "letter": "B",
+        "text": "Xây dựng nền văn hóa đậm đà bản sắc dân tộc"
+      },
+      {
+        "letter": "C",
+        "text": "Đưa nước ta ra khỏi tình trạng kém phát triển và tạo nền tảng để đến năm 2020 cơ bản trở thành nước công nghiệp theo hướng hiện đại"
+      },
+      {
+        "letter": "D",
+        "text": "Chuyển sang nền kinh tế kế hoạch hóa tập trung"
+      }
+    ],
+    "id": "s10-i112",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 113,
+    "q": "Theo Đại hội IX, mục tiêu cơ bản về phát triển kinh tế - xã hội đến năm 2020 là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Trở thành một nước công nghiệp theo hướng hiện đại"
+      },
+      {
+        "letter": "B",
+        "text": "Đạt tốc độ tăng trưởng GDP 10% mỗi năm"
+      },
+      {
+        "letter": "C",
+        "text": "Giảm tỷ lệ thất nghiệp xuống dưới 2%"
+      },
+      {
+        "letter": "D",
+        "text": "Xuất khẩu vượt nhập khẩu trong mọi ngành kinh tế"
+      }
+    ],
+    "id": "s10-i113",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 114,
+    "q": "Nội dung nào sau đây phản ánh đúng định hướng phát triển của Việt Nam được nêu trong Đại hội IX?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phát triển kinh tế thị trường không có sự quản lý của Nhà nước"
+      },
+      {
+        "letter": "B",
+        "text": "Định hướng phát triển công nghiệp truyền thống, không cần hiện đại hóa"
+      },
+      {
+        "letter": "C",
+        "text": "Đưa đất nước cơ bản trở thành nước công nghiệp theo hướng hiện đại vào năm 2020"
+      },
+      {
+        "letter": "D",
+        "text": "Tập trung phát triển nông nghiệp làm trọng tâm lâu dài"
+      }
+    ],
+    "id": "s10-i114",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 115,
+    "q": "Mô hình kinh tế tổng quát của Việt Nam trong thời kỳ quá độ đi lên chủ nghĩa xã hội là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kinh tế kế hoạch hóa tập trung quan liêu, bao cấp"
+      },
+      {
+        "letter": "B",
+        "text": "Kinh tế thị trường tự do hoàn toàn"
+      },
+      {
+        "letter": "C",
+        "text": "Kinh tế hỗn hợp tư bản - xã hội chủ nghĩa"
+      },
+      {
+        "letter": "D",
+        "text": "Kinh tế thị trường định hướng xã hội chủ nghĩa"
+      }
+    ],
+    "id": "s10-i115",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 116,
+    "q": "Nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam có đặc điểm cơ bản nào sau đây?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Không có vai trò của Nhà nước trong điều tiết kinh tế"
+      },
+      {
+        "letter": "B",
+        "text": "Phát triển dựa trên cơ chế thị trường có sự quản lý của Nhà nước và định hướng xã hội chủ nghĩa"
+      },
+      {
+        "letter": "C",
+        "text": "Loại bỏ hoàn toàn các thành phần kinh tế tư nhân"
+      },
+      {
+        "letter": "D",
+        "text": "Không chấp nhận hội nhập kinh tế quốc tế"
+      }
+    ],
+    "id": "s10-i116",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 117,
+    "q": "Trong mô hình kinh tế thị trường định hướng xã hội chủ nghĩa, Nhà nước giữ vai trò gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Là người điều hành duy nhất nền kinh tế"
+      },
+      {
+        "letter": "B",
+        "text": "Không can thiệp vào các hoạt động của thị trường"
+      },
+      {
+        "letter": "C",
+        "text": "Quản lý, điều tiết và định hướng phát triển kinh tế nhằm đảm bảo tiến bộ và công bằng xã hội"
+      },
+      {
+        "letter": "D",
+        "text": "Trao toàn quyền cho thị trường tự điều chỉnh"
+      }
+    ],
+    "id": "s10-i117",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 118,
+    "q": "Khẳng định nào sau đây không đúng với mô hình kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tồn tại nhiều hình thức sở hữu và thành phần kinh tế"
+      },
+      {
+        "letter": "B",
+        "text": "Kinh tế tư nhân bị hạn chế phát triển"
+      },
+      {
+        "letter": "C",
+        "text": "Nhà nước giữ vai trò chủ đạo trong nền kinh tế"
+      },
+      {
+        "letter": "D",
+        "text": "Kết hợp giữa tăng trưởng kinh tế với tiến bộ và công bằng xã hội"
+      }
+    ],
+    "id": "s10-i118",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 119,
+    "q": "Lựa chọn mô hình kinh tế thị trường định hướng xã hội chủ nghĩa thể hiện đặc điểm gì trong quá trình phát triển của Việt Nam?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Rập khuôn theo mô hình phương Tây"
+      },
+      {
+        "letter": "B",
+        "text": "Quay lại mô hình bao cấp"
+      },
+      {
+        "letter": "C",
+        "text": "Vận dụng sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tiễn của Việt Nam"
+      },
+      {
+        "letter": "D",
+        "text": "Xoá bỏ sự lãnh đạo của Đảng trong kinh tế"
+      }
+    ],
+    "id": "s10-i119",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 120,
+    "q": "Vai trò của nhà nước trong nền kinh tế thị trường định hướng xã hội chủ nghĩa là gì ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nhà nước định hướng, dắt dẫn các thành phần kinh tế"
+      },
+      {
+        "letter": "B",
+        "text": "Tạo điều kiện và môi trường thuận lợi cho sản xuất kinh doanh theo cơ chế thị trường"
+      },
+      {
+        "letter": "C",
+        "text": "Kiểm soát, xử lý các vi phạm trong hoạt động kinh tế, bảo đảm hài hoà giữa phát triển kinh tế với phát triển xã hội"
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i120",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 121,
+    "q": "Đại hội Đảng lần thứ IX (2001), xác định kinh tế thị trường là mô hình kinh tế gì của nước ta trong thời kỳ quá độ lên chủ nghĩa xã hội ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mô hình kinh tế Tổng quát"
+      },
+      {
+        "letter": "B",
+        "text": "Mô hình kinh tế cơ bản"
+      },
+      {
+        "letter": "C",
+        "text": "Mô hình kinh tế quan trọng"
+      },
+      {
+        "letter": "D",
+        "text": "Mô hình kinh tế hàng đầu"
+      }
+    ],
+    "id": "s10-i121",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 122,
+    "q": "Đại hội Đảng lần thứ IX (2001), xác định kinh tế thị trường định hướng xã hội chủ nghĩa là gì ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đó là nền kinh tế hàng hoá nhiều thành phần"
+      },
+      {
+        "letter": "B",
+        "text": "Vận hành theo cơ chế thị trường"
+      },
+      {
+        "letter": "C",
+        "text": "Có sự quản lý của nhà nước theo định hướng xã hội chủ nghĩa"
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i122",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 123,
+    "q": "Tính định hướng xã hội chủ nghĩa trong nền kinh tế thị trường được thể hiện trên các mặt nào của quan hệ sản xuất ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sở hữu về tư liệu sản xuất"
+      },
+      {
+        "letter": "B",
+        "text": "Tổ chức quản lý, phân phối"
+      },
+      {
+        "letter": "C",
+        "text": "Mục đích cuối cùng là “dân giầu, nước mạnh, tiên tiến hiện đại trong một xã hội nhân dân là chủ, nhân ái, có văn hoá... mọi người có cuộc sống ấm no, tự do, hạnh phúc"
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i123",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 124,
+    "q": "Mục tiêu của kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta là gì ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nhằm thực hiện “dân giầu, nước mạnh,dân chủ, công bằng, văn minh”"
+      },
+      {
+        "letter": "B",
+        "text": "Giải phóng mạnh mẽ lực lượng sản xuất, không ngừng nâng cao đời sống nhân dân"
+      },
+      {
+        "letter": "C",
+        "text": "Đẩy mạnh xoá đói giảm nghèo, khuyến khích mọi người làm giầu chính đáng"
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i124",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 125,
+    "q": "Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa thì thành phần kinh tế nhà nước giữ vai trò gì ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vai trò quan trong"
+      },
+      {
+        "letter": "B",
+        "text": "Vai trò cơ sở"
+      },
+      {
+        "letter": "C",
+        "text": "Vai trò chủ đạo"
+      },
+      {
+        "letter": "D",
+        "text": "Vai trò trung tâm"
+      }
+    ],
+    "id": "s10-i125",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 126,
+    "q": "Để cho kinh tế thị trường định hướng xã hội chủ nghĩa phát triển thuận lợi thì Đảng, Nhà nước phải làm gì ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phải cải cách hành chính"
+      },
+      {
+        "letter": "B",
+        "text": "Phải nâng cao vai trò lãnh đạo của Đảng"
+      },
+      {
+        "letter": "C",
+        "text": "Phải từng bước xây dựng đồng bộ hệ thống pháp luật"
+      },
+      {
+        "letter": "D",
+        "text": "Phải xây dựng vững mạnh hệ thống chính trị"
+      }
+    ],
+    "id": "s10-i126",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 127,
+    "q": "Luật pháp của Nhà nước ta xác định đất đai thuộc sở hữu của ai ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Của giai cấp nông dân"
+      },
+      {
+        "letter": "B",
+        "text": "Của tư nhân"
+      },
+      {
+        "letter": "C",
+        "text": "Của tập thể"
+      },
+      {
+        "letter": "D",
+        "text": "Của toàn dân mà đại diện là nhà nước, đồng thời đảm bảo và tôn trọng quyền của người sử dụng đất"
+      }
+    ],
+    "id": "s10-i127",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 128,
+    "q": "Chính sách phân phối và phân phối lại phải đảm bảo hài hoà lợi ích của ai ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Lợi ích của nhân dân"
+      },
+      {
+        "letter": "B",
+        "text": "Lợi ích của cá nhân và tập thể"
+      },
+      {
+        "letter": "C",
+        "text": "Lợi ích nhà nước, người lao động và của doanh nghiệp"
+      },
+      {
+        "letter": "D",
+        "text": "Lợi ích của các giai cấp"
+      }
+    ],
+    "id": "s10-i128",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 129,
+    "q": "Sự quản lý của Nhà nước đối với nền kinh tế thị trường được thể hiện như thế nào ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Quản lý bằng pháp luật"
+      },
+      {
+        "letter": "B",
+        "text": "Bằng chính sách, quy hoạch"
+      },
+      {
+        "letter": "C",
+        "text": "Bằng kế hoạch phát triển kinh tế - xã hội và các công cụ điều tiết vĩ mô khác"
+      },
+      {
+        "letter": "D",
+        "text": "Cả ba câu trên đều đúng"
+      }
+    ],
+    "id": "s10-i129",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 130,
+    "q": "Theo Đại hội IX, mô hình kinh tế Việt Nam là sự kết hợp của:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tự do kinh tế và bảo hộ thương mại"
+      },
+      {
+        "letter": "B",
+        "text": "Nhà nước quản lý – thị trường điều tiết – xã hội giám sát"
+      },
+      {
+        "letter": "C",
+        "text": "Tư nhân phát triển – nhà nước kiểm soát"
+      },
+      {
+        "letter": "D",
+        "text": "Tăng trưởng – độc lập tài chính"
+      }
+    ],
+    "id": "s10-i130",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 131,
+    "q": "Đại hội XI diễn ra vào năm nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2010"
+      },
+      {
+        "letter": "B",
+        "text": "2011"
+      },
+      {
+        "letter": "C",
+        "text": "2012"
+      },
+      {
+        "letter": "D",
+        "text": "2013"
+      }
+    ],
+    "id": "s10-i131",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 132,
+    "q": "Mô hình kinh tế mà Đại hội XI tiếp tục khẳng định là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kinh tế thị trường tự do"
+      },
+      {
+        "letter": "B",
+        "text": "Kinh tế tập trung"
+      },
+      {
+        "letter": "C",
+        "text": "Kinh tế thị trường định hướng XHCN"
+      },
+      {
+        "letter": "D",
+        "text": "Kinh tế hỗn hợp nhà nước – tư nhân"
+      }
+    ],
+    "id": "s10-i132",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 133,
+    "q": "Một bước phát triển nổi bật về chính trị trong nhiệm kỳ Đại hội XI là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hiến pháp 2013 được sửa đổi"
+      },
+      {
+        "letter": "B",
+        "text": "Bầu cử quốc hội lần đầu"
+      },
+      {
+        "letter": "C",
+        "text": "Thành lập vùng kinh tế trọng điểm"
+      },
+      {
+        "letter": "D",
+        "text": "Tăng trưởng tín dụng"
+      }
+    ],
+    "id": "s10-i133",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 134,
+    "q": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) được thông qua tại Đại hội nào của Đảng?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đại hội VIII"
+      },
+      {
+        "letter": "B",
+        "text": "Đại hội IX"
+      },
+      {
+        "letter": "C",
+        "text": "Đại hội X"
+      },
+      {
+        "letter": "D",
+        "text": "Đại hội XI"
+      }
+    ],
+    "id": "s10-i134",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 135,
+    "q": "Cương lĩnh năm 2011 gồm bao nhiêu nội dung lớn?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "3"
+      },
+      {
+        "letter": "B",
+        "text": "4"
+      },
+      {
+        "letter": "C",
+        "text": "5"
+      },
+      {
+        "letter": "D",
+        "text": "6"
+      }
+    ],
+    "id": "s10-i135",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 136,
+    "q": "Nội dung thứ nhất của Cương lĩnh năm 2011 là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Những định hướng phát triển kinh tế, văn hóa, xã hội"
+      },
+      {
+        "letter": "B",
+        "text": "Hệ thống chính trị và vai trò lãnh đạo của Đảng"
+      },
+      {
+        "letter": "C",
+        "text": "Quá trình cách mạng và những bài học kinh nghiệm"
+      },
+      {
+        "letter": "D",
+        "text": "Những đặc trưng của chủ nghĩa xã hội ở Việt Nam"
+      }
+    ],
+    "id": "s10-i136",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 137,
+    "q": "Nội dung thứ hai trong Cương lĩnh 2011 đề cập đến vấn đề nào sau đây?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Vai trò của quốc phòng và an ninh trong phát triển đất nước"
+      },
+      {
+        "letter": "B",
+        "text": "Hệ thống chính trị của chế độ xã hội chủ nghĩa"
+      },
+      {
+        "letter": "C",
+        "text": "Những định hướng lớn về phát triển kinh tế"
+      },
+      {
+        "letter": "D",
+        "text": "Quá độ lên chủ nghĩa xã hội ở nước ta"
+      }
+    ],
+    "id": "s10-i137",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 138,
+    "q": "Nội dung thứ ba của Cương lĩnh 2011 đề cập đến các lĩnh vực nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tư tưởng, lý luận và công tác cán bộ"
+      },
+      {
+        "letter": "B",
+        "text": "Kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại"
+      },
+      {
+        "letter": "C",
+        "text": "Pháp luật và cải cách hành chính"
+      },
+      {
+        "letter": "D",
+        "text": "Tôn giáo, dân tộc và quyền con người"
+      }
+    ],
+    "id": "s10-i138",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 139,
+    "q": "Nội dung thứ tư trong Cương lĩnh 2011 đề cập đến:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hệ thống chính trị và vai trò lãnh đạo của Đảng"
+      },
+      {
+        "letter": "B",
+        "text": "Phát triển khoa học và công nghệ"
+      },
+      {
+        "letter": "C",
+        "text": "Cải cách giáo dục và y tế"
+      },
+      {
+        "letter": "D",
+        "text": "Chiến lược phát triển bền vững"
+      }
+    ],
+    "id": "s10-i139",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 140,
+    "q": "Theo Cương lĩnh năm 2011, mục tiêu xây dựng xã hội xã hội chủ nghĩa ở Việt Nam là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Xã hội dân chủ, giàu mạnh, bảo thủ và ổn định"
+      },
+      {
+        "letter": "B",
+        "text": "Xã hội công nghiệp hóa hiện đại hóa theo định hướng tư bản"
+      },
+      {
+        "letter": "C",
+        "text": "Xã hội dân giàu, nước mạnh, dân chủ, công bằng, văn minh"
+      },
+      {
+        "letter": "D",
+        "text": "Xã hội nông nghiệp truyền thống, bảo vệ thuần phong mỹ tục"
+      }
+    ],
+    "id": "s10-i140",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 141,
+    "q": "Đại hội XI (2011) bổ sung cương lĩnh 1991 với bao nhiêu đặc trưng của CNXH?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "6"
+      },
+      {
+        "letter": "B",
+        "text": "8"
+      },
+      {
+        "letter": "C",
+        "text": "10"
+      },
+      {
+        "letter": "D",
+        "text": "5"
+      }
+    ],
+    "id": "s10-i141",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 142,
+    "q": "Một trong tám đặc trưng của CNXH trong Cương lĩnh 2011 là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kinh tế quốc doanh tuyệt đối"
+      },
+      {
+        "letter": "B",
+        "text": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh"
+      },
+      {
+        "letter": "C",
+        "text": "Cải cách nông nghiệp triệt để"
+      },
+      {
+        "letter": "D",
+        "text": "Chính trị hóa toàn bộ giáo dục"
+      }
+    ],
+    "id": "s10-i142",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 143,
+    "q": "Theo Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011), Một trong những đặc trưng của xã hội xã hội chủ nghĩa mà Việt Nam xây dựng là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kinh tế tập thể là thành phần duy nhất"
+      },
+      {
+        "letter": "B",
+        "text": "Chế độ công hữu về tất cả tài sản"
+      },
+      {
+        "letter": "C",
+        "text": "Nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu"
+      },
+      {
+        "letter": "D",
+        "text": "Loại bỏ hoàn toàn kinh tế tư nhân"
+      }
+    ],
+    "id": "s10-i143",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 144,
+    "q": "Đặc trưng nào dưới đây nói lên tính nhân văn trong xã hội xã hội chủ nghĩa mà Việt Nam hướng tới theo Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nhà nước pháp quyền mạnh mẽ"
+      },
+      {
+        "letter": "B",
+        "text": "Con người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện"
+      },
+      {
+        "letter": "C",
+        "text": "Kỷ luật nghiêm khắc trong sản xuất"
+      },
+      {
+        "letter": "D",
+        "text": "Cạnh tranh tự do, không giới hạn"
+      }
+    ],
+    "id": "s10-i144",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 145,
+    "q": "Theo Cương lĩnh 2011, trong xã hội xã hội chủ nghĩa, ai là người làm chủ?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đảng Cộng sản"
+      },
+      {
+        "letter": "B",
+        "text": "Nhà nước"
+      },
+      {
+        "letter": "C",
+        "text": "Nhân dân"
+      },
+      {
+        "letter": "D",
+        "text": "Giới trí thức và doanh nhân"
+      }
+    ],
+    "id": "s10-i145",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 146,
+    "q": "Nội dung nào dưới đây thể hiện tính dân tộc trong đặc trưng xã hội chủ nghĩa ở Việt Nam theo Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Các dân tộc trong cộng đồng Việt Nam bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển"
+      },
+      {
+        "letter": "B",
+        "text": "Bảo tồn văn hóa của người Kinh"
+      },
+      {
+        "letter": "C",
+        "text": "Ưu tiên phát triển vùng đô thị"
+      },
+      {
+        "letter": "D",
+        "text": "Loại bỏ tôn giáo trong đời sống xã hội"
+      }
+    ],
+    "id": "s10-i146",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 147,
+    "q": "Đặc trưng nào phản ánh vai trò của Đảng trong xã hội xã hội chủ nghĩa theo Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nhà nước trung lập về chính trị"
+      },
+      {
+        "letter": "B",
+        "text": "Do Đảng Cộng sản Việt Nam nắm toàn quyền hành pháp"
+      },
+      {
+        "letter": "C",
+        "text": "Có Nhà nước pháp quyền XHCN của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo"
+      },
+      {
+        "letter": "D",
+        "text": "Đảng kiểm soát toàn bộ nền kinh tế"
+      }
+    ],
+    "id": "s10-i147",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 148,
+    "q": "Trong quan hệ đối ngoại, đặc trưng xã hội xã hội chủ nghĩa mà Việt Nam xây dựng theo Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đóng cửa với thế giới tư bản"
+      },
+      {
+        "letter": "B",
+        "text": "Hạn chế các quan hệ kinh tế quốc tế"
+      },
+      {
+        "letter": "C",
+        "text": "Có quan hệ hữu nghị và hợp tác với nhân dân các nước trên thế giới"
+      },
+      {
+        "letter": "D",
+        "text": "Chỉ hợp tác với các nước xã hội chủ nghĩa"
+      }
+    ],
+    "id": "s10-i148",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 149,
+    "q": "Theo cương lĩnh 2011, Đảng Cộng sản Việt Nam là đội tiên phong của:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Giai cấp tư sản và dân tộc Việt Nam"
+      },
+      {
+        "letter": "B",
+        "text": "Giai cấp công nhân, của nhân dân lao động và của dân tộc Việt Nam"
+      },
+      {
+        "letter": "C",
+        "text": "Quân đội nhân dân và công an nhân dân"
+      },
+      {
+        "letter": "D",
+        "text": "Giai cấp nông dân và trí thức Việt Nam"
+      }
+    ],
+    "id": "s10-i149",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 150,
+    "q": "Theo cương lĩnh 2011, Đảng Cộng sản Việt Nam là đại biểu trung thành lợi ích của:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Toàn thể cộng đồng quốc tế"
+      },
+      {
+        "letter": "B",
+        "text": "Giới doanh nghiệp và nhà đầu tư"
+      },
+      {
+        "letter": "C",
+        "text": "Giai cấp công nhân, nhân dân lao động và dân tộc Việt Nam"
+      },
+      {
+        "letter": "D",
+        "text": "Các tổ chức chính trị - xã hội"
+      }
+    ],
+    "id": "s10-i150",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 151,
+    "q": "Theo cương lĩnh 2011, Nền tảng tư tưởng, kim chỉ nam cho hành động của Đảng Cộng sản Việt Nam là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tư tưởng Khổng Tử và chủ nghĩa yêu nước"
+      },
+      {
+        "letter": "B",
+        "text": "Chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh"
+      },
+      {
+        "letter": "C",
+        "text": "Hệ tư tưởng phương Tây hiện đại"
+      },
+      {
+        "letter": "D",
+        "text": "Tư tưởng tự do – dân chủ kiểu tư bản"
+      }
+    ],
+    "id": "s10-i151",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 152,
+    "q": "Theo cương lĩnh 2011, Nguyên tắc tổ chức cơ bản của Đảng Cộng sản Việt Nam là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đoàn kết – đồng thuận"
+      },
+      {
+        "letter": "B",
+        "text": "Tam quyền phân lập"
+      },
+      {
+        "letter": "C",
+        "text": "Tập trung dân chủ"
+      },
+      {
+        "letter": "D",
+        "text": "Đa nguyên chính trị"
+      }
+    ],
+    "id": "s10-i152",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 153,
+    "q": "Theo Cương lĩnh 2011, Đảng Cộng sản Việt Nam giữ vai trò gì trong hệ thống chính trị?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Một tổ chức xã hội dân sự độc lập"
+      },
+      {
+        "letter": "B",
+        "text": "Tổ chức bảo trợ cho chính phủ và quốc hội"
+      },
+      {
+        "letter": "C",
+        "text": "Lực lượng đối lập trong quốc hội"
+      },
+      {
+        "letter": "D",
+        "text": "Lực lượng lãnh đạo Nhà nước và xã hội"
+      }
+    ],
+    "id": "s10-i153",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 154,
+    "q": "Cương lĩnh năm 2011 của Đảng chỉ rõ phương hướng cơ bản xây dựng chủ nghĩa xã hội ở Việt Nam là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đẩy mạnh CNH, HĐH đất nước gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên môi trường"
+      },
+      {
+        "letter": "B",
+        "text": "Đẩy mạnh cổ phần hóa doanh nghiệp"
+      },
+      {
+        "letter": "C",
+        "text": "Con người là nhân tố cơ bản cho sự phát triển nhanh và bền vững"
+      },
+      {
+        "letter": "D",
+        "text": "Đẩy mạnh cải cách hành chính"
+      }
+    ],
+    "id": "s10-i154",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 155,
+    "q": "Cương lĩnh năm 2011 của Đảng chỉ rõ phương hướng cơ bản xây dựng chủ nghĩa xã hội ở Việt Nam là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Thực hiện đường lối đối ngoại độc lập tự chủ, hòa bình, hữu nghị, hợp tác và phát triển"
+      },
+      {
+        "letter": "B",
+        "text": "Xây dựng Đảng trong sạch, vững mạnh"
+      },
+      {
+        "letter": "C",
+        "text": "Đẩy mạnh cổ phần hóa doanh nghiệp"
+      },
+      {
+        "letter": "D",
+        "text": "Đẩy mạnh đấu tranh giai cấp lên tầm cao mới"
+      }
+    ],
+    "id": "s10-i155",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 156,
+    "q": "So với cương lĩnh năm 1991, cương lĩnh năm 2011 của Đảng CSVN đã bổ sung đặc trưng bao trùm tổng quát nào về chủ nghĩa xã hội mà Việt Nam xây dựng?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Có nền văn hóa tiên tiến đậm đà bản sắc dân tộc"
+      },
+      {
+        "letter": "B",
+        "text": "Dân giàu nước mạnh dân chủ công bằng văn minh"
+      },
+      {
+        "letter": "C",
+        "text": "Chính phủ thống nhất thông suốt hiện đại"
+      },
+      {
+        "letter": "D",
+        "text": "Có nhà nước pháp quyền xã hội chủ nghĩa của nhân dân do nhân dân và vì nhân dân do Đảng Cộng Sản lãnh đạo"
+      }
+    ],
+    "id": "s10-i156",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 157,
+    "q": "Một đặc điểm trong mô hình xã hội XHCN Việt Nam là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tập quyền toàn bộ về trung ương"
+      },
+      {
+        "letter": "B",
+        "text": "Mọi người có cuộc sống ấm no, tự do, hạnh phúc, phát triển toàn diện"
+      },
+      {
+        "letter": "C",
+        "text": "Xóa bỏ hoàn toàn tư hữu"
+      },
+      {
+        "letter": "D",
+        "text": "Không tồn tại quyền tín ngưỡng"
+      }
+    ],
+    "id": "s10-i157",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 158,
+    "q": "Cương lĩnh năm 2011 của Đảng xác định phương hướng xây dựng của chủ nghĩa xã hội Việt Nam là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa"
+      },
+      {
+        "letter": "B",
+        "text": "Dân giàu, nước mạnh, dân chủ, công bằng,văn minh"
+      },
+      {
+        "letter": "C",
+        "text": "Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc"
+      },
+      {
+        "letter": "D",
+        "text": "Có nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân và vì nhân dân do Đảng CS lãnh đạo"
+      }
+    ],
+    "id": "s10-i158",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 159,
+    "q": "Cương lĩnh năm 2011 của Đảng xác định phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước gắn liền với phát triển kinh tế trí thức, bảo vệ tài nguyên môi trường"
+      },
+      {
+        "letter": "B",
+        "text": "Thực hiện nhất quán chính sách tôn trọng và bảo đảm quyền tự do tín ngưỡng"
+      },
+      {
+        "letter": "C",
+        "text": "Cấm sự phân biệt đối xử với công dân vì lý do tín ngưỡng,tôn giáo"
+      },
+      {
+        "letter": "D",
+        "text": "Tôn vinh người có công với Tổ quốc"
+      }
+    ],
+    "id": "s10-i159",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 160,
+    "q": "Cương lĩnh năm 2011 của Đảng xác định phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Thực hiện đường lối đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển"
+      },
+      {
+        "letter": "B",
+        "text": "Xây dựng nền dân chủ xã hội chủ nghĩa, thực hiện đại đoàn kết dân tộc, tăng cường, mở rộng mặt trận dân tộc thống nhất"
+      },
+      {
+        "letter": "C",
+        "text": "Có nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân và vì nhân dân do Đảng CS lãnh đạo"
+      },
+      {
+        "letter": "D",
+        "text": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh"
+      }
+    ],
+    "id": "s10-i160",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 161,
+    "q": "Nội dung nào không phải phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam do Cương lĩnh năm 2011 của Đảng đề ra?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Xây dựng con người, nâng cao đời sông nhân dân, thực hiện tiến bộ và công bằng xã hội"
+      },
+      {
+        "letter": "B",
+        "text": "Tôn vinh người có công với Tổ quốc"
+      },
+      {
+        "letter": "C",
+        "text": "Xây dựng Đảng trong sạch, vững mạnh"
+      },
+      {
+        "letter": "D",
+        "text": "Đảm bảo vững chắc quốc phòng và an ninh quốc gia, trật tự, an toàn xã hội"
+      }
+    ],
+    "id": "s10-i161",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 162,
+    "q": "Định hướng lớn về phát triển kinh tế ở Việt Nam do Cương lĩnh năm 2011 của Đảng xác định:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kinh tế tập thể đóng vai trò chủ đạo"
+      },
+      {
+        "letter": "B",
+        "text": "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa với nhiều hình thức sở hữu, nhiều thành phần kinh tế, hình thức kinh doanh và hình thức phân phối"
+      },
+      {
+        "letter": "C",
+        "text": "Không thừa nhận kinh tế có vốn đầu tư nước ngoài"
+      },
+      {
+        "letter": "D",
+        "text": "Kinh tế nhà nước cùng kinh tế tư nhân ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân"
+      }
+    ],
+    "id": "s10-i162",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 163,
+    "q": "Theo Cương lĩnh năm 2011, nền kinh tế Việt Nam phải phát triển dựa trên yếu tố nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sở hữu tư nhân toàn diện"
+      },
+      {
+        "letter": "B",
+        "text": "Lực lượng sản xuất hiện đại, công hữu các tư liệu sản xuất chủ yếu"
+      },
+      {
+        "letter": "C",
+        "text": "Kinh tế tập thể truyền thống"
+      },
+      {
+        "letter": "D",
+        "text": "Ngoại lực và đầu tư quốc tế"
+      }
+    ],
+    "id": "s10-i163",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 164,
+    "q": "Định hướng lớn về phát triển văn hóa ở Việt Nam do Cương lĩnh năm 2011 của Đảng xác định:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Thực hiện đường lối đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển"
+      },
+      {
+        "letter": "B",
+        "text": "Đảm bảo dân chủ được thực hiện trong thực tế ở mỗi cấp, trên tất cả các lĩnh vực"
+      },
+      {
+        "letter": "C",
+        "text": "Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc,phát triển toàn diện, thống nhất trong đa dạng, tiếp thu tinh hoa văn hóa nhân loại"
+      },
+      {
+        "letter": "D",
+        "text": "Xây dựng con người Việt Nam giàu lòng yêu nước, có ý thức làm chủ, trách nhiệm công dân"
+      }
+    ],
+    "id": "s10-i164",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 165,
+    "q": "Cương lĩnh năm 2011 của Đảng xác định “Giáo dục và đào tạo cùng với khoa học và công nghệ là quốc sách hàng đầu”, Việt Nam chủ trương:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đổi mới căn bản toàn diện giáo dục và đào tạo theo nhu cầu phát triển của xã hội"
+      },
+      {
+        "letter": "B",
+        "text": "Xây dựng một hướng đi riêng cho giáo dục Việt Nam"
+      },
+      {
+        "letter": "C",
+        "text": "Đẩy mạnh xây dựng xã hội học tập với hệ thống học tập, tạo cơ hội và điều kiện cho mọi công dân học tập suốt đời"
+      },
+      {
+        "letter": "D",
+        "text": "Tăng cường hợp tác quốc tế về giáo dục đào tạo. Tiếp cận chuẩn mực giáo dục tiên tiến trên thế giới phù hợp với yêu cầu phát triển của Việt Nam"
+      }
+    ],
+    "id": "s10-i165",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 166,
+    "q": "Điền vào chỗ trống: Cương lĩnh (Bổ sung phát triển năm 2011) xác định: Xây dựng một cộng đồng xã hội văn minh, trong số các giai cấp, tầng lớp dân cư...về nghĩa vụ và quyền lợi.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "đoàn kết, bình đẳng."
+      },
+      {
+        "letter": "B",
+        "text": "bình đẳng."
+      },
+      {
+        "letter": "C",
+        "text": "công bằng, bình đẳng."
+      },
+      {
+        "letter": "D",
+        "text": "tôn trọng, bình đẳng."
+      }
+    ],
+    "id": "s10-i166",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 167,
+    "q": "Xã hội xã hội chủ nghĩa mà nhân dân ta xây dựng được đề cập trong cương lĩnh 2011 có mấy đặc trưng?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "6 đặc trưng"
+      },
+      {
+        "letter": "B",
+        "text": "7 đặc trưng"
+      },
+      {
+        "letter": "C",
+        "text": "8 đặc trưng"
+      },
+      {
+        "letter": "D",
+        "text": "9 đặc trưng"
+      }
+    ],
+    "id": "s10-i167",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 168,
+    "q": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Bổ sung phát triển năm 2011) được Đại hội nào của đảng ta thông qua?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đại hội XI"
+      },
+      {
+        "letter": "B",
+        "text": "Đại hội X"
+      },
+      {
+        "letter": "C",
+        "text": "Đại hội IX"
+      },
+      {
+        "letter": "D",
+        "text": "Đại hội VIII"
+      }
+    ],
+    "id": "s10-i168",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 169,
+    "q": "Nội dung nào sau đây không phải là một trong những nội dung cơ bản của Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Bổ sung, phát triển năm 2011)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Quá trình cách mạng và những bài học kinh nghiệm."
+      },
+      {
+        "letter": "B",
+        "text": "Đổi mới nội dung và phương thức lãnh đạo của Đảng."
+      },
+      {
+        "letter": "C",
+        "text": "Những định hướng phát triển các lĩnh vực kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại."
+      },
+      {
+        "letter": "D",
+        "text": "Hệ thống chính trị và vai trò lãnh đạo của Đảng."
+      }
+    ],
+    "id": "s10-i169",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 170,
+    "q": "Cương lĩnh bổ sung, phát triển năm 2011 xác định một trong những đặc trưng của CNXH mà nhân dân ta đang xây dựng là:“Có quan hệ hữu nghị và hợp tác với ..... trên thế giới”.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "các nước."
+      },
+      {
+        "letter": "B",
+        "text": "nhân dân tất cả các dân tộc."
+      },
+      {
+        "letter": "C",
+        "text": "các quốc gia."
+      },
+      {
+        "letter": "D",
+        "text": "các quốc gia và vùng lãnh thổ."
+      }
+    ],
+    "id": "s10-i170",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 171,
+    "q": "Điền vào chỗ trống: Cương lĩnh bổ sung, phát triển năm 2011 chỉ rõ: Xây dựng chủ nghĩa xã hội là một quá trình cách mạng.....,....đấu tranh phức tạp giữa các cũ và cái mới nhằm tạo ra sự biến đổi về chất trên tất cả các lĩnh vực của đời sống xã hội...",
+    "options": [
+      {
+        "letter": "A",
+        "text": "lâu dài, toàn diện."
+      },
+      {
+        "letter": "B",
+        "text": "lâu dài, triệt để."
+      },
+      {
+        "letter": "C",
+        "text": "sâu sắc, toàn diện."
+      },
+      {
+        "letter": "D",
+        "text": "sâu sắc, triệt để."
+      }
+    ],
+    "id": "s10-i171",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 172,
+    "q": "Điền vào chỗ trống: Một trong những phương hướng cơ bản để xây dựng thành công chủ nghĩa xã hội ở nước ta là “Xây dựng nền văn hoá tiên tiến, đậm đà bản sắc dân tộc; xây dựng con người, nâng cao đời sống nhân dân, thực hiện.....xã hội”",
+    "options": [
+      {
+        "letter": "A",
+        "text": "dân chủ và công bằng"
+      },
+      {
+        "letter": "B",
+        "text": "tiến bộ và công bằng"
+      },
+      {
+        "letter": "C",
+        "text": "dân chủ và tiến bộ"
+      },
+      {
+        "letter": "D",
+        "text": "khoa học và tiến bộ"
+      }
+    ],
+    "id": "s10-i172",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 173,
+    "q": "Điền vào chỗ trống: “Thực hiện đường lối đối ngoại....................; chủ động và tích cực hội nhập quốc tế” là một trong những phương hướng cơ bản để xây dựng thành công chủ nghĩa xã hội ở nước ta.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Độc lập, tự chủ, hoà bình, hợp tác và phát triển."
+      },
+      {
+        "letter": "B",
+        "text": "Độc lập, tự chủ, hoà bình, hữu nghị, hợp tác và phát triển."
+      },
+      {
+        "letter": "C",
+        "text": "Độc lập, tự lực, tự chủ, hoà bình, hợp tác và phát triển."
+      },
+      {
+        "letter": "D",
+        "text": "Độc lập, tự lực, tự chủ, hoà bình, hữu nghị, hợp tác và phát triển."
+      }
+    ],
+    "id": "s10-i173",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 174,
+    "q": "Nội dung nào thể hiện quan điểm giáo dục và đào tạo là quốc sách hàng đầu?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mở rộng quy mô giáo dục và đào tạo"
+      },
+      {
+        "letter": "B",
+        "text": "Đầu tư cho giáo dục và đào tạo là đầu tư cho phát triển, được ưu tiên đi trước trong các chương trình phát triển kinh tế - xã hội"
+      },
+      {
+        "letter": "C",
+        "text": "Thực hiện công bằng xã hội trong giáo dục và đào tạo"
+      },
+      {
+        "letter": "D",
+        "text": "Xã hội hóa sự nghiệp giáo dục và đào tạo"
+      }
+    ],
+    "id": "s10-i174",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 175,
+    "q": "Nội dung nào dưới đây thuộc quan điểm phát triển giáo dục và đào tạo?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Chủ động và tích cực hội nhập kinh tế quốc tế"
+      },
+      {
+        "letter": "B",
+        "text": "Củng cố và tăng cường quan hệ với các nước"
+      },
+      {
+        "letter": "C",
+        "text": "Xây dựng tiềm lực khoa học và công nghệ"
+      },
+      {
+        "letter": "D",
+        "text": "Chủ động và tích cực hội nhập quốc tế về giáo dục và đào tạo"
+      }
+    ],
+    "id": "s10-i175",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 176,
+    "q": "Trong 8 phương hướng lớn của CNXH (Cương lĩnh 2011), phương hướng thứ nhất là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phát triển kinh tế nông thôn"
+      },
+      {
+        "letter": "B",
+        "text": "Đẩy mạnh công nghiệp hóa, hiện đại hóa gắn với phát triển kinh tế tri thức"
+      },
+      {
+        "letter": "C",
+        "text": "Hợp tác quân sự quốc tế"
+      },
+      {
+        "letter": "D",
+        "text": "Tăng trưởng GDP mọi giá"
+      }
+    ],
+    "id": "s10-i176",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 177,
+    "q": "Hội nghị Trung ương 8 (2013) ra nghị quyết về lĩnh vực gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đổi mới quân sự"
+      },
+      {
+        "letter": "B",
+        "text": "Đổi mới căn bản, toàn diện giáo dục và đào tạo"
+      },
+      {
+        "letter": "C",
+        "text": "Đổi mới chính sách nhập cư"
+      },
+      {
+        "letter": "D",
+        "text": "Tăng cường công nghiệp quốc phòng"
+      }
+    ],
+    "id": "s10-i177",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 178,
+    "q": "Hội nghị Trung ương 4 (1/2012) đề ra chủ trương gì trong lĩnh vực hạ tầng?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Quốc hữu hóa hệ thống điện lực"
+      },
+      {
+        "letter": "B",
+        "text": "Tách hạ tầng khỏi phát triển kinh tế"
+      },
+      {
+        "letter": "C",
+        "text": "Xây dựng hệ thống kết cấu hạ tầng đồng bộ"
+      },
+      {
+        "letter": "D",
+        "text": "Dừng đầu tư vào giao thông nông thôn"
+      }
+    ],
+    "id": "s10-i178",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 179,
+    "q": "Đại hội XII của Đảng diễn ra vào:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2015"
+      },
+      {
+        "letter": "B",
+        "text": "2016"
+      },
+      {
+        "letter": "C",
+        "text": "2017"
+      },
+      {
+        "letter": "D",
+        "text": "2021"
+      }
+    ],
+    "id": "s10-i179",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 180,
+    "q": "Mục tiêu tổng quát đến năm 2045 theo Văn kiện Đại hội XIII là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Trở thành nước có thu nhập trung bình thấp"
+      },
+      {
+        "letter": "B",
+        "text": "Trở thành nước công nghiệp theo hướng hiện đại"
+      },
+      {
+        "letter": "C",
+        "text": "Trở thành nước phát triển, thu nhập cao"
+      },
+      {
+        "letter": "D",
+        "text": "Trở thành trung tâm tài chính khu vực"
+      }
+    ],
+    "id": "s10-i180",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 181,
+    "q": "Theo Đại hội XIII, nền kinh tế Việt Nam là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kinh tế chỉ huy"
+      },
+      {
+        "letter": "B",
+        "text": "Kinh tế thị trường tự do"
+      },
+      {
+        "letter": "C",
+        "text": "Kinh tế thị trường định hướng xã hội chủ nghĩa"
+      },
+      {
+        "letter": "D",
+        "text": "Kinh tế tập trung quan liêu bao cấp"
+      }
+    ],
+    "id": "s10-i181",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 182,
+    "q": "Chủ đề của Đại hội XIII là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đổi mới, phát triển, hội nhập"
+      },
+      {
+        "letter": "B",
+        "text": "Tăng tốc hiện đại hóa, công nghiệp hóa"
+      },
+      {
+        "letter": "C",
+        "text": "Tăng cường xây dựng, chỉnh đốn Đảng và hệ thống chính trị"
+      },
+      {
+        "letter": "D",
+        "text": "Tăng cường xây dựng, chỉnh đốn Đảng; phát huy ý chí và sức mạnh đại đoàn kết toàn dân tộc"
+      }
+    ],
+    "id": "s10-i182",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 183,
+    "q": "Đến năm 2025, mục tiêu phát triển là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Trở thành nước có thu nhập cao"
+      },
+      {
+        "letter": "B",
+        "text": "Trở thành nước công nghiệp phát triển"
+      },
+      {
+        "letter": "C",
+        "text": "Là nước đang phát triển có công nghiệp theo hướng hiện đại"
+      },
+      {
+        "letter": "D",
+        "text": "Hoàn thành chuyển đổi sang kinh tế số"
+      }
+    ],
+    "id": "s10-i183",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 184,
+    "q": "Theo Đại hội XIII, nguồn lực quan trọng nhất của phát triển là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tài nguyên thiên nhiên"
+      },
+      {
+        "letter": "B",
+        "text": "Nguồn vốn đầu tư nước ngoài"
+      },
+      {
+        "letter": "C",
+        "text": "Con người"
+      },
+      {
+        "letter": "D",
+        "text": "Vốn ODA"
+      }
+    ],
+    "id": "s10-i184",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 185,
+    "q": "Trong chiến lược phát triển bền vững, yếu tố nào được xác định là xuyên suốt?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cân đối ngân sách"
+      },
+      {
+        "letter": "B",
+        "text": "Giữ gìn văn hóa dân tộc"
+      },
+      {
+        "letter": "C",
+        "text": "Phát triển kinh tế tuần hoàn"
+      },
+      {
+        "letter": "D",
+        "text": "Kết hợp chặt chẽ giữa tăng trưởng kinh tế với bảo vệ môi trường"
+      }
+    ],
+    "id": "s10-i185",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 186,
+    "q": "Đại hội XIII của Đảng xác định có bao nhiêu đột phá chiến lược để phát triển đất nước?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2"
+      },
+      {
+        "letter": "B",
+        "text": "3"
+      },
+      {
+        "letter": "C",
+        "text": "4"
+      },
+      {
+        "letter": "D",
+        "text": "5"
+      }
+    ],
+    "id": "s10-i186",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 187,
+    "q": "Nội dung nào sau đây không phải là một trong ba đột phá chiến lược được xác định tại Đại hội XIII của Đảng?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Xây dựng lực lượng quốc phòng – an ninh hiện đại"
+      },
+      {
+        "letter": "B",
+        "text": "Hoàn thiện đồng bộ thể chế kinh tế thị trường định hướng xã hội chủ nghĩa"
+      },
+      {
+        "letter": "C",
+        "text": "Phát triển nguồn nhân lực chất lượng cao"
+      },
+      {
+        "letter": "D",
+        "text": "Xây dựng hệ thống kết cấu hạ tầng đồng bộ"
+      }
+    ],
+    "id": "s10-i187",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 188,
+    "q": "Theo Đại hội XIII, đột phá chiến lược về thể chế tập trung vào:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tăng thuế để phát triển đầu tư công"
+      },
+      {
+        "letter": "B",
+        "text": "Hoàn thiện hệ thống pháp luật theo mô hình tư bản chủ nghĩa"
+      },
+      {
+        "letter": "C",
+        "text": "Cải cách mạnh mẽ thủ tục hành chính, tạo môi trường đầu tư minh bạch, thuận lợi"
+      },
+      {
+        "letter": "D",
+        "text": "Tăng cường vai trò độc quyền của doanh nghiệp nhà nước"
+      }
+    ],
+    "id": "s10-i188",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 189,
+    "q": "Phát triển nguồn nhân lực, một trong ba đột phá chiến lược, được ưu tiên ở lĩnh vực nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Thương mại và tài chính quốc tế"
+      },
+      {
+        "letter": "B",
+        "text": "Giáo dục – đào tạo, khoa học – công nghệ, đổi mới sáng tạo"
+      },
+      {
+        "letter": "C",
+        "text": "Xây dựng và bất động sản"
+      },
+      {
+        "letter": "D",
+        "text": "Nông nghiệp công nghệ cao"
+      }
+    ],
+    "id": "s10-i189",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 190,
+    "q": "Trong ba đột phá chiến lược, hạ tầng được xác định là đột phá nào sau đây?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cải cách tài chính – tiền tệ"
+      },
+      {
+        "letter": "B",
+        "text": "Xây dựng hệ thống kết cấu hạ tầng đồng bộ"
+      },
+      {
+        "letter": "C",
+        "text": "Tập trung phát triển kinh tế biển"
+      },
+      {
+        "letter": "D",
+        "text": "Hoàn thiện hệ thống hành chính công"
+      }
+    ],
+    "id": "s10-i190",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 191,
+    "q": "Đại hội nào xác định: “Chủ động và tích cực hội nhập quốc tế”?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đại hội VIII"
+      },
+      {
+        "letter": "B",
+        "text": "Đại hội IX"
+      },
+      {
+        "letter": "C",
+        "text": "Đại hội XI"
+      },
+      {
+        "letter": "D",
+        "text": "Đại hội XII"
+      }
+    ],
+    "id": "s10-i191",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 192,
+    "q": "Nhà nước giữ vai trò gì trong nền kinh tế thị trường?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tạo ra quy định về giá"
+      },
+      {
+        "letter": "B",
+        "text": "Áp đặt quy chế hoạt động"
+      },
+      {
+        "letter": "C",
+        "text": "Trực tiếp dẫn dắt kinh tế"
+      },
+      {
+        "letter": "D",
+        "text": "Điều tiết, định hướng"
+      }
+    ],
+    "id": "s10-i192",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 193,
+    "q": "Kinh tế thị trường thuộc giai đoạn nào của kinh tế sản xuất hàng hóa?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Giai đoạn thấp"
+      },
+      {
+        "letter": "B",
+        "text": "Giai đoạn phát triển cao"
+      },
+      {
+        "letter": "C",
+        "text": "Giai đoạn đầu"
+      },
+      {
+        "letter": "D",
+        "text": "Cả A và C"
+      }
+    ],
+    "id": "s10-i193",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 194,
+    "q": "Đại hội Đảng Cộng sản Việt Nam lần thứ VII (6/1991) đã thông qua:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cương lĩnh xây dựng đất nước trong thời kỳ tiến lên chủ nghĩa xã hội"
+      },
+      {
+        "letter": "B",
+        "text": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội"
+      },
+      {
+        "letter": "C",
+        "text": "Cương lĩnh phát triển kinh tế đất nước trong thời kỳ hoà bình"
+      },
+      {
+        "letter": "D",
+        "text": "Cương lĩnh phát triển đất nước trong thời kỳ hoà bình"
+      }
+    ],
+    "id": "s10-i194",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 195,
+    "q": "Khái niệm “công nghiệp hóa, hiện đại hóa” lần đầu tiên được đưa ra tại:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đại hội lần thứ VI (1986) của Đảng."
+      },
+      {
+        "letter": "B",
+        "text": "Đại hội lần thứ VIII (1996) của Đảng."
+      },
+      {
+        "letter": "C",
+        "text": "Đại hội lần thứ IX (2001) của Đảng."
+      },
+      {
+        "letter": "D",
+        "text": "Hội nghị Trung ương 7, khóa VII (7 – 1994)"
+      }
+    ],
+    "id": "s10-i195",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 196,
+    "q": "Đại hội XIII của Đảng xác định nội dung cơ bản về hoàn thiện toàn diện, đồng bộ thể chế, phát triển kinh tế thị trường định hướng xã hội chủ nghĩa là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Thống nhất và nâng cao nhận thức về phát triển kinh tế thị trường định hướng xã hội chủ nghĩa."
+      },
+      {
+        "letter": "B",
+        "text": "Tiếp tục hoàn thiện đồng bộ thể chế kinh tế thị trường xã hội chủ nghĩa, tập trung tháo gỡ các điểm nghẽn."
+      },
+      {
+        "letter": "C",
+        "text": "Xây dựng nền kinh tế độc lập, tự chủ; nâng cao hiệu quả hội nhập kinh tế quốc tế;"
+      },
+      {
+        "letter": "D",
+        "text": "Tất cả các phương án trên."
+      }
+    ],
+    "id": "s10-i196",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 197,
+    "q": "Để phát huy dân chủ xã hội chủ nghĩa, bảo đảm quyền làm chủ của nhân dân, Đại hội XIII của Đảng xác định thực hiện tốt, có hiệu quả phương châm nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Dân biết, dân bàn, dân làm, dân kiểm tra."
+      },
+      {
+        "letter": "B",
+        "text": "Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng."
+      },
+      {
+        "letter": "C",
+        "text": "Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát."
+      },
+      {
+        "letter": "D",
+        "text": "Dân biết, dân bàn, dân làm."
+      }
+    ],
+    "id": "s10-i197",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 198,
+    "q": "Đại hội XIII của Đảng xác định mục tiêu cụ thể phát triển đất nước đến năm 2030, kỷ niệm 100 năm thành lập Đảng là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Là nước đang phát triển, có công nghiệp theo hướng hiện đại, vượt qua mức thu nhập trung bình thấp."
+      },
+      {
+        "letter": "B",
+        "text": "Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao."
+      },
+      {
+        "letter": "C",
+        "text": "Trở thành nước phát triển, thu nhập cao."
+      },
+      {
+        "letter": "D",
+        "text": "Trở thành nước có thu nhập cao; bình cao."
+      }
+    ],
+    "id": "s10-i198",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 199,
+    "q": "Đại hội XIII của Đảng xác định mục tiêu cụ thể phát triển đất nước đến năm 2045, kỷ niệm 100 năm thành lập nước Việt Nam Dân chủ Cộng hoà, nay là nước CHXHCN Việt Nam là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Là nước đang phát triển, có công nghiệp theo hướng hiện đại, vượt qua mức thu nhập trung bình thấp."
+      },
+      {
+        "letter": "B",
+        "text": "Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao;"
+      },
+      {
+        "letter": "C",
+        "text": "Trở thành nước phát triển."
+      },
+      {
+        "letter": "D",
+        "text": "Trở thành nước phát triển, thu nhập cao."
+      }
+    ],
+    "id": "s10-i199",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 200,
+    "q": "Một trong các nhiệm vụ trọng tâm của giai đoạn 2021–2026 là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tăng cường chính quyền quân sự"
+      },
+      {
+        "letter": "B",
+        "text": "Phát triển mô hình nông trại tự trị"
+      },
+      {
+        "letter": "C",
+        "text": "Tiếp tục xây dựng, chỉnh đốn Đảng, phòng chống suy thoái, “tự diễn biến, tự chuyển hóa”"
+      },
+      {
+        "letter": "D",
+        "text": "Cải cách toàn diện hệ thống hiến pháp"
+      }
+    ],
+    "id": "s10-i200",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 201,
+    "q": "Một trong ba đột phá chiến lược theo Đại hội XIII là gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hoàn thiện đồng bộ thể chế phát triển kinh tế thị trường định hướng XHCN"
+      },
+      {
+        "letter": "B",
+        "text": "Tăng trưởng tín dụng không kiểm soát"
+      },
+      {
+        "letter": "C",
+        "text": "Ưu tiên phát triển công nghiệp quốc phòng"
+      },
+      {
+        "letter": "D",
+        "text": "Hạn chế đầu tư vào công nghệ số"
+      }
+    ],
+    "id": "s10-i201",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 202,
+    "q": "Theo Các đột phá chiến lược trong nhiệm kỳ Đại hội XIII thì Hoàn thiện đồng bộ thể chế phát triển, trước hết là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "thể chế phát triển nền kinh tế thị trường đặc sắc Việt Nam"
+      },
+      {
+        "letter": "B",
+        "text": "thể chế phát triển nền kinh tế thị trường theo định hướng xã hội chủ nghĩa."
+      },
+      {
+        "letter": "C",
+        "text": "thể chế phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa."
+      },
+      {
+        "letter": "D",
+        "text": "Thể chế nền kinh tế thị trường tổng hợp"
+      }
+    ],
+    "id": "s10-i202",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 203,
+    "q": "Một trong ba giải pháp đột phá của công tác xây dựng Đảng nhiệm kỳ Đại hội XIII là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tiếp tục hoàn thiện thể chế về công tác xây dựng Đảng."
+      },
+      {
+        "letter": "B",
+        "text": "Phát huy dân chủ, siết chặt kỷ luật, kỷ cương."
+      },
+      {
+        "letter": "C",
+        "text": "Kiên quyết đấu tranh phòng, chống tham nhũng, lãng phí, tiêu cực, quan liêu; đẩy mạnh phân cấp, phân quyền đi đôi với tăng cường kiểm tra, giám sát và kiểm soát chặt chẽ quyền lực."
+      },
+      {
+        "letter": "D",
+        "text": "Cả 03 đều đúng."
+      }
+    ],
+    "id": "s10-i203",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 204,
+    "q": "Vai trò lãnh đạo của Đảng đối với lực lượng vũ trang được xác định như thế nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Gián tiếp thông qua Nhà nước"
+      },
+      {
+        "letter": "B",
+        "text": "Lãnh đạo tuyệt đối, trực tiếp về mọi mặt"
+      },
+      {
+        "letter": "C",
+        "text": "Chia sẻ với các tổ chức chính trị – xã hội"
+      },
+      {
+        "letter": "D",
+        "text": "Giao quyền cho các tỉnh, thành phố"
+      }
+    ],
+    "id": "s10-i204",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 205,
+    "q": "Ba đột phá chiến lược được xác định xuyên suốt là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tự do hóa – hội nhập – đô thị hóa"
+      },
+      {
+        "letter": "B",
+        "text": "Thể chế – nguồn nhân lực – hạ tầng"
+      },
+      {
+        "letter": "C",
+        "text": "Năng lượng – công nghệ – xuất khẩu"
+      },
+      {
+        "letter": "D",
+        "text": "Đô thị – ngân hàng – đầu tư"
+      }
+    ],
+    "id": "s10-i205",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 206,
+    "q": "Vai trò của văn hóa – con người trong đổi mới được xác định như thế nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Là nguồn lực phụ trợ"
+      },
+      {
+        "letter": "B",
+        "text": "Làm nền tảng cho quốc phòng"
+      },
+      {
+        "letter": "C",
+        "text": "Là nền tảng tinh thần xã hội, vừa là mục tiêu, vừa là động lực phát triển KT-XH"
+      },
+      {
+        "letter": "D",
+        "text": "Là bộ phận của chính sách ngoại giao"
+      }
+    ],
+    "id": "s10-i206",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 207,
+    "q": "Hội nghị Trung ương 4 khóa XI đã ban hành nghị quyết nào mang tính cấp bách?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cải cách tiền lương"
+      },
+      {
+        "letter": "B",
+        "text": "Một số vấn đề cấp bách về xây dựng Đảng hiện nay"
+      },
+      {
+        "letter": "C",
+        "text": "Đổi mới giáo dục phổ thông"
+      },
+      {
+        "letter": "D",
+        "text": "Phát triển năng lượng tái tạo"
+      }
+    ],
+    "id": "s10-i207",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 208,
+    "q": "Theo quan điểm của Đảng, yếu tố nào giữ vai trò nền tảng cho ổn định xã hội?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Công nghiệp hóa"
+      },
+      {
+        "letter": "B",
+        "text": "Dân chủ xã hội chủ nghĩa"
+      },
+      {
+        "letter": "C",
+        "text": "Sở hữu tập thể tuyệt đối"
+      },
+      {
+        "letter": "D",
+        "text": "Tăng trưởng GDP"
+      }
+    ],
+    "id": "s10-i208",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 209,
+    "q": "Nhận thức về dân chủ xã hội chủ nghĩa sau đổi mới được xác định như thế nào?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Là yếu tố đối lập với phát triển"
+      },
+      {
+        "letter": "B",
+        "text": "Vừa là mục tiêu, vừa là động lực của công cuộc đổi mới"
+      },
+      {
+        "letter": "C",
+        "text": "Chỉ áp dụng trong lĩnh vực bầu cử"
+      },
+      {
+        "letter": "D",
+        "text": "Không cần thiết khi tăng trưởng cao"
+      }
+    ],
+    "id": "s10-i209",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 210,
+    "q": "Đổi mới mô hình tăng trưởng nhằm mục tiêu gì?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mở rộng sản xuất bao cấp"
+      },
+      {
+        "letter": "B",
+        "text": "Nâng cao năng suất, chất lượng và sức cạnh tranh của nền kinh tế"
+      },
+      {
+        "letter": "C",
+        "text": "Cắt giảm chi tiêu cho giáo dục"
+      },
+      {
+        "letter": "D",
+        "text": "Tăng vai trò của thương mại truyền thống"
+      }
+    ],
+    "id": "s10-i210",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 211,
+    "q": "Mô hình tăng trưởng mới theo Đại hội XIII nhấn mạnh:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tăng khai thác tài nguyên thô"
+      },
+      {
+        "letter": "B",
+        "text": "Dựa vào khoa học, công nghệ, đổi mới sáng tạo"
+      },
+      {
+        "letter": "C",
+        "text": "Phát triển kinh tế nhà nước làm chủ đạo tuyệt đối"
+      },
+      {
+        "letter": "D",
+        "text": "Tăng quy mô dân số"
+      }
+    ],
+    "id": "s10-i211",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 212,
+    "q": "Vai trò của khoa học – công nghệ trong thời kỳ đổi mới được xác định là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Phụ thuộc vào viện trợ quốc tế"
+      },
+      {
+        "letter": "B",
+        "text": "Công cụ thứ yếu"
+      },
+      {
+        "letter": "C",
+        "text": "Quốc sách hàng đầu, động lực then chốt để phát triển đất nước"
+      },
+      {
+        "letter": "D",
+        "text": "Chỉ phục vụ cho quốc phòng"
+      }
+    ],
+    "id": "s10-i212",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 213,
+    "q": "Đảng xác định xây dựng Đảng là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nhiệm vụ tùy theo thời kỳ"
+      },
+      {
+        "letter": "B",
+        "text": "Việc của tổ chức cán bộ"
+      },
+      {
+        "letter": "C",
+        "text": "Then chốt trong sự nghiệp cách mạng"
+      },
+      {
+        "letter": "D",
+        "text": "Không quan trọng bằng phát triển kinh tế"
+      }
+    ],
+    "id": "s10-i213",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 214,
+    "q": "Mặt trận Tổ quốc được xác định là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Một cơ quan hành pháp"
+      },
+      {
+        "letter": "B",
+        "text": "Công cụ tuyên truyền"
+      },
+      {
+        "letter": "C",
+        "text": "Liên minh chính trị rộng lớn, là nền tảng khối đại đoàn kết toàn dân tộc"
+      },
+      {
+        "letter": "D",
+        "text": "Một tổ chức văn hóa"
+      }
+    ],
+    "id": "s10-i214",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 215,
+    "q": "Vai trò của nhân dân trong hệ thống chính trị được Đảng xác định là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Là nguồn lao động chính"
+      },
+      {
+        "letter": "B",
+        "text": "Là chủ thể quyền lực trong Nhà nước pháp quyền XHCN"
+      },
+      {
+        "letter": "C",
+        "text": "Đối tượng quản lý của Nhà nước"
+      },
+      {
+        "letter": "D",
+        "text": "Một yếu tố phụ thuộc vào kinh tế"
+      }
+    ],
+    "id": "s10-i215",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 216,
+    "q": "Vai trò của Đảng Cộng sản Việt Nam trong hệ thống chính trị là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Một đảng đối lập trong hệ thống đa đảng"
+      },
+      {
+        "letter": "B",
+        "text": "Lực lượng lãnh đạo Nhà nước và xã hội"
+      },
+      {
+        "letter": "C",
+        "text": "Một tổ chức giám sát xã hội"
+      },
+      {
+        "letter": "D",
+        "text": "Một bộ phận trong cơ quan lập pháp"
+      }
+    ],
+    "id": "s10-i216",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 217,
+    "q": "Trong hệ thống chính trị, yếu tố giữ vai trò hạt nhân lãnh đạo là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Quốc hội"
+      },
+      {
+        "letter": "B",
+        "text": "Đảng Cộng sản Việt Nam"
+      },
+      {
+        "letter": "C",
+        "text": "Chính phủ"
+      },
+      {
+        "letter": "D",
+        "text": "Mặt trận Tổ quốc"
+      }
+    ],
+    "id": "s10-i217",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 218,
+    "q": "Theo Đại hội XIII, trung tâm của chiến lược phát triển là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Doanh nghiệp tư nhân"
+      },
+      {
+        "letter": "B",
+        "text": "Con người Việt Nam"
+      },
+      {
+        "letter": "C",
+        "text": "Hệ thống tài chính"
+      },
+      {
+        "letter": "D",
+        "text": "Bộ máy hành chính"
+      }
+    ],
+    "id": "s10-i218",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 219,
+    "q": "Trong phát triển thể chế, yếu tố cần hoàn thiện là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tư hữu hóa toàn bộ sản xuất"
+      },
+      {
+        "letter": "B",
+        "text": "Đồng bộ giữa kinh tế, pháp luật, tổ chức và văn hóa phát triển"
+      },
+      {
+        "letter": "C",
+        "text": "Hệ thống thanh tra nhân dân"
+      },
+      {
+        "letter": "D",
+        "text": "Phân quyền toàn diện cho địa phương"
+      }
+    ],
+    "id": "s10-i219",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 220,
+    "q": "Điền vào chỗ trống: Thanh niên là … của nước nhà, chủ nhân tương lai của đất nước, là lực lượng … trong xây dựng và bảo vệ Tổ quốc, một trong những nhân tố quyết định sự thành bại của sự nghiệp công nghiệp hoá, hiện đại hoá đất nước, hội nhập quốc tế và xây dựng chủ nghĩa xã hội.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "rường cột, xung kích"
+      },
+      {
+        "letter": "B",
+        "text": "Trụ cột, tiên phong"
+      },
+      {
+        "letter": "C",
+        "text": "Chủ nhân, đi đầu"
+      },
+      {
+        "letter": "D",
+        "text": "Nguồn lực, tiên tiến"
+      }
+    ],
+    "id": "s10-i220",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 221,
+    "q": "Điền vào chỗ trống: Thanh niên được đặt ở vị trí … trong chiến lược bồi dưỡng, phát huy nhân tố và nguồn lực con người. Chăm lo, phát triển, thanh niên vừa là mục tiêu, vừa là động lực bảo đảm cho sự ổn định và phát triển vững bền của đất nước.",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Quan trọng"
+      },
+      {
+        "letter": "B",
+        "text": "Trung tâm"
+      },
+      {
+        "letter": "C",
+        "text": "Xung kích"
+      },
+      {
+        "letter": "D",
+        "text": "Tiên phong"
+      }
+    ],
+    "id": "s10-i221",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 222,
+    "q": "Đảng ta xác định, giai cấp nào là lực lượng lao động sáng tạo đặc biệt quan trọng trong tiến trình đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước và hội nhập quốc tế?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Công nhân"
+      },
+      {
+        "letter": "B",
+        "text": "Nông dân"
+      },
+      {
+        "letter": "C",
+        "text": "Trí thức"
+      },
+      {
+        "letter": "D",
+        "text": "Sinh viên"
+      }
+    ],
+    "id": "s10-i222",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 223,
+    "q": "Để đảm bảo con người là trung tâm của chiến lược phát triển, là chủ thể phát triển, Đảng ta chủ trương xây dựng con người Việt Nam với các phẩm chất:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "giàu lòng yêu nước, có ý thức làm chủ, trách nhiệm công dân"
+      },
+      {
+        "letter": "B",
+        "text": "có tri thức, sức khoẻ, lao động giỏi"
+      },
+      {
+        "letter": "C",
+        "text": "sống có văn hoá, nghĩa tình; có tinh thần quốc tế chân chính"
+      },
+      {
+        "letter": "D",
+        "text": "tất cả đều đúng"
+      }
+    ],
+    "id": "s10-i223",
+    "answer": "D",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 224,
+    "q": "“Dù khó khăn gian khổ đến mấy, nhân dân ta nhất định sẽ hoàn toàn thắng lợi. Đế quốc Mỹ nhất định phải cút khỏi nước ta. Tổ quốc ta nhất định sẽ thống nhất. Đồng bào Nam, Bắc nhất định sẽ sum họp một nhà”. Đoạn trích trên được trích trong tác phẩm nào của Hồ Chí Minh?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Di chúc"
+      },
+      {
+        "letter": "B",
+        "text": "Tuyên ngôn độc lập"
+      },
+      {
+        "letter": "C",
+        "text": "Lời kêu gọi toàn quốc kháng chiến"
+      },
+      {
+        "letter": "D",
+        "text": "Thư gửi đồng bào miền Nam"
+      }
+    ],
+    "id": "s10-i224",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 225,
+    "q": "Quốc hội khóa VIII thông qua văn bản luật nào chính thức có hiệu lực từ ngày 1-1- 1988?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Luật lao động"
+      },
+      {
+        "letter": "B",
+        "text": "Luật đầu tư nước ngoài"
+      },
+      {
+        "letter": "C",
+        "text": "Luật cạnh tranh"
+      },
+      {
+        "letter": "D",
+        "text": "Luật sở hữu trí tuệ"
+      }
+    ],
+    "id": "s10-i225",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 226,
+    "q": "Hội nghị Trung ương 6 (3-1989) khoá VI đã chính thức dùng khái niệm nào để chỉ các tổ chức chính trị - xã hội ở nước ta?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "hệ thống chính trị"
+      },
+      {
+        "letter": "B",
+        "text": "chuyên chính vô sản"
+      },
+      {
+        "letter": "C",
+        "text": "nhà nước pháp quyền"
+      },
+      {
+        "letter": "D",
+        "text": "Nhà nước chuyên chính vô sản"
+      }
+    ],
+    "id": "s10-i226",
+    "answer": "A",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 227,
+    "q": "Theo quan điểm của Đảng Cộng sản Việt Nam, sứ mệnh lịch sử của giai cấp công nhân trong thời kỳ công nghiệp hóa, hiện đại hóa là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đấu tranh chống lại giai cấp tư sản trong nền kinh tế thị trường"
+      },
+      {
+        "letter": "B",
+        "text": "Trở thành lực lượng sản xuất trực tiếp lớn nhất của xã hội"
+      },
+      {
+        "letter": "C",
+        "text": "Tiên phong trong sự nghiệp xây dựng và bảo vệ Tổ quốc xã hội chủ nghĩa"
+      },
+      {
+        "letter": "D",
+        "text": "Duy trì truyền thống cách mạng trong đời sống văn hóa"
+      }
+    ],
+    "id": "s10-i227",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 228,
+    "q": "Nội dung nào sau đây thể hiện sự kế thừa và phát triển tư tưởng về sứ mệnh lịch sử của giai cấp công nhân trong Nghị quyết Hội nghị Trung ương 7 (7/1994)?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Xác định giai cấp công nhân là lực lượng duy nhất lãnh đạo cách mạng"
+      },
+      {
+        "letter": "B",
+        "text": "Xác định công nhân là lực lượng sản xuất đông đảo nhất của toàn xã hội"
+      },
+      {
+        "letter": "C",
+        "text": "Xác định giai cấp công nhân là lực lượng đi đầu trong công nghiệp hóa, hiện đại hóa"
+      },
+      {
+        "letter": "D",
+        "text": "Xác định vai trò của công nhân chủ yếu trong lĩnh vực quốc phòng"
+      }
+    ],
+    "id": "s10-i228",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 229,
+    "q": "Hội nghị giữa nhiệm kỳ (1/1994) của Ban Chấp hành Trung ương Đảng khóa VII đã xác định có bao nhiêu nguy cơ lớn đe dọa sự phát triển của đất nước?",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Hai nguy cơ"
+      },
+      {
+        "letter": "B",
+        "text": "Ba nguy cơ"
+      },
+      {
+        "letter": "C",
+        "text": "Bốn nguy cơ"
+      },
+      {
+        "letter": "D",
+        "text": "Năm nguy cơ"
+      }
+    ],
+    "id": "s10-i229",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 230,
+    "q": "Một trong những nguy cơ được Hội nghị giữa nhiệm kỳ 1994 chỉ ra là nguy cơ tụt hậu xa hơn về kinh tế. Nguyên nhân chính của nguy cơ này là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Do lạm phát tăng cao kéo dài"
+      },
+      {
+        "letter": "B",
+        "text": "Do mức sống người dân chưa được cải thiện"
+      },
+      {
+        "letter": "C",
+        "text": "Do điểm xuất phát thấp, tăng trưởng chưa cao và chưa vững chắc"
+      },
+      {
+        "letter": "D",
+        "text": "Do sự cạnh tranh của các tập đoàn kinh tế trong nước"
+      }
+    ],
+    "id": "s10-i230",
+    "answer": "C",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 231,
+    "q": "Nguy cơ “chệch hướng xã hội chủ nghĩa” được Hội nghị giữa nhiệm kỳ 1994 nhấn mạnh có thể xảy ra khi:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Đảng và Nhà nước tập trung phát triển quá nhiều vào công nghiệp nặng"
+      },
+      {
+        "letter": "B",
+        "text": "Các chủ trương, chính sách và chỉ đạo thực hiện bị lệch lạc"
+      },
+      {
+        "letter": "C",
+        "text": "Kinh tế thị trường phát triển không kiểm soát"
+      },
+      {
+        "letter": "D",
+        "text": "Thiếu các chương trình xóa đói giảm nghèo"
+      }
+    ],
+    "id": "s10-i231",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  },
+  {
+    "no": 232,
+    "q": "Theo Hội nghị giữa nhiệm kỳ 1994, nguy cơ “diễn biến hoà bình” là:",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Một nguy cơ nội tại của kinh tế thị trường"
+      },
+      {
+        "letter": "B",
+        "text": "Một hình thức tiến hành chiến tranh phi vũ trang của các thế lực thù địch nhằm chống phá chế độ"
+      },
+      {
+        "letter": "C",
+        "text": "Xu hướng phát triển tất yếu của toàn cầu hóa"
+      },
+      {
+        "letter": "D",
+        "text": "Mối đe dọa do sự chia rẽ nội bộ trong Đảng"
+      }
+    ],
+    "id": "s10-i232",
+    "answer": "B",
+    "source": "PDF do người dùng cung cấp",
+    "answerSource": "Đáp án đánh dấu trong PDF do người dùng cung cấp, chưa xác minh toàn bộ"
+  }
+]

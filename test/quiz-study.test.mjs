@@ -134,3 +134,28 @@ test('textbook citations appear and ambiguous questions remain ungraded', () => 
   const q=byId.get('s5-i98');
   assert.match(a.preview({questions:[q]},true).html,/Giáo trình Lịch sử Đảng.*264/);
 });
+
+test('new chapter 3 PDF includes all questions, highlighted keys and safe handling of ambiguous items', () => {
+  const a=app(), set=a.sets().find(s=>s.id==='s10');
+  const source=JSON.parse(readFileSync(new URL('../data/chapter3-basic.json',import.meta.url),'utf8'));
+  assert.ok(set);
+  assert.equal(set.chapter,3);
+  assert.equal(set.questions.length,232);
+  assert.equal(JSON.stringify(set.questions),JSON.stringify(source));
+  for(let i=0;i<232;i++) {
+    const q=set.questions[i];
+    assert.equal(q.no,i+1);
+    assert.equal(q.id,`s10-i${i+1}`);
+    assert.deepEqual(Array.from(q.options,o=>o.letter),['A','B','C','D']);
+    assert.ok(q.q && q.options.every(o=>o.text));
+    assert.ok(q.options.some(o=>o.letter===q.answer));
+  }
+  assert.equal(a.keyed(set.questions[0]),'B');
+  assert.equal(a.keyed(set.questions[8]),null);
+  assert.equal(a.keyed(set.questions[159]),null);
+  assert.equal(set.questions[168].options[3].text,'Hệ thống chính trị và vai trò lãnh đạo của Đảng.');
+  const shown=a.preview(set,true);
+  assert.equal((shown.html.match(/class="review"/g)||[]).length,232);
+  assert.match(shown.html,/✓ Đáp án gợi ý/);
+  assert.match(shown.html,/Chưa có giải thích được biên soạn/);
+});

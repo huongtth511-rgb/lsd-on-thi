@@ -13,3 +13,6 @@ Nguồn chính đang đối chiếu là file **Giáo trình Lịch sử Đảng 
 Các nguồn này bao quát nhiều chủ đề, không có nghĩa mỗi đáp án đã được từng nguồn xác nhận. Một số câu có thêm đường dẫn nguồn cụ thể ngay trong ứng dụng. Những đáp án có sẵn trong file gốc vẫn là đáp án gợi ý và chưa được xác nhận đồng loạt bởi giảng viên.
 
 Trạng thái đợt đối chiếu hiện tại: 710 câu; 710 câu có giải thích hoặc lưu ý, trong đó 567 câu ghi trang giáo trình; đã bổ sung đáp án gợi ý cho 135 câu trước đây thiếu; 66 câu có đề lỗi hoặc chưa rõ được đánh dấu không chấm; 0 câu chưa có giải thích hoặc lưu ý. Không còn câu thiếu đáp án mà chưa được xử lý: các câu chưa đủ căn cứ đã được đánh dấu không chấm. Các đáp án có sẵn vẫn cần kiểm tra từng câu, không coi toàn bộ 710 câu đã được xác minh. Số liệu không bao gồm đáp án do người dùng tự sửa trong trình duyệt.
+
+
+Bộ mới **Chương 3 – Nhận diện kiến thức cơ bản**: 232 câu trích từ PDF người dùng cung cấp; đáp án gợi ý đọc từ dấu tô vàng trong PDF, chưa xác minh toàn bộ. Đã đối chiếu và thêm lời giải hoặc lưu ý cho 28 câu trong bộ mới, trong đó 5 câu không chấm vì đề chưa rõ. Các số liệu ở đoạn trước chỉ bao gồm 710 câu ban đầu.
