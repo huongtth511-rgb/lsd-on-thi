@@ -1,0 +1,845 @@
+[
+  {
+    "id": "founding1930",
+    "group": "Thành lập Đảng và văn kiện",
+    "title": "Hội nghị thành lập Đảng",
+    "date": "02/1930",
+    "chapter": 1,
+    "patterns": [
+      "hoi nghi.{0,40}(?:hop nhat|thanh lap dang|2[/.-]1930)",
+      "(?:hop nhat|thanh lap) (?:ba |3 )?to chuc cong san"
+    ],
+    "ids": [
+      "s7-i65"
+    ]
+  },
+  {
+    "id": "platform1930",
+    "group": "Thành lập Đảng và văn kiện",
+    "title": "Cương lĩnh chính trị đầu tiên",
+    "date": "02/1930",
+    "chapter": 1,
+    "patterns": [
+      "cuong linh.{0,35}(?:dau tien|1930|van tat)",
+      "(?:chanh cuong van tat|sach luoc van tat)",
+      "cuong linh cua nguyen ai quoc"
+    ]
+  },
+  {
+    "id": "platform_oct1930",
+    "group": "Thành lập Đảng và văn kiện",
+    "title": "Luận cương chính trị tháng 10/1930",
+    "date": "10/1930",
+    "chapter": 1,
+    "patterns": [
+      "luan cuong.{0,35}1930",
+      "luan cuong chinh tri",
+      "hoi nghi trung uong.{0,30}(?:10[/.-]1930|thang 10 nam 1930)"
+    ]
+  },
+  {
+    "id": "comintern2",
+    "group": "Thành lập Đảng và văn kiện",
+    "title": "Đại hội II Quốc tế Cộng sản",
+    "date": "1920",
+    "chapter": 1,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:ii|2)\\b.{0,35}quoc te cong san"
+    ]
+  },
+  {
+    "id": "comintern7",
+    "group": "Thành lập Đảng và văn kiện",
+    "title": "Đại hội VII Quốc tế Cộng sản",
+    "date": "1935",
+    "chapter": 1,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:vii|7)\\b.{0,35}quoc te cong san"
+    ]
+  },
+  {
+    "id": "congress1",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội I",
+    "date": "1935",
+    "chapter": 1,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:i|1)\\b",
+      "dai hoi[ a-z]{0,45}lan thu nhat cua dang"
+    ]
+  },
+  {
+    "id": "tw6_1939",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 6: chuyển hướng giải phóng dân tộc",
+    "date": "11/1939",
+    "chapter": 1,
+    "patterns": [
+      "(?:hoi nghi|nghi quyet).{0,50}(?:trung uong|tw).{0,20}(?:6|vi)\\b.{0,25}1939",
+      "trung uong.{0,20}(?:11[/.-]1939|thang 11 nam 1939)"
+    ],
+    "ids": [
+      "s6-i17"
+    ]
+  },
+  {
+    "id": "tw7_1940",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 7",
+    "date": "11/1940",
+    "chapter": 1,
+    "patterns": [
+      "(?:hoi nghi|trung uong).{0,55}(?:7|vii)\\b.{0,25}1940",
+      "trung uong.{0,20}(?:11[/.-]1940|thang 11 nam 1940)"
+    ]
+  },
+  {
+    "id": "tw8_1941",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 8: hoàn chỉnh chuyển hướng",
+    "date": "05/1941",
+    "chapter": 1,
+    "patterns": [
+      "(?:hoi nghi|trung uong).{0,55}(?:8|viii)\\b.{0,25}1941",
+      "trung uong.{0,20}(?:5[/.-]1941|thang 5 nam 1941)"
+    ],
+    "ids": [
+      "s6-i22",
+      "s6-i24",
+      "s6-i25",
+      "s6-i26",
+      "s4-i76"
+    ]
+  },
+  {
+    "id": "directive1945",
+    "group": "Mốc cách mạng",
+    "title": "Chỉ thị Nhật – Pháp bắn nhau",
+    "date": "03/1945",
+    "chapter": 1,
+    "patterns": [
+      "nhat.{0,6}phap ban nhau",
+      "chi thi.{0,25}(?:12[/.-]3[/.-]1945|3[/.-]1945)"
+    ]
+  },
+  {
+    "id": "national_conf1945",
+    "group": "Mốc cách mạng",
+    "title": "Hội nghị toàn quốc và Quốc dân Đại hội Tân Trào",
+    "date": "08/1945",
+    "chapter": 1,
+    "patterns": [
+      "hoi nghi toan quoc.{0,30}1945",
+      "quoc dan dai hoi",
+      "tan trao",
+      "dai hoi quoc dan"
+    ]
+  },
+  {
+    "id": "august1945",
+    "group": "Mốc cách mạng",
+    "title": "Cách mạng Tháng Tám",
+    "date": "08/1945",
+    "chapter": 1,
+    "patterns": [
+      "cach mang thang tam",
+      "tong khoi nghia.{0,25}1945",
+      "thang 8[/ ]1945.{0,20}(?:khoi nghia|cach mang)"
+    ]
+  },
+  {
+    "id": "independence1945",
+    "group": "Mốc cách mạng",
+    "title": "Tuyên ngôn Độc lập",
+    "date": "02/09/1945",
+    "chapter": 2,
+    "patterns": [
+      "tuyen ngon doc lap",
+      "(?:2[/.-]9[/.-]1945|ngay 2 thang 9 nam 1945)"
+    ]
+  },
+  {
+    "id": "election1946",
+    "group": "Mốc cách mạng",
+    "title": "Tổng tuyển cử và Quốc hội khóa I",
+    "date": "01/1946",
+    "chapter": 2,
+    "patterns": [
+      "tong tuyen cu",
+      "quoc hoi khoa i",
+      "6[/.-]1[/.-]1946"
+    ]
+  },
+  {
+    "id": "resistance1946",
+    "group": "Mốc cách mạng",
+    "title": "Toàn quốc kháng chiến",
+    "date": "12/1946",
+    "chapter": 2,
+    "patterns": [
+      "toan quoc khang chien",
+      "loi keu goi toan quoc",
+      "19[/.-]12[/.-]1946"
+    ],
+    "ids": [
+      "s8-i31"
+    ]
+  },
+  {
+    "id": "congress2",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội II",
+    "date": "1951",
+    "chapter": 2,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:ii|2)\\b"
+    ],
+    "ids": [
+      "s4-i34",
+      "s4-i35",
+      "s4-i36"
+    ]
+  },
+  {
+    "id": "dienbien1954",
+    "group": "Mốc cách mạng",
+    "title": "Chiến dịch Điện Biên Phủ",
+    "date": "1954",
+    "chapter": 2,
+    "patterns": [
+      "dien bien phu",
+      "him lam",
+      "muong thanh"
+    ]
+  },
+  {
+    "id": "geneva1954",
+    "group": "Mốc cách mạng",
+    "title": "Hiệp định Giơnevơ",
+    "date": "1954",
+    "chapter": 2,
+    "patterns": [
+      "gio.?ne.?vo",
+      "geneva",
+      "gionevo"
+    ]
+  },
+  {
+    "id": "tw15_1959",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 15: cách mạng miền Nam",
+    "date": "01/1959",
+    "chapter": 2,
+    "patterns": [
+      "(?:hoi nghi|nghi quyet).{0,45}(?:trung uong|tw).{0,25}15\\b",
+      "trung uong.{0,25}(?:1[/.-]1959|thang 1 nam 1959)"
+    ]
+  },
+  {
+    "id": "dongkhoi1960",
+    "group": "Mốc cách mạng",
+    "title": "Phong trào Đồng khởi",
+    "date": "1959–1960",
+    "chapter": 2,
+    "patterns": [
+      "dong khoi",
+      "mo cay.{0,20}1960"
+    ]
+  },
+  {
+    "id": "congress3",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội III",
+    "date": "1960",
+    "chapter": 2,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:iii|3)\\b"
+    ],
+    "ranges": [
+      [
+        "s10",
+        85,
+        88
+      ]
+    ]
+  },
+  {
+    "id": "tw11_12_1965",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 11–12: kháng chiến chống Mỹ",
+    "date": "1965",
+    "chapter": 2,
+    "patterns": [
+      "(?:hoi nghi|nghi quyet).{0,50}(?:trung uong|tw).{0,25}(?:11|12)\\b.{0,25}1965",
+      "trung uong.{0,25}(?:3[/.-]1965|12[/.-]1965)"
+    ],
+    "ids": [
+      "s5-i77"
+    ]
+  },
+  {
+    "id": "tet1968",
+    "group": "Mốc cách mạng",
+    "title": "Tổng tiến công Tết Mậu Thân",
+    "date": "1968",
+    "chapter": 2,
+    "patterns": [
+      "mau than",
+      "tet 1968",
+      "tong tien cong.{0,30}1968"
+    ]
+  },
+  {
+    "id": "paris1973",
+    "group": "Mốc cách mạng",
+    "title": "Hiệp định Paris",
+    "date": "1973",
+    "chapter": 2,
+    "patterns": [
+      "hiep dinh pari",
+      "hiep dinh paris",
+      "paris.{0,10}1973"
+    ]
+  },
+  {
+    "id": "spring1975",
+    "group": "Mốc cách mạng",
+    "title": "Đại thắng mùa Xuân 1975",
+    "date": "04/1975",
+    "chapter": 2,
+    "patterns": [
+      "mua xuan 1975",
+      "chien dich ho chi minh",
+      "30[/.-]4[/.-]1975",
+      "giai phong mien nam.{0,20}1975"
+    ]
+  },
+  {
+    "id": "reunification1976",
+    "group": "Mốc cách mạng",
+    "title": "Thống nhất đất nước về mặt nhà nước",
+    "date": "1976",
+    "chapter": 3,
+    "patterns": [
+      "thong nhat.{0,25}mat nha nuoc",
+      "quoc hoi khoa vi",
+      "tong tuyen cu.{0,25}1976"
+    ],
+    "ranges": [
+      [
+        "s10",
+        1,
+        4
+      ],
+      [
+        "s10",
+        6,
+        6
+      ]
+    ]
+  },
+  {
+    "id": "congress4",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội IV",
+    "date": "1976",
+    "chapter": 3,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:iv|4)\\b"
+    ],
+    "ranges": [
+      [
+        "s10",
+        7,
+        10
+      ]
+    ]
+  },
+  {
+    "id": "tw6_1979",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 6 khóa IV: đột phá kinh tế",
+    "date": "1979",
+    "chapter": 3,
+    "patterns": [
+      "trung uong.{0,18}(?:6|vi)\\b.{0,25}(?:khoa iv|1979)",
+      "hoi nghi.{0,30}1979.{0,25}dot pha"
+    ],
+    "ranges": [
+      [
+        "s10",
+        11,
+        13
+      ]
+    ]
+  },
+  {
+    "id": "congress5",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội V",
+    "date": "1982",
+    "chapter": 3,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:v|5)\\b"
+    ],
+    "ranges": [
+      [
+        "s10",
+        14,
+        14
+      ]
+    ]
+  },
+  {
+    "id": "congress6",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội VI: Đổi mới",
+    "date": "1986",
+    "chapter": 3,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:vi|6)\\b"
+    ],
+    "ranges": [
+      [
+        "s10",
+        15,
+        35
+      ]
+    ],
+    "ids": [
+      "s10-i5"
+    ]
+  },
+  {
+    "id": "tw6_1989",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 6 khóa VI",
+    "date": "03/1989",
+    "chapter": 3,
+    "patterns": [
+      "trung uong.{0,18}(?:6|vi)\\b.{0,25}(?:khoa vi|1989)"
+    ]
+  },
+  {
+    "id": "congress7",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội VII",
+    "date": "1991",
+    "chapter": 3,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:vii|7)\\b"
+    ],
+    "ranges": [
+      [
+        "s10",
+        36,
+        53
+      ]
+    ]
+  },
+  {
+    "id": "platform1991",
+    "group": "Cương lĩnh",
+    "title": "Cương lĩnh 1991",
+    "date": "1991",
+    "chapter": 3,
+    "patterns": [
+      "cuong linh.{0,150}1991",
+      "cuong linh.{0,55}dai hoi vii"
+    ],
+    "ranges": [
+      [
+        "s10",
+        40,
+        51
+      ]
+    ],
+    "ids": [
+      "s5-i144"
+    ]
+  },
+  {
+    "id": "midterm1994",
+    "group": "Hội nghị Trung ương",
+    "title": "Hội nghị giữa nhiệm kỳ khóa VII",
+    "date": "1994",
+    "chapter": 3,
+    "patterns": [
+      "hoi nghi giua nhiem ky",
+      "bon nguy co",
+      "4 nguy co"
+    ],
+    "ranges": [
+      [
+        "s10",
+        52,
+        52
+      ],
+      [
+        "s10",
+        229,
+        232
+      ]
+    ]
+  },
+  {
+    "id": "tw7_1994",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 7 khóa VII: công nghiệp hóa",
+    "date": "07/1994",
+    "chapter": 3,
+    "patterns": [
+      "trung uong.{0,18}(?:7|vii)\\b.{0,28}(?:khoa vii|1994)"
+    ],
+    "ranges": [
+      [
+        "s10",
+        195,
+        195
+      ],
+      [
+        "s10",
+        228,
+        228
+      ]
+    ]
+  },
+  {
+    "id": "congress8",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội VIII",
+    "date": "1996",
+    "chapter": 3,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:viii|8)\\b"
+    ],
+    "ranges": [
+      [
+        "s10",
+        54,
+        84
+      ],
+      [
+        "s10",
+        93,
+        102
+      ]
+    ]
+  },
+  {
+    "id": "tw2_1996",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 2 khóa VIII: giáo dục và khoa học",
+    "date": "12/1996",
+    "chapter": 3,
+    "patterns": [
+      "trung uong.{0,18}(?:2|ii)\\b.{0,28}(?:khoa viii|1996)"
+    ],
+    "ranges": [
+      [
+        "s10",
+        59,
+        60
+      ],
+      [
+        "s10",
+        63,
+        64
+      ],
+      [
+        "s10",
+        67,
+        67
+      ],
+      [
+        "s10",
+        80,
+        84
+      ]
+    ],
+    "ids": [
+      "s9-i49"
+    ]
+  },
+  {
+    "id": "tw5_1998",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 5 khóa VIII: văn hóa",
+    "date": "07/1998",
+    "chapter": 3,
+    "patterns": [
+      "trung uong.{0,18}(?:5|v)\\b.{0,28}(?:khoa viii|1998)"
+    ],
+    "ranges": [
+      [
+        "s10",
+        68,
+        79
+      ]
+    ],
+    "ids": [
+      "s9-i49"
+    ]
+  },
+  {
+    "id": "congress9",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội IX",
+    "date": "2001",
+    "chapter": 3,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:ix|9)\\b"
+    ],
+    "ranges": [
+      [
+        "s10",
+        103,
+        130
+      ]
+    ]
+  },
+  {
+    "id": "congress10",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội X",
+    "date": "2006",
+    "chapter": 3,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:x|10)\\b"
+    ]
+  },
+  {
+    "id": "congress11",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội XI",
+    "date": "2011",
+    "chapter": 3,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:xi|11)\\b"
+    ],
+    "ranges": [
+      [
+        "s10",
+        131,
+        176
+      ]
+    ]
+  },
+  {
+    "id": "platform2011",
+    "group": "Cương lĩnh",
+    "title": "Cương lĩnh bổ sung, phát triển 2011",
+    "date": "2011",
+    "chapter": 3,
+    "patterns": [
+      "cuong linh.{0,180}2011",
+      "cuong linh.{0,180}bo sung",
+      "cuong linh.{0,55}dai hoi xi"
+    ],
+    "ranges": [
+      [
+        "s10",
+        135,
+        173
+      ],
+      [
+        "s10",
+        176,
+        176
+      ]
+    ],
+    "ids": [
+      "s5-i144"
+    ]
+  },
+  {
+    "id": "tw4_2012",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 4 khóa XI: xây dựng Đảng",
+    "date": "2012",
+    "chapter": 3,
+    "patterns": [
+      "trung uong.{0,18}(?:4|iv)\\b.{0,28}(?:khoa xi|2012)"
+    ],
+    "ranges": [
+      [
+        "s10",
+        178,
+        178
+      ],
+      [
+        "s10",
+        207,
+        207
+      ]
+    ]
+  },
+  {
+    "id": "tw8_2013",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 8 khóa XI: đổi mới giáo dục",
+    "date": "2013",
+    "chapter": 3,
+    "patterns": [
+      "trung uong.{0,18}(?:8|viii)\\b.{0,28}(?:khoa xi|2013)"
+    ],
+    "ranges": [
+      [
+        "s10",
+        177,
+        177
+      ]
+    ]
+  },
+  {
+    "id": "congress12",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội XII",
+    "date": "2016",
+    "chapter": 3,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:xii|12)\\b"
+    ],
+    "ranges": [
+      [
+        "s10",
+        179,
+        179
+      ]
+    ]
+  },
+  {
+    "id": "congress13",
+    "group": "Đại hội Đảng",
+    "title": "Đại hội XIII",
+    "date": "2021",
+    "chapter": 3,
+    "patterns": [
+      "dai hoi[ a-z]{0,45}\\b(?:xiii|13)\\b"
+    ],
+    "ranges": [
+      [
+        "s10",
+        180,
+        190
+      ],
+      [
+        "s10",
+        196,
+        206
+      ],
+      [
+        "s10",
+        208,
+        219
+      ],
+      [
+        "s10",
+        222,
+        223
+      ]
+    ]
+  },
+  {
+    "id": "tours1920",
+    "group": "Thành lập Đảng và văn kiện",
+    "title": "Đại hội Tours và bước ngoặt Nguyễn Ái Quốc",
+    "date": "12/1920",
+    "chapter": 1,
+    "patterns": [
+      "dai hoi.{0,35}(?:dang xa hoi phap|tours)",
+      "dai hoi tours"
+    ],
+    "ids": [
+      "s7-i37"
+    ]
+  },
+  {
+    "id": "youth_congress1929",
+    "group": "Thành lập Đảng và văn kiện",
+    "title": "Đại hội Hội Việt Nam Cách mạng Thanh niên",
+    "date": "1929",
+    "chapter": 1,
+    "patterns": [
+      "dai hoi.{0,40}hoi viet nam cach mang thanh nien"
+    ],
+    "ids": [
+      "s7-i52"
+    ]
+  },
+  {
+    "id": "platform1951",
+    "group": "Cương lĩnh",
+    "title": "Chính cương Đảng Lao động Việt Nam",
+    "date": "1951",
+    "chapter": 2,
+    "patterns": [
+      "(?:chinh cuong|cuong linh).{0,35}dang lao dong viet nam"
+    ]
+  },
+  {
+    "id": "tw1_1930",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 1: Luận cương và đổi tên Đảng",
+    "date": "10/1930",
+    "chapter": 1,
+    "patterns": [
+      "hoi nghi.{0,55}trung uong.{0,20}lan thu nhat",
+      "trung uong.{0,25}10[/.-]1930"
+    ],
+    "ids": [
+      "s1-i15",
+      "s4-i94",
+      "s7-i76",
+      "s7-i77",
+      "s7-i78"
+    ]
+  },
+  {
+    "id": "tw6_1954",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 6: sau Hiệp định Giơnevơ",
+    "date": "07/1954",
+    "chapter": 2,
+    "patterns": [
+      "(?:hoi nghi|trung uong).{0,55}(?:lan thu 6|lan thu sau|6).{0,20}1954"
+    ],
+    "ids": [
+      "s3-i12",
+      "s4-i42"
+    ]
+  },
+  {
+    "id": "tw13_1967",
+    "group": "Hội nghị Trung ương",
+    "title": "Trung ương 13: mặt trận ngoại giao",
+    "date": "1967",
+    "chapter": 2,
+    "patterns": [
+      "(?:hoi nghi|trung uong).{0,55}(?:lan thu 13|13).{0,25}1967"
+    ],
+    "ids": [
+      "s3-i28",
+      "s4-i54"
+    ]
+  },
+  {
+    "id": "directive_resistance1945",
+    "group": "Mốc cách mạng",
+    "title": "Chỉ thị Kháng chiến kiến quốc",
+    "date": "11/1945",
+    "chapter": 2,
+    "patterns": [
+      "chi thi.{0,15}khang chien kien quoc",
+      "khang chien kien quoc"
+    ],
+    "ids": [
+      "s4-i3",
+      "s4-i4",
+      "s4-i5",
+      "s4-i10",
+      "s6-i45",
+      "s8-i12"
+    ]
+  }
+]

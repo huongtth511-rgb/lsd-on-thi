@@ -135,3 +135,10 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 
 - Theo xác nhận của người dùng, dùng đáp án tô vàng làm khóa cho toàn bộ 232 câu Chương 3 và bổ sung giải thích ngắn cho cả bộ. Những chỗ đáp án tô vàng dùng cách diễn đạt khác giáo trình 2026 được ghi rõ trong lời giải.
 - Với 66 câu cũ từng không chấm do đề lỗi hoặc mơ hồ, chọn phương án phù hợp nhất để luyện tập và giải thích điểm chưa chính xác của đề. Ngân hàng hiện có 942/942 câu có đáp án và giải thích; chế độ luyện 40 câu rồi nộp chấm điểm giữ nguyên.
+
+## Học theo sự kiện — 01/11/2026
+
+- [x] Lập danh mục 51 sự kiện có câu hỏi: Đại hội Đảng, Cương lĩnh, Hội nghị Trung ương, các văn kiện và mốc lịch sử lớn. Tách Đại hội VII của Đảng khỏi Đại hội VII Quốc tế Cộng sản.
+- [x] Gắn 585 câu liên quan từ 10 bộ đề; câu so sánh nhiều sự kiện được hiện ở các nhóm liên quan. Bổ sung ngữ cảnh cho những câu không nêu tên sự kiện trong thân câu.
+- [x] Thêm trang **Học theo sự kiện**: tìm và lọc sự kiện, xem câu hỏi kèm nguồn file, tìm trong nhóm, hiện/ẩn toàn bộ đáp án, chọn để xem đúng sai và lời giải.
+- [x] Thêm luyện theo sự kiện: 20 câu phản hồi ngay, 40 câu nộp rồi chấm, hoặc toàn bộ câu trong nhóm. Giữ nguyên chế độ luyện theo file và thi tổng hợp.

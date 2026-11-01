@@ -8,11 +8,15 @@
 
 Tiến độ dùng localStorage trên từng trình duyệt, chưa đồng bộ giữa thiết bị. Bản Node.js dự phòng được mô tả bên dưới.
 
+Sau khi đăng nhập, chọn **Học theo sự kiện** để tìm Đại hội, Cương lĩnh, Hội nghị Trung ương hoặc mốc lịch sử. Mỗi sự kiện gom câu hỏi từ các file liên quan; có thể tìm trong nhóm, hiện toàn bộ đáp án, chọn phương án để xem đúng sai, hoặc làm bài 20/40 câu. Một câu có thể xuất hiện ở nhiều sự kiện khi nội dung liên quan cả hai.
+
 Nguồn GitHub công khai: https://github.com/huongtth511-rgb/lsd-on-thi. File HTML và câu hỏi trong repository có thể được mọi người xem. Nguồn Sites và GitHub là hai repository riêng; push GitHub không tự deploy Sites.
 
 ## Cập nhật bản Sites
 
 Giữ Site ID và cơ sở dữ liệu D1. Mã triển khai nằm tại `sites-app/`, HTML và màn hình đăng nhập gốc ở root. Chạy `node scripts/build-sites.mjs` để đưa các tệp vào checkout `sites-deploy/`; dùng workflow Sites để build, đóng gói và deploy commit chính xác. Không ghi secrets vào source hay Git. Các migration trong `sites-app/drizzle/` được lưu để theo dõi schema, tránh tạo lại hoặc sửa migration đã áp dụng.
+
+Danh mục sự kiện được quản lý trong `data/events.json`. Khi thay câu hỏi hoặc danh mục, chạy `node scripts/build-event-index.mjs` rồi `node scripts/sync-events.mjs` trước khi build Site.
 
 Các phần dưới mô tả **bản Node.js dự phòng**, không phải bản Sites đang chạy.
 

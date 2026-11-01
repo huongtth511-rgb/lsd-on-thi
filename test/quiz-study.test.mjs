@@ -11,7 +11,8 @@ function app() {
   const sandbox = { localStorage: { getItem: k => memory.get(k) || null, setItem: (k,v) => memory.set(k,v) }, Intl, Math, Date, console };
   createContext(sandbox);
   runInContext(scripts[0] + '\n' + logic + `\nglobalThis.api={
-    sets:()=>SETS, keyed:q=>getKey(q),
+    sets:()=>SETS, keyed:q=>getKey(q), events:()=>EVENT_GROUPS,
+    eventScreen:(id,show=false,search='')=>{currentEventId=id;showEventAnswers=show;eventQuestionQuery=search;return eventView()},
     preview:(set,show,search='')=>{showPreviewAnswers=show;qsearch=search;return {html:previewQuestions(set),count:previewCount(set)}},
     previewSelect:(id,letter)=>{previewSelections[id]=letter},
     previewReset:()=>{previewSelections={}},
@@ -162,4 +163,30 @@ test('new chapter 3 PDF includes all questions, highlighted keys and explanation
   assert.match(shown.html,/✓ Đáp án gợi ý/);
   assert.doesNotMatch(shown.html,/Chưa có giải thích được biên soạn/);
   assert.match(shown.html,/Cương lĩnh 2011 sửa thành/);
+});
+
+test('event page groups related questions across source files and keeps the two Đại hội VII distinct', () => {
+  const a=app(), events=a.events(), all=new Map(a.sets().flatMap(set=>set.questions.map(q=>[q.id,q])));
+  assert.equal(events.length,51);
+  for(const event of events){
+    assert.ok(event.ids.length>0,event.id);
+    assert.equal(new Set(event.ids).size,event.ids.length,event.id);
+    for(const id of event.ids) assert.ok(all.has(id),`${event.id}: ${id}`);
+  }
+  const get=id=>events.find(e=>e.id===id);
+  assert.ok(get('congress6').ids.includes('s10-i19'));
+  assert.ok(get('congress6').ids.includes('s5-i93'));
+  assert.ok(get('platform2011').ids.includes('s10-i143'));
+  assert.ok(get('tw5_1998').ids.includes('s10-i73'));
+  assert.ok(get('congress13').ids.includes('s10-i183'));
+  assert.ok(get('comintern7').ids.includes('s7-i95'));
+  assert.ok(!get('congress7').ids.includes('s7-i95'));
+  const closed=a.eventScreen('congress6',false);
+  assert.match(closed,/Học theo từng sự kiện|Luyện 20 câu/);
+  assert.match(closed,/s5-i93/);
+  assert.doesNotMatch(closed,/✓ Đáp án gợi ý/);
+  const shown=a.eventScreen('congress6',true);
+  assert.match(shown,/✓ Đáp án gợi ý/);
+  assert.match(shown,/Giải thích:/);
+  assert.match(shown,/30 câu|150 câu|Chương 3/);
 });
