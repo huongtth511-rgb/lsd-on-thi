@@ -182,7 +182,7 @@ test('event page groups related questions across source files and keeps the two 
   assert.ok(get('comintern7').ids.includes('s7-i95'));
   assert.ok(!get('congress7').ids.includes('s7-i95'));
   const closed=a.eventScreen('congress6',false);
-  assert.match(closed,/Học theo từng sự kiện|Luyện 20 câu/);
+  assert.match(closed,/Học theo từng sự kiện|Tối đa 20 câu/);
   assert.match(closed,/s5-i93/);
   assert.doesNotMatch(closed,/✓ Đáp án gợi ý/);
   const shown=a.eventScreen('congress6',true);
