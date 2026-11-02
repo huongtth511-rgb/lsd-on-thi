@@ -10,6 +10,8 @@ Tiến độ dùng localStorage trên từng trình duyệt, chưa đồng bộ 
 
 Sau khi đăng nhập, chọn **Học theo sự kiện** để tìm Đại hội, Cương lĩnh, Hội nghị Trung ương hoặc mốc lịch sử. Mỗi sự kiện gom câu hỏi từ các file liên quan; có thể tìm trong nhóm, hiện toàn bộ đáp án, chọn phương án để xem đúng sai, hoặc làm bài 20/40 câu. Một câu có thể xuất hiện ở nhiều sự kiện khi nội dung liên quan cả hai.
 
+Trong bộ **150 câu bắt buộc**, câu 1–45 dùng phương án tô đỏ trong file đáp án của thầy. File này không đánh dấu đáp án cho các câu còn lại và thiếu câu 105, nên web giữ khóa tham khảo trước đó cho câu 46–150. Ba câu tô đỏ khác giáo trình được ghi lưu ý ngay dưới câu hỏi.
+
 Nguồn GitHub công khai: https://github.com/huongtth511-rgb/lsd-on-thi. File HTML và câu hỏi trong repository có thể được mọi người xem. Nguồn Sites và GitHub là hai repository riêng; push GitHub không tự deploy Sites.
 
 ## Cập nhật bản Sites

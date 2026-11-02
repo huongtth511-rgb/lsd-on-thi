@@ -16,3 +16,5 @@ Trạng thái hiện tại của 710 câu ban đầu: cả 710 câu đều có g
 
 
 Bộ mới **Chương 3 – Nhận diện kiến thức cơ bản**: 232 câu trích từ PDF người dùng cung cấp; đáp án theo dấu tô vàng được người dùng xác nhận. Cả 232 câu đã có giải thích ngắn và được chấm theo đáp án tô vàng. Những câu mà cách diễn đạt của phương án khác giáo trình 2026 được chú thích ngay dưới câu. Tổng ngân hàng hiện có 942 câu, tất cả có đáp án và giải thích.
+
+Riêng bộ **150 câu bắt buộc**: file đáp án Word do người dùng gửi chỉ đánh dấu màu đỏ một phương án cho câu 1–45. Đã đối chiếu đủ 45 câu hỏi tương ứng, dùng đáp án tô đỏ để chấm và gắn nhãn nguồn trong ứng dụng. Ba câu số 4, 11, 23 có đánh dấu khác nội dung giáo trình 2026; lời giải nêu cả hai và khuyến nghị xác nhận lại với thầy. File Word thiếu câu 105 và không đánh dấu phương án cho 104 câu còn lại; các câu 46–150 vẫn dùng đáp án tham khảo trước đó, không được gắn nhãn đáp án của thầy.

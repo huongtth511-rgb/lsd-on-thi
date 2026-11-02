@@ -2383,188 +2383,276 @@
   },
   "s5-i2": {
     "explanation": "Về văn hóa – xã hội, Pháp thực hiện chính sách ngu dân và nô dịch để dễ cai trị.",
-    "book_pages": "40"
+    "book_pages": "40",
+    "answer": "C",
+    "teacher_marked": true
   },
   "s5-i3": {
     "explanation": "Nguyễn Ái Quốc xác định cách mạng thuộc địa gắn bó, hỗ trợ cách mạng vô sản chính quốc nhưng có thể thắng lợi trước.",
-    "book_pages": "54"
+    "book_pages": "54",
+    "answer": "D",
+    "teacher_marked": true
   },
   "s5-i4": {
-    "explanation": "Cương lĩnh đặt nhiệm vụ chống đế quốc, giành độc lập dân tộc lên hàng đầu, gắn với chống phong kiến.",
-    "book_pages": "64–65"
+    "explanation": "File đáp án của thầy tô đỏ B. Tuy nhiên, giáo trình 2026 (tr. 64–65) đặt chống đế quốc, giành độc lập dân tộc lên hàng đầu, tương ứng với A. Web chấm theo file thầy; nên hỏi lại thầy về điểm này.",
+    "book_pages": "64–65",
+    "answer": "B",
+    "teacher_marked": true,
+    "caution": true
   },
   "s5-i5": {
     "explanation": "Đảng ra đời năm 1930 đánh dấu giai cấp công nhân có đội tiên phong đủ khả năng lãnh đạo cách mạng.",
-    "book_pages": "67–68"
+    "book_pages": "67–68",
+    "answer": "D",
+    "teacher_marked": true
   },
   "s5-i7": {
     "explanation": "Đảng ra đời cùng Cương lĩnh chính trị năm 1930 chấm dứt khủng hoảng về đường lối và tổ chức lãnh đạo.",
-    "book_pages": "68–69"
+    "book_pages": "68–69",
+    "answer": "D",
+    "teacher_marked": true
   },
   "s5-i8": {
     "explanation": "Cương lĩnh chủ trương liên hệ với các dân tộc bị áp bức và giai cấp vô sản thế giới.",
-    "book_pages": "67"
+    "book_pages": "67",
+    "answer": "A",
+    "teacher_marked": true
   },
   "s5-i9": {
     "explanation": "Đảng thành lập năm 1930 mở ra đường lối giải phóng dân tộc; chế độ thuộc địa chưa chấm dứt ngay lúc đó.",
-    "book_pages": "68–69"
+    "book_pages": "68–69",
+    "answer": "A",
+    "teacher_marked": true
   },
   "s5-i10": {
     "explanation": "Luận cương 1930 nhấn mạnh mâu thuẫn giai cấp giữa lao động với địa chủ, tư bản và đế quốc, chưa nêu rõ mâu thuẫn dân tộc chủ yếu.",
-    "book_pages": "76–77"
+    "book_pages": "76–77",
+    "answer": "A",
+    "teacher_marked": true
   },
   "s5-i11": {
-    "explanation": "Hạn chế của Luận cương là chưa nhấn mạnh nhiệm vụ giải phóng dân tộc và chưa đề ra liên minh dân tộc rộng rãi.",
-    "book_pages": "77–78"
+    "explanation": "File đáp án của thầy tô đỏ C. Giáo trình 2026 (tr. 77–78) nêu hạn chế của Luận cương là chưa nhấn mạnh giải phóng dân tộc và liên minh rộng rãi, tương ứng với B. Web chấm theo file thầy; nên hỏi lại thầy về điểm này.",
+    "book_pages": "77–78",
+    "answer": "C",
+    "teacher_marked": true,
+    "caution": true
   },
   "s5-i12": {
     "explanation": "Luận cương xác định công nhân và nông dân là hai động lực chính của cách mạng tư sản dân quyền.",
-    "book_pages": "76"
+    "book_pages": "76",
+    "answer": "B",
+    "teacher_marked": true
   },
   "s5-i13": {
     "explanation": "Phong trào nông dân Yên Thế ở Bắc Giang gắn với sự lãnh đạo của Hoàng Hoa Thám.",
-    "book_pages": "45"
+    "book_pages": "45",
+    "answer": "C",
+    "teacher_marked": true
   },
   "s5-i14": {
     "explanation": "Đường cách mệnh tập hợp bài giảng ở Quảng Châu và được xuất bản tại đó năm 1927.",
-    "book_pages": "56–57"
+    "book_pages": "56–57",
+    "answer": "B",
+    "teacher_marked": true
   },
   "s5-i15": {
     "explanation": "Cương lĩnh nêu tự do tổ chức, nam nữ bình quyền và phổ thông giáo dục theo công nông hóa.",
-    "book_pages": "65"
+    "book_pages": "65",
+    "answer": "D",
+    "teacher_marked": true
   },
   "s5-i16": {
     "explanation": "Phương hướng chiến lược là tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
-    "book_pages": "64"
+    "book_pages": "64",
+    "answer": "A",
+    "teacher_marked": true
   },
   "s5-i17": {
     "explanation": "Cương lĩnh đầu tiên chủ trương tập hợp dân tộc rộng rãi; Luận cương 1930 đánh giá hạn chế hơn về khả năng của một số lực lượng.",
-    "book_pages": "66, 77–78"
+    "book_pages": "66, 77–78",
+    "answer": "B",
+    "teacher_marked": true
   },
   "s5-i18": {
     "explanation": "Luận cương chính trị tháng 10/1930 nhấn mạnh vấn đề thổ địa là cái cốt của cách mạng tư sản dân quyền.",
-    "book_pages": "76"
+    "book_pages": "76",
+    "answer": "C",
+    "teacher_marked": true
   },
   "s5-i19": {
     "explanation": "Hội nghị Trung ương 8 do Nguyễn Ái Quốc chủ trì quyết định thành lập Việt Minh năm 1941.",
-    "book_pages": "95–97"
+    "book_pages": "95–97",
+    "answer": "B",
+    "teacher_marked": true
   },
   "s5-i20": {
     "explanation": "Hội nghị Trung ương tháng 11/1939 đặt quyền lợi dân tộc lên tối cao và giải quyết vấn đề ruộng đất theo mục tiêu giải phóng dân tộc.",
-    "book_pages": "93"
+    "book_pages": "93",
+    "answer": "A",
+    "teacher_marked": true
   },
   "s5-i22": {
     "explanation": "Hội nghị Trung ương 8 xác định đoàn kết toàn dân chống Nhật, chống Pháp, giành độc lập; tạm hoãn cách mạng ruộng đất.",
-    "book_pages": "95"
+    "book_pages": "95",
+    "answer": "A",
+    "teacher_marked": true
   },
   "s5-i23": {
-    "explanation": "Hội nghị Trung ương 8 tháng 5/1941 chủ trương giải quyết vấn đề dân tộc trong khuôn khổ từng nước Đông Dương.",
-    "book_pages": "96–97"
+    "explanation": "File đáp án của thầy tô đỏ C. Giáo trình 2026 (tr. 96–97) gắn việc giải quyết vấn đề dân tộc trong từng nước Đông Dương với Trung ương 8 tháng 5/1941, tương ứng với A. Web chấm theo file thầy; nên hỏi lại thầy về điểm này.",
+    "book_pages": "96–97",
+    "answer": "C",
+    "teacher_marked": true,
+    "caution": true
   },
   "s5-i24": {
     "explanation": "Nguyễn Ái Quốc ví Đảng cách mệnh vững như người cầm lái vững, có thể vận động và tổ chức dân chúng.",
-    "book_pages": "55"
+    "book_pages": "55",
+    "answer": "C",
+    "teacher_marked": true
   },
   "s5-i25": {
     "explanation": "Phong trào vô sản hóa giúp truyền bá tư tưởng vô sản, rèn luyện cán bộ và phát triển tổ chức công nhân.",
-    "book_pages": "55"
+    "book_pages": "55",
+    "answer": "D",
+    "teacher_marked": true
   },
   "s5-i26": {
     "explanation": "Hội nghị Trung ương 8 năm 1941 quyết định thành lập Mặt trận Việt Minh để đoàn kết lực lượng cứu nước.",
-    "book_pages": "95–97"
+    "book_pages": "95–97",
+    "answer": "B",
+    "teacher_marked": true
   },
   "s5-i27": {
     "explanation": "Sau cuộc đảo chính ngày 9/3/1945, Ban Thường vụ Trung ương ban hành Chỉ thị Nhật – Pháp bắn nhau và hành động của chúng ta ngày 12/3.",
-    "book_pages": "105–106"
+    "book_pages": "105–106",
+    "answer": "A",
+    "teacher_marked": true
   },
   "s5-i28": {
     "explanation": "Cao trào kháng Nhật cứu nước kết hợp chiến tranh du kích cục bộ và khởi nghĩa từng phần ở nơi có điều kiện.",
-    "book_pages": "106–109"
+    "book_pages": "106–109",
+    "answer": "D",
+    "teacher_marked": true
   },
   "s5-i29": {
     "explanation": "Khẩu hiệu đoàn kết toàn dân, chống Nhật – Pháp và hoãn cách mạng ruộng đất gắn với Hội nghị Trung ương 8 tháng 5/1941.",
-    "book_pages": "95"
+    "book_pages": "95",
+    "answer": "D",
+    "teacher_marked": true
   },
   "s5-i30": {
     "explanation": "Hội Việt Nam Cách mạng Thanh niên là tổ chức tiền thân quan trọng chuẩn bị cho sự ra đời của Đảng.",
-    "book_pages": "58"
+    "book_pages": "58",
+    "answer": "A",
+    "teacher_marked": true
   },
   "s5-i31": {
     "explanation": "Sau Đại hội quốc dân Tân Trào, Hồ Chí Minh kêu gọi đồng bào đứng lên tự giải phóng trong Tổng khởi nghĩa Tháng Tám.",
-    "book_pages": "112–113"
+    "book_pages": "112–113",
+    "answer": "B",
+    "teacher_marked": true
   },
   "s5-i32": {
     "explanation": "Sự thất bại của các phong trào cũ đặt ra yêu cầu tìm đường lối và tổ chức lãnh đạo phù hợp với nguyện vọng độc lập của dân tộc.",
-    "book_pages": "47–49"
+    "book_pages": "47–49",
+    "answer": "C",
+    "teacher_marked": true
   },
   "s5-i33": {
     "explanation": "Chỉ thị 12/3/1945 thay khẩu hiệu đánh đuổi Nhật – Pháp bằng đánh đuổi phát xít Nhật.",
-    "book_pages": "106"
+    "book_pages": "106",
+    "answer": "B",
+    "teacher_marked": true
   },
   "s5-i34": {
     "explanation": "Giáo trình xác định Cách mạng Tháng Tám là cách mạng giải phóng dân tộc mang tính chất dân chủ mới.",
-    "book_pages": "119"
+    "book_pages": "119",
+    "answer": "C",
+    "teacher_marked": true
   },
   "s5-i35": {
     "explanation": "Hồ Chí Minh nhận định về thắng lợi của Cách mạng Tháng Tám năm 1945, khi Đảng mới 15 tuổi.",
-    "book_pages": "121"
+    "book_pages": "121",
+    "answer": "D",
+    "teacher_marked": true
   },
   "s5-i37": {
     "explanation": "Cương lĩnh 1930 nêu nhiệm vụ giành độc lập và phương pháp bạo lực cách mạng; chuẩn bị khởi nghĩa vũ trang làm nhiệm vụ trung tâm là chủ trương năm 1941.",
-    "book_pages": "64–66, 97"
+    "book_pages": "64–66, 97",
+    "answer": "B",
+    "teacher_marked": true
   },
   "s5-i38": {
     "explanation": "Luận cương Trần Phú xác định vô sản và nông dân là hai động lực chính.",
-    "book_pages": "76"
+    "book_pages": "76",
+    "answer": "A",
+    "teacher_marked": true
   },
   "s5-i39": {
     "explanation": "Hội nghị thành lập Đảng đầu năm 1930 thống nhất tên Đảng Cộng sản Việt Nam.",
-    "book_pages": "62"
+    "book_pages": "62",
+    "answer": "A",
+    "teacher_marked": true
   },
   "s5-i40": {
     "explanation": "Chủ trương tập hợp rộng rãi các giai cấp, tầng lớp yêu nước thể hiện truyền thống đoàn kết dân tộc.",
-    "book_pages": "66"
+    "book_pages": "66",
+    "answer": "B",
+    "teacher_marked": true
   },
   "s5-i41": {
     "explanation": "Nguyễn Ái Quốc chuẩn bị về tư tưởng, chính trị và tổ chức cho sự ra đời của Đảng.",
-    "book_pages": "52–58"
+    "book_pages": "52–58",
+    "answer": "B",
+    "teacher_marked": true
   },
   "s5-i42": {
     "explanation": "Đảng ra đời từ sự kết hợp chủ nghĩa Mác – Lênin, phong trào công nhân và phong trào yêu nước Việt Nam.",
-    "book_pages": "68–69"
+    "book_pages": "68–69",
+    "answer": "A",
+    "teacher_marked": true
   },
   "s5-i43": {
     "explanation": "Đường cách mệnh được xuất bản năm 1927 từ các bài giảng của Nguyễn Ái Quốc tại Quảng Châu.",
-    "book_pages": "57"
+    "book_pages": "57",
+    "answer": "C",
+    "teacher_marked": true
   },
   "s5-i45": {
     "explanation": "Cương lĩnh nêu phương hướng tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
-    "book_pages": "64"
+    "book_pages": "64",
+    "answer": "A",
+    "teacher_marked": true
   },
   "s5-i1": {
     "explanation": "Sự chuyển từ chủ nghĩa tư bản cạnh tranh sang độc quyền hình thành bối cảnh đế quốc xâm lược thuộc địa cuối thế kỷ XIX, đầu thế kỷ XX.",
     "book_pages": "36–37, 43, 50",
-    "answer": "D"
+    "answer": "D",
+    "teacher_marked": true
   },
   "s5-i6": {
     "explanation": "Ý nghĩa nổi bật của Đảng ra đời là chấm dứt khủng hoảng về đường lối cứu nước và tổ chức lãnh đạo; A cũng mô tả bước phát triển mới về chất.",
     "book_pages": "68–69",
-    "answer": "C"
+    "answer": "C",
+    "teacher_marked": true
   },
   "s5-i21": {
     "explanation": "Hội nghị Trung ương 6 tháng 11/1939 khởi đầu việc đặt giải phóng dân tộc lên trước và tạm gác khẩu hiệu cách mạng ruộng đất; Hội nghị 8 tiếp tục phát triển chủ trương.",
     "book_pages": "93, 96",
-    "answer": "B"
+    "answer": "B",
+    "teacher_marked": true
   },
   "s5-i36": {
     "explanation": "Luận cương 10/1930 xác định cách mạng tư sản dân quyền tiến lên xã hội chủ nghĩa, bỏ qua thời kỳ tư bản; D cũng gần nội dung nhiệm vụ nên đề chưa thật chặt.",
     "book_pages": "76",
-    "answer": "C"
+    "answer": "C",
+    "teacher_marked": true
   },
   "s5-i44": {
     "explanation": "Ba nhóm việc về sở hữu tư liệu lớn, ruộng đất và sản xuất – đời sống đều nằm trong phương diện kinh tế của Cương lĩnh; vài cụm từ trong đề là diễn đạt lại.",
     "book_pages": "65",
-    "answer": "D"
+    "answer": "D",
+    "teacher_marked": true
   },
   "s5-i46": {
     "explanation": "Sau chiến tranh, Liên Xô lớn mạnh là thuận lợi quốc tế; các lựa chọn còn lại là thuận lợi trong nước.",

@@ -3,11 +3,12 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { createContext, runInContext } from 'node:vm';
 
-function app() {
+function app(initialProfile) {
   const html = readFileSync(new URL('../lich_su_dang_on_thi_tuong_tac_2026.html', import.meta.url), 'utf8');
   const scripts = [...html.matchAll(/<script\b[^>]*>([\s\S]*?)<\/script>/gi)].map(x => x[1]);
   const logic = scripts[1].split("$$('.navbtn').forEach(b=>b.onclick")[0];
   const memory = new Map();
+  if(initialProfile) memory.set('lsd2026_profile',JSON.stringify(initialProfile));
   const sandbox = { localStorage: { getItem: k => memory.get(k) || null, setItem: (k,v) => memory.set(k,v) }, Intl, Math, Date, console };
   createContext(sandbox);
   runInContext(scripts[0] + '\n' + logic + `\nglobalThis.api={
@@ -163,6 +164,28 @@ test('new chapter 3 PDF includes all questions, highlighted keys and explanation
   assert.match(shown.html,/✓ Đáp án gợi ý/);
   assert.doesNotMatch(shown.html,/Chưa có giải thích được biên soạn/);
   assert.match(shown.html,/Cương lĩnh 2011 sửa thành/);
+});
+
+test('teacher Word markings control questions 1–45 of the 150-question set and disclose three textbook conflicts', () => {
+  const a=app(),set=a.sets().find(s=>s.id==='s5'),source=JSON.parse(readFileSync(new URL('../data/teacher-150-marked.json',import.meta.url),'utf8'));
+  assert.equal(source.marked_answer_count,45);
+  assert.equal(source.unmarked_question_count,104);
+  assert.deepEqual(source.missing_question_numbers,[105]);
+  for(let i=1;i<=45;i++){
+    const q=set.questions[i-1];
+    assert.equal(a.keyed(q),source.marked_answers[i],`teacher key for ${i}`);
+    assert.equal(q.answer,source.marked_answers[i],`embedded key for ${i}`);
+    assert.equal(a.notes()[q.id].teacher_marked,true,`source tag for ${i}`);
+  }
+  for(let i=46;i<=150;i++)assert.ok(!a.notes()[set.questions[i-1].id]?.teacher_marked);
+  assert.deepEqual([4,11,23].map(i=>a.keyed(set.questions[i-1])),['B','C','C']);
+  for(const i of [4,11,23]){
+    const q=set.questions[i-1];
+    assert.equal(a.notes()[q.id].caution,true);
+    assert.match(a.preview({questions:[q]},true).html,/Lưu ý:.*Giáo trình|Lưu ý:.*giáo trình/);
+  }
+  const stale=app({history:[],wrong:{},stars:[],override:{'s5-i4':'A'}});
+  assert.equal(stale.keyed(stale.sets().find(s=>s.id==='s5').questions[3]),'B');
 });
 
 test('event page groups related questions across source files and keeps the two Đại hội VII distinct', () => {

@@ -142,3 +142,10 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - [x] Gắn 585 câu liên quan từ 10 bộ đề; câu so sánh nhiều sự kiện được hiện ở các nhóm liên quan. Bổ sung ngữ cảnh cho những câu không nêu tên sự kiện trong thân câu.
 - [x] Thêm trang **Học theo sự kiện**: tìm và lọc sự kiện, xem câu hỏi kèm nguồn file, tìm trong nhóm, hiện/ẩn toàn bộ đáp án, chọn để xem đúng sai và lời giải.
 - [x] Thêm luyện theo sự kiện: 20 câu phản hồi ngay, 40 câu nộp rồi chấm, hoặc toàn bộ câu trong nhóm. Giữ nguyên chế độ luyện theo file và thi tổng hợp.
+
+## Đối chiếu file đáp án 150 câu của thầy — 02/11/2026
+
+- [x] Đọc phần đánh dấu màu đỏ trong Word và khớp nguyên văn câu 1–45 với bộ `s5` trên web. File có 149 câu, thiếu câu số 105; 104 câu có trong file nhưng không tô đỏ phương án nào.
+- [x] Gắn nguồn và dùng 45 khóa tô đỏ cho câu 1–45. Ba khóa đổi so với web trước đó: câu 4 A→B, câu 11 B→C, câu 23 A→C.
+- [x] Cả ba khóa đổi khác nội dung giáo trình 2026; giữ khóa của file thầy để luyện theo yêu cầu và hiện lưu ý đối chiếu ngay dưới từng câu. Câu 46–150 giữ đáp án tham khảo cũ do Word không đánh dấu.
+- [x] Khi mở web lần đầu sau cập nhật, xóa các khóa người học từng tự sửa ở câu 1–45 để khóa mới có hiệu lực; các lần sửa tiếp theo vẫn được phép.
