@@ -149,3 +149,10 @@ Cập nhật: 30/10/2026. Người dùng yêu cầu chuyển sang hosting khác,
 - [x] Gắn nguồn và dùng 45 khóa tô đỏ cho câu 1–45. Ba khóa đổi so với web trước đó: câu 4 A→B, câu 11 B→C, câu 23 A→C.
 - [x] Cả ba khóa đổi khác nội dung giáo trình 2026; giữ khóa của file thầy để luyện theo yêu cầu và hiện lưu ý đối chiếu ngay dưới từng câu. Câu 46–150 giữ đáp án tham khảo cũ do Word không đánh dấu.
 - [x] Khi mở web lần đầu sau cập nhật, xóa các khóa người học từng tự sửa ở câu 1–45 để khóa mới có hiệu lực; các lần sửa tiếp theo vẫn được phép.
+
+## Đối chiếu PDF tô vàng đủ 150 câu — 03/11/2026
+
+- [x] Đọc 25 trang PDF bổ sung, xác nhận đủ câu 1–150, mỗi câu có đúng một phương án tô vàng.
+- [x] Thay toàn bộ khóa của bộ `s5` bằng 150 phương án tô vàng, gồm cả câu 105 trước đây thiếu trong file Word. Bảy câu đổi khóa so với web trước: 4 B→A, 11 C→B, 18 C→A, 23 C→A, 99 D→A, 102 D→C, 108 B→C.
+- [x] Cập nhật lời giải và gắn nhãn nguồn PDF. Ghi lưu ý tại câu 18, 99, 108 vì dấu tô vàng chưa khớp nội dung câu hỏi hoặc giáo trình.
+- [x] Khi người học mở bản mới, xóa các khóa tự sửa cũ trong bộ 150 câu một lần để đáp án PDF có hiệu lực; giữ quyền sửa về sau.

@@ -113,7 +113,7 @@ test('ordinary 40-question exam keeps answers hidden until grading, including ol
 });
 
 
-test('textbook citations appear and disputed questions use the closest choice', () => {
+test('textbook citations appear and other sets retain reviewed choices', () => {
   const a=app(), all=a.sets().flatMap(s=>s.questions), byId=new Map(all.map(q=>[q.id,q]));
   assert.equal(a.keyed(byId.get('s1-i20')),'D');
   assert.equal(a.keyed(byId.get('s3-i75')),'B');
@@ -129,7 +129,7 @@ test('textbook citations appear and disputed questions use the closest choice', 
   assert.equal(a.keyed(byId.get('s8-i55')),'B');
   assert.equal(a.keyed(byId.get('s8-i62')),'B');
   assert.equal(a.keyed(byId.get('s5-i49')),'A');
-  assert.equal(a.keyed(byId.get('s5-i108')),'B');
+  assert.equal(a.keyed(byId.get('s5-i108')),'C');
   assert.equal(a.keyed(byId.get('s5-i132')),'A');
   assert.equal(a.keyed(byId.get('s9-i63')),'C');
   assert.equal(a.keyed(byId.get('s3-i69')),'B');
@@ -166,26 +166,24 @@ test('new chapter 3 PDF includes all questions, highlighted keys and explanation
   assert.match(shown.html,/Cương lĩnh 2011 sửa thành/);
 });
 
-test('teacher Word markings control questions 1–45 of the 150-question set and disclose three textbook conflicts', () => {
-  const a=app(),set=a.sets().find(s=>s.id==='s5'),source=JSON.parse(readFileSync(new URL('../data/teacher-150-marked.json',import.meta.url),'utf8'));
-  assert.equal(source.marked_answer_count,45);
-  assert.equal(source.unmarked_question_count,104);
-  assert.deepEqual(source.missing_question_numbers,[105]);
-  for(let i=1;i<=45;i++){
+test('new PDF highlights control all 150 questions and disclose three source conflicts', () => {
+  const a=app(),set=a.sets().find(s=>s.id==='s5'),source=JSON.parse(readFileSync(new URL('../data/teacher-150-yellow.json',import.meta.url),'utf8'));
+  assert.equal(source.question_count,150);
+  assert.equal(Object.keys(source.highlighted_answers).length,150);
+  for(let i=1;i<=150;i++){
     const q=set.questions[i-1];
-    assert.equal(a.keyed(q),source.marked_answers[i],`teacher key for ${i}`);
-    assert.equal(q.answer,source.marked_answers[i],`embedded key for ${i}`);
-    assert.equal(a.notes()[q.id].teacher_marked,true,`source tag for ${i}`);
+    assert.equal(a.keyed(q),source.highlighted_answers[i],`PDF key for ${i}`);
+    assert.equal(q.answer,source.highlighted_answers[i],`embedded key for ${i}`);
+    assert.equal(a.notes()[q.id].pdf_highlighted,true,`source tag for ${i}`);
   }
-  for(let i=46;i<=150;i++)assert.ok(!a.notes()[set.questions[i-1].id]?.teacher_marked);
-  assert.deepEqual([4,11,23].map(i=>a.keyed(set.questions[i-1])),['B','C','C']);
-  for(const i of [4,11,23]){
+  assert.deepEqual([4,11,23,105].map(i=>a.keyed(set.questions[i-1])),['A','B','A','C']);
+  for(const i of [18,99,108]){
     const q=set.questions[i-1];
     assert.equal(a.notes()[q.id].caution,true);
-    assert.match(a.preview({questions:[q]},true).html,/Lưu ý:.*Giáo trình|Lưu ý:.*giáo trình/);
+    assert.match(a.preview({questions:[q]},true).html,/Lưu ý:.*PDF mới tô vàng/);
   }
-  const stale=app({history:[],wrong:{},stars:[],override:{'s5-i4':'A'}});
-  assert.equal(stale.keyed(stale.sets().find(s=>s.id==='s5').questions[3]),'B');
+  const stale=app({history:[],wrong:{},stars:[],override:{'s5-i4':'B'}});
+  assert.equal(stale.keyed(stale.sets().find(s=>s.id==='s5').questions[3]),'A');
 });
 
 test('event page groups related questions across source files and keeps the two Đại hội VII distinct', () => {

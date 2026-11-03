@@ -635,40 +635,49 @@
   },
   "s5-i56": {
     "answer": "C",
-    "explanation": "Trong kháng chiến toàn diện, đấu tranh quân sự có vai trò quyết định trực tiếp trên chiến trường; các mặt trận khác phối hợp hỗ trợ."
+    "explanation": "Trong kháng chiến toàn diện, đấu tranh quân sự có vai trò quyết định trực tiếp trên chiến trường; các mặt trận khác phối hợp hỗ trợ.",
+    "pdf_highlighted": true
   },
   "s5-i59": {
     "explanation": "Trận mở màn đánh cứ điểm Him Lam trong tập đoàn cứ điểm Điện Biên Phủ; Mường Thanh là địa danh cùng khu vực và là lựa chọn gần nhất, không phải tên cứ điểm mở màn.",
     "source": "https://www.qdnd.vn/quoc-phong-an-ninh/xay-dung-quan-doi/chien-dich-dien-bien-phu-13-3-1954-7-5-1954-438238",
-    "answer": "C"
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i63": {
     "answer": "C",
-    "explanation": "Sau Hiệp định Giơnevơ, miền Bắc được giải phóng và trở thành hậu phương; hệ thống xã hội chủ nghĩa và phong trào giải phóng dân tộc tiếp tục phát triển."
+    "explanation": "Sau Hiệp định Giơnevơ, miền Bắc được giải phóng và trở thành hậu phương; hệ thống xã hội chủ nghĩa và phong trào giải phóng dân tộc tiếp tục phát triển.",
+    "pdf_highlighted": true
   },
   "s5-i67": {
     "answer": "D",
-    "explanation": "Thứ tự là Việt Bắc 1947, Biên giới 1950 và Điện Biên Phủ 1954: 2–1–3."
+    "explanation": "Thứ tự là Việt Bắc 1947, Biên giới 1950 và Điện Biên Phủ 1954: 2–1–3.",
+    "pdf_highlighted": true
   },
   "s5-i96": {
     "answer": "A",
-    "explanation": "Đại hội VI tập trung ba chương trình kinh tế lớn: lương thực–thực phẩm, hàng tiêu dùng và hàng xuất khẩu."
+    "explanation": "Đại hội VI tập trung ba chương trình kinh tế lớn: lương thực–thực phẩm, hàng tiêu dùng và hàng xuất khẩu.",
+    "pdf_highlighted": true
   },
   "s5-i101": {
     "answer": "C",
-    "explanation": "Cương lĩnh 1991 nêu nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và công hữu về tư liệu sản xuất chủ yếu."
+    "explanation": "Cương lĩnh 1991 nêu nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và công hữu về tư liệu sản xuất chủ yếu.",
+    "pdf_highlighted": true
   },
   "s5-i121": {
     "answer": "D",
-    "explanation": "Cương lĩnh bổ sung năm 2011 nêu lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ phù hợp."
+    "explanation": "Cương lĩnh bổ sung năm 2011 nêu lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ phù hợp.",
+    "pdf_highlighted": true
   },
   "s5-i138": {
     "answer": "B",
-    "explanation": "Quan điểm nêu đầy đủ lợi ích quốc gia–dân tộc, nguyên tắc Hiến chương Liên hợp quốc và luật pháp quốc tế, bình đẳng, hợp tác cùng có lợi."
+    "explanation": "Quan điểm nêu đầy đủ lợi ích quốc gia–dân tộc, nguyên tắc Hiến chương Liên hợp quốc và luật pháp quốc tế, bình đẳng, hợp tác cùng có lợi.",
+    "pdf_highlighted": true
   },
   "s5-i140": {
     "answer": "B",
-    "explanation": "Trật tự cần điền là bình đẳng, hợp tác cùng có lợi."
+    "explanation": "Trật tự cần điền là bình đẳng, hợp tác cùng có lợi.",
+    "pdf_highlighted": true
   },
   "s7-i72": {
     "answer": "C",
@@ -794,7 +803,8 @@
   "s5-i85": {
     "explanation": "Mục tiêu chiến lược hướng tới “hòa bình, thống nhất” nước nhà; hai từ phải đặt theo thứ tự này.",
     "book_pages": "206–207",
-    "answer": "B"
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s4-i23": {
     "answer": "D",
@@ -854,7 +864,8 @@
     "explanation": "Hiệp định Paris nhấn mạnh quyền tự quyết của nhân dân miền Nam qua tổng tuyển cử tự do; nhiều nguyên tắc độc lập, thống nhất cũng có trong Genève.",
     "book_pages": "228–229",
     "source": "https://vanban.chinhphu.vn/giai-doan-1955-1975-xay-dung-cnxh-va-dau-tranh-thong-nhat-dat-nuoc/5-hoi-nghi-pari-ve-viet-nam-cuoc-dam-phan-hoa-binh-gay-go-nhat-the-ky-xx-10001595",
-    "answer": "C"
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s4-i18": {
     "answer": "C",
@@ -869,7 +880,8 @@
   "s5-i98": {
     "answer": "D",
     "explanation": "Đại hội VI chủ trương tăng cường quan hệ với Liên Xô và các nước Đông Dương, đồng thời bình thường hóa quan hệ với Trung Quốc.",
-    "book_pages": "264"
+    "book_pages": "264",
+    "pdf_highlighted": true
   },
   "s4-i50": {
     "explanation": "Ba biến động nền tảng của bối cảnh thế giới là chủ nghĩa đế quốc, Cách mạng Tháng Mười và Quốc tế Cộng sản; các phương án khác liệt kê thêm những sự kiện khác nhưng thiếu một mắt xích này.",
@@ -2385,663 +2397,835 @@
     "explanation": "Về văn hóa – xã hội, Pháp thực hiện chính sách ngu dân và nô dịch để dễ cai trị.",
     "book_pages": "40",
     "answer": "C",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i3": {
     "explanation": "Nguyễn Ái Quốc xác định cách mạng thuộc địa gắn bó, hỗ trợ cách mạng vô sản chính quốc nhưng có thể thắng lợi trước.",
     "book_pages": "54",
     "answer": "D",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i4": {
-    "explanation": "File đáp án của thầy tô đỏ B. Tuy nhiên, giáo trình 2026 (tr. 64–65) đặt chống đế quốc, giành độc lập dân tộc lên hàng đầu, tương ứng với A. Web chấm theo file thầy; nên hỏi lại thầy về điểm này.",
+    "explanation": "Cương lĩnh đầu tiên đặt nhiệm vụ chống đế quốc, giành độc lập dân tộc lên hàng đầu, đồng thời chống phong kiến.",
     "book_pages": "64–65",
-    "answer": "B",
-    "teacher_marked": true,
-    "caution": true
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i5": {
     "explanation": "Đảng ra đời năm 1930 đánh dấu giai cấp công nhân có đội tiên phong đủ khả năng lãnh đạo cách mạng.",
     "book_pages": "67–68",
     "answer": "D",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i7": {
     "explanation": "Đảng ra đời cùng Cương lĩnh chính trị năm 1930 chấm dứt khủng hoảng về đường lối và tổ chức lãnh đạo.",
     "book_pages": "68–69",
     "answer": "D",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i8": {
     "explanation": "Cương lĩnh chủ trương liên hệ với các dân tộc bị áp bức và giai cấp vô sản thế giới.",
     "book_pages": "67",
     "answer": "A",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i9": {
     "explanation": "Đảng thành lập năm 1930 mở ra đường lối giải phóng dân tộc; chế độ thuộc địa chưa chấm dứt ngay lúc đó.",
     "book_pages": "68–69",
     "answer": "A",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i10": {
     "explanation": "Luận cương 1930 nhấn mạnh mâu thuẫn giai cấp giữa lao động với địa chủ, tư bản và đế quốc, chưa nêu rõ mâu thuẫn dân tộc chủ yếu.",
     "book_pages": "76–77",
     "answer": "A",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i11": {
-    "explanation": "File đáp án của thầy tô đỏ C. Giáo trình 2026 (tr. 77–78) nêu hạn chế của Luận cương là chưa nhấn mạnh giải phóng dân tộc và liên minh rộng rãi, tương ứng với B. Web chấm theo file thầy; nên hỏi lại thầy về điểm này.",
+    "explanation": "Luận cương tháng 10/1930 chưa đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và đánh giá chưa đúng khả năng đoàn kết các lực lượng yêu nước.",
     "book_pages": "77–78",
-    "answer": "C",
-    "teacher_marked": true,
-    "caution": true
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i12": {
     "explanation": "Luận cương xác định công nhân và nông dân là hai động lực chính của cách mạng tư sản dân quyền.",
     "book_pages": "76",
     "answer": "B",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i13": {
     "explanation": "Phong trào nông dân Yên Thế ở Bắc Giang gắn với sự lãnh đạo của Hoàng Hoa Thám.",
     "book_pages": "45",
     "answer": "C",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i14": {
     "explanation": "Đường cách mệnh tập hợp bài giảng ở Quảng Châu và được xuất bản tại đó năm 1927.",
     "book_pages": "56–57",
     "answer": "B",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i15": {
     "explanation": "Cương lĩnh nêu tự do tổ chức, nam nữ bình quyền và phổ thông giáo dục theo công nông hóa.",
     "book_pages": "65",
     "answer": "D",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i16": {
     "explanation": "Phương hướng chiến lược là tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
     "book_pages": "64",
     "answer": "A",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i17": {
     "explanation": "Cương lĩnh đầu tiên chủ trương tập hợp dân tộc rộng rãi; Luận cương 1930 đánh giá hạn chế hơn về khả năng của một số lực lượng.",
     "book_pages": "66, 77–78",
     "answer": "B",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i18": {
-    "explanation": "Luận cương chính trị tháng 10/1930 nhấn mạnh vấn đề thổ địa là cái cốt của cách mạng tư sản dân quyền.",
+    "explanation": "PDF mới tô vàng A, nhưng mệnh đề “vấn đề thổ địa là cái cốt của cách mạng tư sản dân quyền” thuộc Luận cương chính trị tháng 10/1930 (C). Web chấm A theo đúng dấu tô vàng; nên kiểm tra lại với giảng viên.",
     "book_pages": "76",
-    "answer": "C",
-    "teacher_marked": true
+    "answer": "A",
+    "pdf_highlighted": true,
+    "caution": true
   },
   "s5-i19": {
     "explanation": "Hội nghị Trung ương 8 do Nguyễn Ái Quốc chủ trì quyết định thành lập Việt Minh năm 1941.",
     "book_pages": "95–97",
     "answer": "B",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i20": {
     "explanation": "Hội nghị Trung ương tháng 11/1939 đặt quyền lợi dân tộc lên tối cao và giải quyết vấn đề ruộng đất theo mục tiêu giải phóng dân tộc.",
     "book_pages": "93",
     "answer": "A",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i22": {
     "explanation": "Hội nghị Trung ương 8 xác định đoàn kết toàn dân chống Nhật, chống Pháp, giành độc lập; tạm hoãn cách mạng ruộng đất.",
     "book_pages": "95",
     "answer": "A",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i23": {
-    "explanation": "File đáp án của thầy tô đỏ C. Giáo trình 2026 (tr. 96–97) gắn việc giải quyết vấn đề dân tộc trong từng nước Đông Dương với Trung ương 8 tháng 5/1941, tương ứng với A. Web chấm theo file thầy; nên hỏi lại thầy về điểm này.",
+    "explanation": "Hội nghị Trung ương 8 (5/1941) quyết định giải quyết vấn đề dân tộc trong khuôn khổ từng nước Đông Dương.",
     "book_pages": "96–97",
-    "answer": "C",
-    "teacher_marked": true,
-    "caution": true
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i24": {
     "explanation": "Nguyễn Ái Quốc ví Đảng cách mệnh vững như người cầm lái vững, có thể vận động và tổ chức dân chúng.",
     "book_pages": "55",
     "answer": "C",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i25": {
     "explanation": "Phong trào vô sản hóa giúp truyền bá tư tưởng vô sản, rèn luyện cán bộ và phát triển tổ chức công nhân.",
     "book_pages": "55",
     "answer": "D",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i26": {
     "explanation": "Hội nghị Trung ương 8 năm 1941 quyết định thành lập Mặt trận Việt Minh để đoàn kết lực lượng cứu nước.",
     "book_pages": "95–97",
     "answer": "B",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i27": {
     "explanation": "Sau cuộc đảo chính ngày 9/3/1945, Ban Thường vụ Trung ương ban hành Chỉ thị Nhật – Pháp bắn nhau và hành động của chúng ta ngày 12/3.",
     "book_pages": "105–106",
     "answer": "A",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i28": {
     "explanation": "Cao trào kháng Nhật cứu nước kết hợp chiến tranh du kích cục bộ và khởi nghĩa từng phần ở nơi có điều kiện.",
     "book_pages": "106–109",
     "answer": "D",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i29": {
     "explanation": "Khẩu hiệu đoàn kết toàn dân, chống Nhật – Pháp và hoãn cách mạng ruộng đất gắn với Hội nghị Trung ương 8 tháng 5/1941.",
     "book_pages": "95",
     "answer": "D",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i30": {
     "explanation": "Hội Việt Nam Cách mạng Thanh niên là tổ chức tiền thân quan trọng chuẩn bị cho sự ra đời của Đảng.",
     "book_pages": "58",
     "answer": "A",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i31": {
     "explanation": "Sau Đại hội quốc dân Tân Trào, Hồ Chí Minh kêu gọi đồng bào đứng lên tự giải phóng trong Tổng khởi nghĩa Tháng Tám.",
     "book_pages": "112–113",
     "answer": "B",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i32": {
     "explanation": "Sự thất bại của các phong trào cũ đặt ra yêu cầu tìm đường lối và tổ chức lãnh đạo phù hợp với nguyện vọng độc lập của dân tộc.",
     "book_pages": "47–49",
     "answer": "C",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i33": {
     "explanation": "Chỉ thị 12/3/1945 thay khẩu hiệu đánh đuổi Nhật – Pháp bằng đánh đuổi phát xít Nhật.",
     "book_pages": "106",
     "answer": "B",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i34": {
     "explanation": "Giáo trình xác định Cách mạng Tháng Tám là cách mạng giải phóng dân tộc mang tính chất dân chủ mới.",
     "book_pages": "119",
     "answer": "C",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i35": {
     "explanation": "Hồ Chí Minh nhận định về thắng lợi của Cách mạng Tháng Tám năm 1945, khi Đảng mới 15 tuổi.",
     "book_pages": "121",
     "answer": "D",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i37": {
     "explanation": "Cương lĩnh 1930 nêu nhiệm vụ giành độc lập và phương pháp bạo lực cách mạng; chuẩn bị khởi nghĩa vũ trang làm nhiệm vụ trung tâm là chủ trương năm 1941.",
     "book_pages": "64–66, 97",
     "answer": "B",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i38": {
     "explanation": "Luận cương Trần Phú xác định vô sản và nông dân là hai động lực chính.",
     "book_pages": "76",
     "answer": "A",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i39": {
     "explanation": "Hội nghị thành lập Đảng đầu năm 1930 thống nhất tên Đảng Cộng sản Việt Nam.",
     "book_pages": "62",
     "answer": "A",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i40": {
     "explanation": "Chủ trương tập hợp rộng rãi các giai cấp, tầng lớp yêu nước thể hiện truyền thống đoàn kết dân tộc.",
     "book_pages": "66",
     "answer": "B",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i41": {
     "explanation": "Nguyễn Ái Quốc chuẩn bị về tư tưởng, chính trị và tổ chức cho sự ra đời của Đảng.",
     "book_pages": "52–58",
     "answer": "B",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i42": {
     "explanation": "Đảng ra đời từ sự kết hợp chủ nghĩa Mác – Lênin, phong trào công nhân và phong trào yêu nước Việt Nam.",
     "book_pages": "68–69",
     "answer": "A",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i43": {
     "explanation": "Đường cách mệnh được xuất bản năm 1927 từ các bài giảng của Nguyễn Ái Quốc tại Quảng Châu.",
     "book_pages": "57",
     "answer": "C",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i45": {
     "explanation": "Cương lĩnh nêu phương hướng tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
     "book_pages": "64",
     "answer": "A",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i1": {
     "explanation": "Sự chuyển từ chủ nghĩa tư bản cạnh tranh sang độc quyền hình thành bối cảnh đế quốc xâm lược thuộc địa cuối thế kỷ XIX, đầu thế kỷ XX.",
     "book_pages": "36–37, 43, 50",
     "answer": "D",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i6": {
     "explanation": "Ý nghĩa nổi bật của Đảng ra đời là chấm dứt khủng hoảng về đường lối cứu nước và tổ chức lãnh đạo; A cũng mô tả bước phát triển mới về chất.",
     "book_pages": "68–69",
     "answer": "C",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i21": {
     "explanation": "Hội nghị Trung ương 6 tháng 11/1939 khởi đầu việc đặt giải phóng dân tộc lên trước và tạm gác khẩu hiệu cách mạng ruộng đất; Hội nghị 8 tiếp tục phát triển chủ trương.",
     "book_pages": "93, 96",
     "answer": "B",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i36": {
     "explanation": "Luận cương 10/1930 xác định cách mạng tư sản dân quyền tiến lên xã hội chủ nghĩa, bỏ qua thời kỳ tư bản; D cũng gần nội dung nhiệm vụ nên đề chưa thật chặt.",
     "book_pages": "76",
     "answer": "C",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i44": {
     "explanation": "Ba nhóm việc về sở hữu tư liệu lớn, ruộng đất và sản xuất – đời sống đều nằm trong phương diện kinh tế của Cương lĩnh; vài cụm từ trong đề là diễn đạt lại.",
     "book_pages": "65",
     "answer": "D",
-    "teacher_marked": true
+    "pdf_highlighted": true
   },
   "s5-i46": {
     "explanation": "Sau chiến tranh, Liên Xô lớn mạnh là thuận lợi quốc tế; các lựa chọn còn lại là thuận lợi trong nước.",
-    "book_pages": "128–129"
+    "book_pages": "128–129",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i47": {
     "explanation": "Kinh tế sau Cách mạng Tháng Tám kiệt quệ: công nghiệp đình đốn, nông nghiệp hoang hóa và ngân khố trống rỗng.",
-    "book_pages": "130"
+    "book_pages": "130",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i48": {
     "explanation": "Chỉ thị xác định thực dân Pháp là kẻ thù chính, mục tiêu dân tộc giải phóng và khẩu hiệu Dân tộc trên hết, Tổ quốc trên hết.",
-    "book_pages": "131–132"
+    "book_pages": "131–132",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i51": {
     "explanation": "Chỉ thị Kháng chiến kiến quốc xác định mục tiêu cách mạng vẫn là dân tộc giải phóng.",
-    "book_pages": "131"
+    "book_pages": "131",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i52": {
     "explanation": "Việt Bắc là căn cứ địa kháng chiến, nơi đặt các cơ quan lãnh đạo và chiến khu quan trọng.",
-    "book_pages": "144, 154"
+    "book_pages": "144, 154",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i53": {
     "explanation": "Rạng sáng 23/9/1945 quân Pháp đánh chiếm Sài Gòn – Chợ Lớn, mở đầu cuộc chiến tranh xâm lược lần thứ hai.",
-    "book_pages": "130"
+    "book_pages": "130",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i54": {
     "explanation": "Dựa vào sức mình là chính nghĩa là lấy nội lực dân tộc làm chỗ dựa chủ yếu, đồng thời tranh thủ giúp đỡ quốc tế.",
-    "book_pages": "150–151"
+    "book_pages": "150–151",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i55": {
     "explanation": "Pháp bội ước, liên tục lấn tới và gửi tối hậu thư; Việt Nam buộc phải kháng chiến để bảo vệ độc lập.",
-    "book_pages": "146–147"
+    "book_pages": "146–147",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i57": {
     "explanation": "Mỗi người dân tham gia chiến đấu, mỗi làng xã là pháo đài thể hiện phương châm kháng chiến toàn dân.",
-    "book_pages": "149–150"
+    "book_pages": "149–150",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i58": {
     "explanation": "Lời kêu gọi viết: chúng ta muốn hòa bình nên phải nhân nhượng, nhưng Pháp vẫn tiếp tục lấn tới.",
-    "book_pages": "147"
+    "book_pages": "147",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i61": {
     "explanation": "Hiệp định Giơnevơ được ký kết tháng 7/1954 tại Giơnevơ, Thụy Sĩ; mốc của đề là ngày 21/7.",
-    "book_pages": "175–176"
+    "book_pages": "175–176",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i62": {
     "explanation": "Hiệp định ghi nhận quyền dân tộc cơ bản và chấm dứt chiến tranh ở Đông Dương, không duy trì sự bảo hộ của Pháp.",
-    "book_pages": "175–176"
+    "book_pages": "175–176",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i64": {
     "explanation": "Sau năm 1954 đất nước tạm chia làm hai miền, với hai chế độ chính trị – xã hội khác nhau.",
-    "book_pages": "186–187"
+    "book_pages": "186–187",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i65": {
     "explanation": "Chiến thắng Điện Biên Phủ và Hiệp định Giơnevơ kết thúc cuộc kháng chiến chống Pháp kéo dài chín năm; Pháp rút quân theo thỏa thuận.",
-    "book_pages": "175–176"
+    "book_pages": "175–176",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i66": {
     "explanation": "Nghị quyết 15 chủ trương dùng sức mạnh quần chúng, dựa chủ yếu vào lực lượng chính trị, kết hợp lực lượng vũ trang.",
-    "book_pages": "190–191"
+    "book_pages": "190–191",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i68": {
     "explanation": "Nghị quyết 15 xác định tiếp tục cách mạng dân tộc dân chủ nhân dân ở miền Nam để giải phóng miền Nam, thống nhất đất nước.",
-    "book_pages": "190–191"
+    "book_pages": "190–191",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i69": {
     "explanation": "Việc Pháp công nhận Việt Nam là quốc gia tự do trong Liên hiệp Pháp thuộc Hiệp định Sơ bộ 1946, không phải nội dung Giơnevơ 1954.",
-    "book_pages": "140–141, 175–176"
+    "book_pages": "140–141, 175–176",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i70": {
     "explanation": "Hệ thống xã hội chủ nghĩa lớn mạnh và miền Bắc được giải phóng là thuận lợi, không phải khó khăn sau năm 1954.",
-    "book_pages": "182–187"
+    "book_pages": "182–187",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i71": {
     "explanation": "Nghị quyết 15 kết hợp đấu tranh chính trị với lực lượng và đấu tranh vũ trang để giành chính quyền.",
-    "book_pages": "190–191"
+    "book_pages": "190–191",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i72": {
     "explanation": "Đại hội III đề ra hai nhiệm vụ cách mạng ở hai miền; vấn đề thổ địa là cái cốt thuộc Luận cương 1930.",
-    "book_pages": "76, 193–195"
+    "book_pages": "76, 193–195",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i73": {
     "explanation": "Cách mạng xã hội chủ nghĩa miền Bắc giữ vai trò quyết định nhất đối với cách mạng cả nước và sự nghiệp thống nhất.",
-    "book_pages": "194–195"
+    "book_pages": "194–195",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i74": {
     "explanation": "Đại hội III xác định hai nhiệm vụ ở hai miền cùng hướng tới hòa bình, thống nhất nước nhà.",
-    "book_pages": "193–195"
+    "book_pages": "193–195",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i75": {
     "explanation": "Miền Bắc xây dựng tiềm lực xã hội chủ nghĩa, củng cố căn cứ địa và hậu thuẫn cuộc đấu tranh giải phóng miền Nam.",
-    "book_pages": "194–195"
+    "book_pages": "194–195",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i76": {
     "explanation": "Nghị quyết Trung ương 15 tháng 1/1959 mở đường cho cách mạng miền Nam phát triển thế tiến công, tiến tới Đồng khởi.",
-    "book_pages": "190–191"
+    "book_pages": "190–191",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i78": {
     "explanation": "Hội nghị Trung ương năm 1965 xác định phương châm đánh lâu dài, dựa vào sức mình là chính, đồng thời tranh thủ thời cơ.",
-    "book_pages": "206–208"
+    "book_pages": "206–208",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i79": {
     "explanation": "Miền Bắc kết hợp xây dựng kinh tế, quốc phòng và làm hậu phương chi viện miền Nam chống Mỹ.",
-    "book_pages": "207–208"
+    "book_pages": "207–208",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i80": {
     "explanation": "Đường lối 1965 xác định hai miền phối hợp kháng chiến; không chủ trương tiến hành cải cách ruộng đất trên cả nước trong thời điểm đó.",
-    "book_pages": "206–208"
+    "book_pages": "206–208",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i81": {
     "explanation": "Mục tiêu chung là đánh thắng chiến tranh xâm lược, giải phóng miền Nam và tiến tới hòa bình, thống nhất nước nhà.",
-    "book_pages": "206–208"
+    "book_pages": "206–208",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i82": {
     "explanation": "Độc lập chính trị, nhân nhượng kinh tế là sách lược với Pháp giai đoạn 1945–1946, không phải tư tưởng chỉ đạo miền Nam năm 1965.",
-    "book_pages": "132, 206–208"
+    "book_pages": "132, 206–208",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i83": {
     "explanation": "Hai nhiệm vụ miền Bắc xây dựng chủ nghĩa xã hội, miền Nam đấu tranh giải phóng gắn bó và hỗ trợ nhau.",
-    "book_pages": "194–195, 207–208"
+    "book_pages": "194–195, 207–208",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i84": {
     "explanation": "Trung ương 11 tháng 3/1965 và Trung ương 12 tháng 12/1965 nêu quyết tâm đánh thắng giặc Mỹ trên cả nước.",
-    "book_pages": "206–208"
+    "book_pages": "206–208",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i49": {
     "answer": "A",
     "explanation": "Trong Tuyên ngôn Độc lập, hai cụm cần điền đều theo thứ tự “tự do và độc lập”; đáp án gốc C đảo ngược thứ tự.",
-    "book_pages": "118"
+    "book_pages": "118",
+    "pdf_highlighted": true
   },
   "s5-i50": {
     "explanation": "Lời kêu gọi Toàn quốc kháng chiến được viết ngày 19/12/1946; nếu hỏi thời điểm phát trên đài thì là ngày 20/12, đề thiếu mốc này.",
     "book_pages": "147–148",
     "source": "https://baotanglichsu.vn/vi/Articles/1001/13640/gioi-thieu-bao-vat-quoc-gia-10-ban-thao-loi-keu-goi-toan-quoc-khang-chien.html",
-    "answer": "D"
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i60": {
     "explanation": "Chiến dịch kết thúc chiều 7/5/1954; 17 giờ 30 là mốc thường dùng cho việc bắt sống tướng Đờ Cát.",
     "book_pages": "172–173",
     "source": "https://nhandan.vn/dau-an-cua-su-doan-304-trong-chien-dich-ien-bien-phu-post201396.html",
-    "answer": "D"
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i77": {
     "explanation": "Hội nghị Trung ương 11 và 12 khóa III năm 1965 cùng hoàn chỉnh đường lối kháng chiến chống Mỹ trên phạm vi cả nước.",
     "book_pages": "206–208",
-    "answer": "D"
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i86": {
     "explanation": "Sau chiến tranh đặc biệt, Mỹ chuyển sang chiến tranh cục bộ và đưa quân chiến đấu Mỹ, đồng minh trực tiếp tham chiến.",
-    "book_pages": "204–205"
+    "book_pages": "204–205",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i87": {
     "explanation": "Đường lối năm 1965 nhấn mạnh xây dựng kinh tế, quốc phòng và chi viện miền Nam; cách gọi công nghiệp hóa, hiện đại hóa thuộc giai đoạn sau.",
-    "book_pages": "206–208"
+    "book_pages": "206–208",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i88": {
     "explanation": "Điều 1 Hiệp định Pari 1973 ghi nhận các quyền độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ Việt Nam.",
-    "book_pages": "228"
+    "book_pages": "228",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i89": {
     "explanation": "Hiệp định Pari nêu các quyền dân tộc cơ bản theo thứ tự độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ.",
-    "book_pages": "228"
+    "book_pages": "228",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i92": {
     "explanation": "Điều 1 Hiệp định Pari mở đầu bằng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ.",
-    "book_pages": "228"
+    "book_pages": "228",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i93": {
     "explanation": "Đại hội VI diễn ra tại Hà Nội từ ngày 15 đến ngày 18/12/1986.",
-    "book_pages": "260–261"
+    "book_pages": "260–261",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i94": {
     "explanation": "Đại hội VI chủ trương đổi mới cơ chế quản lý, xóa bỏ tập trung quan liêu bao cấp và chuyển sang hạch toán kinh doanh.",
-    "book_pages": "262"
+    "book_pages": "262",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i95": {
     "explanation": "Mục tiêu tổng quát gồm sản xuất đủ tiêu dùng, có tích lũy và bước đầu tạo cơ cấu kinh tế hợp lý.",
-    "book_pages": "262"
+    "book_pages": "262",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i97": {
     "explanation": "Đại hội VI thực hiện nhất quán chính sách phát triển nhiều thành phần kinh tế.",
-    "book_pages": "262"
+    "book_pages": "262",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i99": {
-    "explanation": "Đại hội VII thông qua Cương lĩnh năm 1991 và Chiến lược ổn định, phát triển kinh tế – xã hội đến năm 2000.",
-    "book_pages": "272"
+    "explanation": "PDF mới tô vàng A. Tuy nhiên Đại hội VII thông qua cả Cương lĩnh 1991 (A) và Chiến lược đến năm 2000 (B), vì vậy phương án D bao quát hơn nếu hỏi các văn kiện. Web chấm A theo dấu tô vàng.",
+    "book_pages": "272",
+    "answer": "A",
+    "pdf_highlighted": true,
+    "caution": true
   },
   "s5-i100": {
     "explanation": "Cương lĩnh năm 1991 khái quát sáu đặc trưng của xã hội xã hội chủ nghĩa.",
-    "book_pages": "273"
+    "book_pages": "273",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i104": {
     "explanation": "Cương lĩnh 1991 nêu các dân tộc trong nước bình đẳng, đoàn kết và giúp đỡ nhau cùng tiến bộ.",
-    "book_pages": "273"
+    "book_pages": "273",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i106": {
     "explanation": "Xây dựng văn hóa hướng tới hạnh phúc và sự phát triển phong phú, tự do, toàn diện của con người.",
-    "book_pages": "294"
+    "book_pages": "294",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i107": {
     "explanation": "Đại hội VIII coi phát huy nguồn lực con người là yếu tố cơ bản cho phát triển nhanh và bền vững.",
-    "book_pages": "287"
+    "book_pages": "287",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i109": {
     "explanation": "Nghị quyết nêu nền văn hóa Việt Nam thống nhất trong đa dạng của cộng đồng các dân tộc.",
-    "book_pages": "295"
+    "book_pages": "295",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i110": {
     "explanation": "Năm 1991, sau hơn bốn năm đổi mới, đất nước cơ bản ổn định nhưng chưa ra khỏi khủng hoảng kinh tế – xã hội.",
-    "book_pages": "272"
+    "book_pages": "272",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i111": {
     "explanation": "Nhà nước pháp quyền xã hội chủ nghĩa là của nhân dân, do nhân dân, vì nhân dân, không phải quyền lực riêng của một cá nhân.",
-    "book_pages": "339"
+    "book_pages": "339",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i113": {
     "explanation": "Cương lĩnh 2011 xác định các dân tộc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển.",
-    "book_pages": "339"
+    "book_pages": "339",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i114": {
     "explanation": "Đại hội VIII nêu sáu quan điểm về công nghiệp hóa, hiện đại hóa.",
-    "book_pages": "287"
+    "book_pages": "287",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i116": {
     "explanation": "Cương lĩnh 2011 xác định kinh tế nhà nước giữ vai trò chủ đạo trong nền kinh tế nhiều thành phần.",
-    "book_pages": "341–342"
+    "book_pages": "341–342",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i117": {
     "explanation": "Nghị quyết Trung ương 5 khóa VIII xác định văn hóa vừa là mục tiêu, vừa là động lực phát triển kinh tế – xã hội.",
-    "book_pages": "294"
+    "book_pages": "294",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i118": {
     "explanation": "Quan hệ hữu nghị với nhân dân các nước là đặc trưng đối ngoại của Cương lĩnh 1991, không phải một trong sáu quan điểm công nghiệp hóa của Đại hội VIII.",
-    "book_pages": "273, 287"
+    "book_pages": "273, 287",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i119": {
     "explanation": "Văn hóa là nền tảng tinh thần của xã hội, vừa là mục tiêu vừa là động lực phát triển kinh tế – xã hội.",
-    "book_pages": "294"
+    "book_pages": "294",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i120": {
     "explanation": "Đại hội IX xác định kinh tế hàng hóa nhiều thành phần vận hành theo cơ chế thị trường, có quản lý của Nhà nước theo định hướng xã hội chủ nghĩa.",
-    "book_pages": "300"
+    "book_pages": "300",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i122": {
     "explanation": "Mô hình Đại hội IX có nhiều hình thức sở hữu, nhiều thành phần và hình thức phân phối; không chỉ hai thành phần.",
-    "book_pages": "299–300"
+    "book_pages": "299–300",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i124": {
     "explanation": "Cương lĩnh 2011 bổ sung đặc trưng tổng quát dân giàu, nước mạnh, dân chủ, công bằng, văn minh.",
-    "book_pages": "339–340"
+    "book_pages": "339–340",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i125": {
     "explanation": "Đại hội IX nêu mở rộng đối ngoại, chủ động hội nhập kinh tế quốc tế.",
-    "book_pages": "300"
+    "book_pages": "300",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i126": {
     "explanation": "Cương lĩnh 2011 viết xã hội do nhân dân làm chủ; bản 1991 viết nhân dân lao động làm chủ.",
-    "book_pages": "273, 339"
+    "book_pages": "273, 339",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i127": {
     "explanation": "Cương lĩnh 2011 xác định con người có cuộc sống ấm no, tự do, hạnh phúc và điều kiện phát triển toàn diện.",
-    "book_pages": "339"
+    "book_pages": "339",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i128": {
     "explanation": "Đại hội VIII chủ trương dựa vào nguồn lực trong nước là chính, đồng thời tranh thủ tối đa nguồn lực bên ngoài.",
-    "book_pages": "287"
+    "book_pages": "287",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i129": {
     "explanation": "Cương lĩnh 2011 nêu nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và quan hệ sản xuất tiến bộ, phù hợp.",
-    "book_pages": "339"
+    "book_pages": "339",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i130": {
     "explanation": "Cương lĩnh bổ sung năm 2011 nêu tầm nhìn đến giữa thế kỷ XXI xây dựng nước công nghiệp hiện đại theo định hướng xã hội chủ nghĩa.",
-    "book_pages": "340"
+    "book_pages": "340",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i131": {
     "explanation": "Đặc trưng tổng quát dân giàu, nước mạnh, dân chủ, công bằng, văn minh được bổ sung trong Cương lĩnh 2011.",
-    "book_pages": "339–340"
+    "book_pages": "339–340",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i133": {
     "explanation": "Trong Đường cách mệnh, Nguyễn Ái Quốc nhấn mạnh Đảng muốn vững phải có chủ nghĩa làm cốt.",
-    "book_pages": "53"
+    "book_pages": "53",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i134": {
     "explanation": "Luận cương chính trị tháng 10/1930 nêu cách mạng tư sản dân quyền, sau đó bỏ qua thời kỳ tư bản đi lên xã hội chủ nghĩa.",
-    "book_pages": "76"
+    "book_pages": "76",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i135": {
     "explanation": "Cương lĩnh 2011 nêu tám phương hướng xây dựng chủ nghĩa xã hội; mối quan hệ riêng giữa Nhà nước và doanh nghiệp không được liệt kê như một phương hướng độc lập.",
-    "book_pages": "340–341"
+    "book_pages": "340–341",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i136": {
     "explanation": "Một trong ba đột phá chiến lược của Đại hội XIII là phát triển nguồn nhân lực, nhất là nhân lực chất lượng cao.",
-    "book_pages": "392–393"
+    "book_pages": "392–393",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i137": {
     "explanation": "Một phương hướng trong Cương lĩnh 2011 là xây dựng Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân.",
-    "book_pages": "340–341"
+    "book_pages": "340–341",
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i141": {
     "explanation": "Đại hội XIII năm 2021 nhấn mạnh khơi dậy khát vọng phát triển, tinh thần yêu nước và ý chí tự cường.",
-    "book_pages": "388"
+    "book_pages": "388",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i142": {
     "explanation": "Cương lĩnh 2011 chủ trương đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và chủ động, tích cực hội nhập quốc tế.",
-    "book_pages": "340–341"
+    "book_pages": "340–341",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i143": {
     "explanation": "Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân là đặc trưng được nêu trong Cương lĩnh 2011.",
-    "book_pages": "339"
+    "book_pages": "339",
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i144": {
     "explanation": "Cả Cương lĩnh 1991 và Cương lĩnh 2011 đều nêu nền văn hóa tiên tiến, đậm đà bản sắc dân tộc.",
-    "book_pages": "273, 339"
+    "book_pages": "273, 339",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i145": {
     "explanation": "Sáu quan điểm công nghiệp hóa của Đại hội VIII gồm nguồn lực con người, vai trò các thành phần kinh tế và kết hợp kinh tế với quốc phòng.",
-    "book_pages": "287"
+    "book_pages": "287",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i146": {
     "explanation": "Ngày 7/4/1975, Đại tướng Võ Nguyên Giáp ra mệnh lệnh thần tốc, táo bạo tiến quân giải phóng miền Nam.",
-    "book_pages": "232"
+    "book_pages": "232",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i147": {
     "explanation": "Bản sắc dân tộc gồm các giá trị bền vững và tinh hoa của cộng đồng các dân tộc Việt Nam được vun đắp qua lịch sử.",
-    "book_pages": "294–295"
+    "book_pages": "294–295",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i148": {
     "explanation": "Đại hội IX xác định Việt Nam sẵn sàng là bạn, đối tác tin cậy, phấn đấu vì hòa bình, độc lập và phát triển.",
-    "book_pages": "300"
+    "book_pages": "300",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i149": {
     "explanation": "Cuối năm 1946 Pháp đánh Hải Phòng, Lạng Sơn, chiếm đóng trái phép ở Đà Nẵng và gây hấn tại Hà Nội.",
-    "book_pages": "146–147"
+    "book_pages": "146–147",
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i150": {
     "explanation": "Đại hội IX xác định mô hình kinh tế tổng quát là kinh tế thị trường định hướng xã hội chủ nghĩa, với nhiều hình thức sở hữu và phân phối.",
-    "book_pages": "300"
+    "book_pages": "300",
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s5-i90": {
     "explanation": "Việt Nam hóa chiến tranh bắt đầu từ năm 1969 và tiếp diễn đầu thập niên 1970; khoảng 1969–1972 là gần nhất trong các lựa chọn.",
     "book_pages": "222–228",
     "source": "https://www.tqsqk7.edu.vn/upload/16/151/L%E1%BB%8Bch%20s%E1%BB%AD%20KHCM%20T9.pdf",
-    "answer": "D"
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i102": {
-    "explanation": "Văn hóa vừa là mục tiêu vừa là động lực phát triển; con người là trung tâm và chủ thể của phát triển nên C cũng có liên hệ.",
+    "explanation": "Quan điểm của Đảng xác định con người là mục tiêu và động lực của sự phát triển.",
     "book_pages": "294",
-    "answer": "D"
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i103": {
     "explanation": "Nhà nước pháp quyền xã hội chủ nghĩa do Đảng lãnh đạo là đặc trưng nêu rõ trong Cương lĩnh 2011; D cũng thay “hưởng theo lao động” của năm 1991 bằng “hưởng theo nhu cầu”.",
     "book_pages": "273, 339",
-    "answer": "C"
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i105": {
     "explanation": "Đặc trưng Nhà nước pháp quyền thuộc Cương lĩnh 2011, không được liệt kê bằng cách diễn đạt này trong sáu đặc trưng năm 1991.",
     "book_pages": "273, 339",
-    "answer": "C"
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i108": {
-    "answer": "B",
-    "explanation": "Cương lĩnh 1991 nêu làm theo năng lực, hưởng theo lao động; đáp án gốc hưởng theo nhu cầu là sai.",
-    "book_pages": "273"
+    "answer": "C",
+    "explanation": "PDF mới tô vàng C (“nhu cầu”), nhưng đặc trưng trong Cương lĩnh 1991 viết “làm theo năng lực, hưởng theo lao động” (B). Web chấm C theo dấu tô vàng; nên kiểm tra lại với giảng viên.",
+    "book_pages": "273",
+    "pdf_highlighted": true,
+    "caution": true
   },
   "s5-i112": {
     "explanation": "Quan điểm Đại hội VIII nêu khoa học – công nghệ là động lực và kết hợp công nghệ truyền thống với hiện đại.",
     "book_pages": "287",
-    "answer": "B"
+    "answer": "B",
+    "pdf_highlighted": true
   },
   "s5-i115": {
     "explanation": "Ưu tiên công nghiệp nặng là trọng tâm mô hình trước Đổi mới, không phải quan điểm khái quát của công nghiệp hóa thời đổi mới.",
     "book_pages": "195–196, 287",
-    "answer": "D"
+    "answer": "D",
+    "pdf_highlighted": true
   },
   "s5-i123": {
     "explanation": "Đại hội IX nhấn mạnh quan hệ rộng mở, đa phương hóa; C đặt riêng ba nước Đông Dương như quan hệ sống còn nên không phản ánh đủ đường lối này.",
     "book_pages": "300",
-    "answer": "C"
+    "answer": "C",
+    "pdf_highlighted": true
   },
   "s5-i132": {
     "answer": "A",
     "explanation": "Theo giáo trình, đặc trưng văn hóa tiên tiến, đậm đà bản sắc dân tộc được giữ nguyên; đặc trưng đối ngoại đổi từ nhân dân tất cả các nước sang các nước trên thế giới.",
-    "book_pages": "273, 339–340"
+    "book_pages": "273, 339–340",
+    "pdf_highlighted": true
   },
   "s5-i139": {
     "explanation": "Mốc 11 giờ 30 ngày 30/4/1975 gắn với cờ chiến thắng trên Dinh Độc Lập và được dùng để ghi nhớ thắng lợi chiến dịch.",
     "book_pages": "232–233",
-    "answer": "A"
+    "answer": "A",
+    "pdf_highlighted": true
   },
   "s10-i1": {
     "explanation": "Thống nhất đất nước về mặt nhà nước là nhiệm vụ cấp thiết sau thắng lợi mùa Xuân 1975.",
